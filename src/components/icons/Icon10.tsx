@@ -1,5 +1,5 @@
 import * as React from "react";
-const SvgComponent = props => <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="1em" height="1em" viewBox="0 0 1000 1000" xmlSpace="preserve" {...props}><desc>{"Created with Fabric.js 3.5.0"}</desc><defs /><g transform="matrix(1 0 0 1 341.8157 500)" id={150688}><g style={{}} vectorEffect="non-scaling-stroke"><g transform="matrix(33.3333 0 0 33.3333 -0.0005 -0.0005)"><path style={{
+const SvgComponent = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="1em" height="1em" viewBox="0 0 1000 1000" xmlSpace="preserve" {...props}><desc>{"Created with Fabric.js 3.5.0"}</desc><defs /><g transform="matrix(1 0 0 1 341.8157 500)" id="150688"><g style={{}} vectorEffect="non-scaling-stroke"><g transform="matrix(33.3333 0 0 33.3333 -0.0005 -0.0005)"><path style={{
           stroke: "none",
           strokeWidth: 1,
           strokeDasharray: "none",
@@ -7,8 +7,6 @@ const SvgComponent = props => <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink
           strokeDashoffset: 0,
           strokeLinejoin: "miter",
           strokeMiterlimit: 4,
-          isCustomFont: "none",
-          fontFileUrl: "none",
           fill: "none",
           fillRule: "nonzero",
           opacity: 1
@@ -20,12 +18,10 @@ const SvgComponent = props => <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink
           strokeDashoffset: 0,
           strokeLinejoin: "miter",
           strokeMiterlimit: 4,
-          isCustomFont: "none",
-          fontFileUrl: "none",
           fill: "rgb(0,0,0)",
           fillRule: "nonzero",
           opacity: 1
-        }} transform=" translate(-10.75, -11.75)" d="M 14 1.5 V 22 h -2 V 3.704 L 7.5 4.91 V 2.839 l 5 -1.339 z" strokeLinecap="round" /></g></g></g><g transform="matrix(1 0 0 1 658.1843 500)" id={495044}><g style={{}} vectorEffect="non-scaling-stroke"><g transform="matrix(33.3333 0 0 33.3333 -0.0005 -0.0005)"><path style={{
+        }} transform=" translate(-10.75, -11.75)" d="M 14 1.5 V 22 h -2 V 3.704 L 7.5 4.91 V 2.839 l 5 -1.339 z" strokeLinecap="round" /></g></g></g><g transform="matrix(1 0 0 1 658.1843 500)" id="495044"><g style={{}} vectorEffect="non-scaling-stroke"><g transform="matrix(33.3333 0 0 33.3333 -0.0005 -0.0005)"><path style={{
           stroke: "none",
           strokeWidth: 1,
           strokeDasharray: "none",
@@ -33,8 +29,6 @@ const SvgComponent = props => <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink
           strokeDashoffset: 0,
           strokeLinejoin: "miter",
           strokeMiterlimit: 4,
-          isCustomFont: "none",
-          fontFileUrl: "none",
           fill: "none",
           fillRule: "nonzero",
           opacity: 1
@@ -46,8 +40,6 @@ const SvgComponent = props => <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink
           strokeDashoffset: 0,
           strokeLinejoin: "miter",
           strokeMiterlimit: 4,
-          isCustomFont: "none",
-          fontFileUrl: "none",
           fill: "rgb(0,0,0)",
           fillRule: "nonzero",
           opacity: 1

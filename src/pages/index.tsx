@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable @next/next/no-html-link-for-pages */
 import { AcademicCapIcon, BookOpenIcon, ClipboardDocumentListIcon, PhotoIcon } from '@heroicons/react/24/outline'
 
