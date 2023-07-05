@@ -48,6 +48,11 @@ jobs:
           else
             echo "Unable to determine package manager"
             exit 1
+            git config --global user.name "biancamnc"
+    git config --global user.email "biancamihaelaminca@gmail.com"
+    git add -A
+    git commit -m "New Build"
+    git push
           fi
       - name: Setup Node
         uses: actions/setup-node@v3
