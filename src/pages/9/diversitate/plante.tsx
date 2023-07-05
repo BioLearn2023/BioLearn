@@ -100,8 +100,8 @@
                         - încrengătura phaeophita - brune: Laminaria sp <br/>
                         <span className="underline decoration-wavy text-green-700">b. Mușchii (=briofite) </span> <br/>
                         <div className="flex justify-center -mt-32 ml-[45%]">
-                            <Image src="/images/matasea-broastei.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/laminaria-sp.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/matasea-broastei.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/laminaria-sp.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div> 
             
@@ -133,7 +133,7 @@
                         - formează primul strat de sol <br/>
                         - din unele specii se obține glucoza medicinală, turmesolul, sau medicamente pentru tratarea bronșitei, hepatitei <br/>
                         <div className="flex justify-end -mt-64 ml-[60%]">
-                            <Image src="/images/licheni.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/licheni.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
 
@@ -178,7 +178,7 @@
                         - aranjamente florale <br/>
                         - împreună cu lichenii îngroașă pătura de sol de pe substrat <br/>
                         <div className="flex justify-start -mt-[0%]">
-                            <Image src="/images/muschi.jpg" width={450} height={350} alt="" className="rounded-lg"/>
+                            <img src="/images/muschi.jpg" width={450} height={350} alt="" className="rounded-lg"/>
                         </div>
                      </div>
 

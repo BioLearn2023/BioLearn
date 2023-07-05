@@ -80,7 +80,7 @@
                          <br/>
                          - Este format din rinichi și căi urinare. <br/>
                          <div className="flex justify-center ml-[65%] -mt-32">
-                            <Image src="/images2/excretor.jpg" width={400} height={400} alt="sistemul-excretor" className="rounded-lg"/>
+                            <img src="/images2/excretor.jpg" width={400} height={400} alt="sistemul-excretor" className="rounded-lg"/>
                         </div>
                      </div>
  

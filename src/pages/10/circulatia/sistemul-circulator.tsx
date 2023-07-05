@@ -98,7 +98,7 @@
                          - de sânge: artere, vene, capilare (la nivelul lor are loc schimbul de gaze) <br/>
                          - limfatice: ganglionii limfatici, organe limfoide <br/>
                          <div className="flex justify-center ml-[75%] -mt-32">
-                            <Image src="/images2/circulator.jpeg" width={300} height={300} alt="Sistemul circulator" className="rounded-lg" />
+                            <img src="/images2/circulator.jpeg" width={300} height={300} alt="Sistemul circulator" className="rounded-lg" />
                         </div>
                      </div>
  

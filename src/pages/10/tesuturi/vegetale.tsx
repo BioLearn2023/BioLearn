@@ -66,7 +66,7 @@
                         - combiul vascular (libero-lemnos) <br/>
                         - asigură îngroșarea secundară a rădăcinii și tulpinii <br/>
                         <div className="flex justify-end -mt-64">
-                            <Image src="/images2/embrionare.jpg" width={400} height={300} alt="tesuturi" className="rounded-lg"/>
+                            <img src="/images2/embrionare.jpg" width={400} height={300} alt="tesuturi" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -83,7 +83,7 @@
                         4. Secretoare <br/>
                         5. Mecanice <br/>
                         <div className="flex justify-end -mt-64">
-                            <Image src="/images2/definitive.png" width={400} height={300} alt="tesuturi" className="rounded-lg"/>
+                            <img src="/images2/definitive.png" width={400} height={300} alt="tesuturi" className="rounded-lg"/>
                         </div>
                     </div>
 

@@ -56,7 +56,7 @@
                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">A. Tunici</span> (= învelișuri) <br/>
                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">B. Sistem optic</span> <br/>
                         <div className="flex justify-center -mt-24 ml-[65%]">
-                            <Image src="/images2/ochiul.jpg" width={400} height={300} alt="ochiul" className="rounded-lg"/>
+                            <img src="/images2/ochiul.jpg" width={400} height={300} alt="ochiul" className="rounded-lg"/>
                         </div>
                      </div>
  

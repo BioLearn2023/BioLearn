@@ -47,7 +47,7 @@
                         - urechea medie <br/>
                         - urechea externă <br/>
                         <div className="flex justify-center -mt-24">
-                            <Image src="/images2/urechea.jpeg" width={500} height={300} alt="urechea" className="rounded-lg"/>
+                            <img src="/images2/urechea.jpeg" width={500} height={300} alt="urechea" className="rounded-lg"/>
                         </div>
                      </div>
  

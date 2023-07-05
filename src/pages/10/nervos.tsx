@@ -51,7 +51,7 @@
                         - La baza funcționării sistemului nervos stă arcul reflex, care constă în răspunsul organismului la acțiunea unor stimuli din mediul extern sau intern. <br/>
                         <br/>
                         <div className="flex justify-center">
-                            <Image src="/images2/nervos.jpg" width={500} height={300} alt="sistemul-nervos" className="rounded-lg"/>
+                            <img src="/images2/nervos.jpg" width={500} height={300} alt="sistemul-nervos" className="rounded-lg"/>
                         </div>
                      </div>
  

@@ -101,7 +101,7 @@
                         - bronhii <br/>
                         2. Plămâni <br/>
                         <div className="flex justify-center -mt-64">
-                            <Image src="/images2/respirator.jpg" width={500} height={300} alt="sistemul-respirator" className="rounded-lg"/>
+                            <img src="/images2/respirator.jpg" width={500} height={300} alt="sistemul-respirator" className="rounded-lg"/>
                         </div>
                      </div>
  

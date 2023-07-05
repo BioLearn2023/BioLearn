@@ -63,8 +63,8 @@
                          - de tip procariot = o singură moleculă de ADN (un singur cromozom bacterian) <br/>
                          - de tip eucariot = ADN + proteine + lipide + ioni <br/>
                          <div className="flex justify-center -mt-32 ml-[53%]">
-                            <Image src="/images/cromozomi1.jpeg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/cromozomi2.jpg" width={300} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/cromozomi1.jpeg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/cromozomi2.jpg" width={300} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  

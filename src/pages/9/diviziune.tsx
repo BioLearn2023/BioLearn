@@ -72,7 +72,7 @@
                         - nucleul se alungește și se fragmentează =&gt; 2 celule fiice <br/>
                         - la bacterii <br/>
                         <div className="flex justify-center -mt-72 ml-[60%]">
-                            <Image src="/images/amitoza.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/amitoza.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -92,7 +92,7 @@
                          - diviziunea este un fenomen ciclic <br/>
                          Ciclul celular = ansamblu de transport care se produce din momentul formării celulei și până în momentul unei noi diviziuni <br/>
                          <div className="flex justify-start -mt-24">
-                            <Image src="/images/ciclul-celular.jpg" width={250} height={250} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/ciclul-celular.jpg" width={250} height={250} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
                      

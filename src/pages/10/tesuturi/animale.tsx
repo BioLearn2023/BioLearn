@@ -62,7 +62,7 @@
                         <span className="underline decoration-wavy text-green-700">c) epitelii senzoriale</span> <br/>
                         - intră în alcătuirea organelor de simț <br/>
                         <div className="flex justify-end -mt-64">
-                            <Image src="/images2/epiteliale.jpg" width={500} height={300} alt="tesuturi" className="rounded-lg"/>
+                            <img src="/images2/epiteliale.jpg" width={500} height={300} alt="tesuturi" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -89,7 +89,7 @@
                         - se găsește în epifize și în interiorul oaselor scurte și late <br/>
                         <span className="underline decoration-wavy text-green-700">d) Țesutul conjunctiv fluid = sângele</span> <br/>
                         <div className="flex justify-start -mt-72">
-                            <Image src="/images2/conjunctiv.jpg" width={500} height={300} alt="tesuturi" className="rounded-lg"/>
+                            <img src="/images2/conjunctiv.jpg" width={500} height={300} alt="tesuturi" className="rounded-lg"/>
                         </div>
                      </div>
 
@@ -101,7 +101,7 @@
                         - poate fi: striat - se află în mușchii scheletici și în musculatura unor organe interne (ex: limba, far inge, prima parte a esofagului), fibrele musculare sunt cilindrice, polinucleate, au contracții voluntare <br/>
                         - neted - în pereții organitelor interne, fibrele musculare au formă de fus și au nucleu central, au contracții voluntare <br/>
                         <div className="flex justify-center ">
-                            <Image src="/images2/muscular.png" width={500} height={300} alt="tesuturi" className="rounded-lg"/>
+                            <img src="/images2/muscular.png" width={500} height={300} alt="tesuturi" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -118,7 +118,7 @@
                         *Sinapsa = legătura dintre neuroni și dintre neuroni și celulele efectoare (musculare și glandulare) <br/>
                         <br/>
                         <div className="flex justify-center ">
-                            <Image src="/images2/nervos.jpg" width={500} height={300} alt="tesuturi" className="rounded-lg"/>
+                            <img src="/images2/nervos.jpg" width={500} height={300} alt="tesuturi" className="rounded-lg"/>
                         </div>
                     </div>
                  </div>

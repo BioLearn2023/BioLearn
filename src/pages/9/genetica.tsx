@@ -73,11 +73,11 @@
                         - cei afectați nu pot distinge culorile, cu precădere roșul de verde (sunt în special de sex masculin) <br/>
                         <br/>
                         <div className="flex justify-end mr-[9%]">
-                            <Image src="/images/albinism.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/polidactilia.jpeg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/sindonctilia.jpeg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/daltonism.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/prognatism.jpeg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/albinism.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/polidactilia.jpeg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/sindonctilia.jpeg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/daltonism.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/prognatism.jpeg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  

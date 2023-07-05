@@ -57,8 +57,8 @@
                             - În plasmă există anitcorpi pentru aceste antigene, anticorpi anti A și anticorpi anti B. <br/>
                             - Anticorpii nu trebuie să intre în contacr cu antigena, pentru că produc distrugerea hematiei (pot produce moartea). De aceea, este foarte important să cunoaștem grupa de sânge pentru o eventuală transfuzie. <br/>
                         <div className="flex justify-center mt-10">
-                            <Image src="/images/sange.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/sange2.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/sange.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/sange2.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  

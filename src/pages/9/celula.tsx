@@ -54,7 +54,7 @@ export default function Celula() {
                 <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definiție: </span> Celula este unitatea de bază, strcturală, funcțională și genetică a unui organism. <br/>
                 <br/>
                 <div className="flex justify-center">
-                <Image src="/images/celula.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                <img src="/images/celula.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                 </div>
                 </div>
                 </div>
@@ -76,8 +76,8 @@ export default function Celula() {
                   - piramidală <br/>
                   - stelată <br/>
                   <span className="flex justify-left -mt-48">
-                  <Image src="/images/hematii.jpg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
-                  <Image src="/images/neuroni.jpg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
+                  <img src="/images/hematii.jpg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
+                  <img src="/images/neuroni.jpg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
                   </span>
                 </div>
               </div>
@@ -101,8 +101,8 @@ export default function Celula() {
                   - ARN = acid ribonucleic <br/>
                   <span className="underline decoration-dotted">Rol:</span> determină sinteza proteinelor
                   <span className="flex justify-left -mt-32">
-                  <Image src="/images/adn.jpeg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
-                  <Image src="/images/arn.jpg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
+                  <img src="/images/adn.jpeg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
+                  <img src="/images/arn.jpg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
                   </span>
                 </div>
               </div>

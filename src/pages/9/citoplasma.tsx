@@ -74,7 +74,7 @@ export default function Citoplasma() {
                         *coloizi = mici particule ce se găsesc într-o continuă mișcare browniană  <br/>
                         - Ea pendulează între două stări reversibile: plasmasol (starea lichidă) și plasmagel (starea solidă). <br/>
                         <div className="flex justify-start -mt-32">
-                            <Image src="/images/hialoplasma.webp" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/hialoplasma.webp" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -85,7 +85,7 @@ export default function Citoplasma() {
                         - Determină arhitectura celulei. <br/>
                         - Este reprezentat de molecule proteice dispuse sub formă de rețea tridimensională pe care se dispun organitele celulare. <br/>
                         <div className="flex justify-end -mt-24">
-                            <Image src="/images/citoscheletul.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/citoscheletul.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
                     

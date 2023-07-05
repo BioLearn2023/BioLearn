@@ -61,7 +61,7 @@
                             - aparatul fotosintetic <br/>
                             - sistemul vascular <br/>
                             <div className="flex justify-center -mt-64 ml-[55%]">
-                            <Image src="/images/celula-procariota.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/celula-procariota.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                             </div>
                         </div>
  
@@ -84,7 +84,7 @@
                          - Separă peretele celular de citoplasmă. <br/>
                          - Din punct de vedere chimic este de natură lipoproteică. <br/>
                          <div className="flex justify-end -mt-24">
-                            <Image src="/images/membrana.png" width={450} height={450} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/membrana.png" width={450} height={450} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -95,7 +95,7 @@
                          - Este o invaginare a membranei celulare. <br/>
                          - Are rol în respirație și ancorarea nucleoidului. <br/>
                          <div className="flex justify-start -mt-24">
-                            <Image src="/images/mezozom.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/mezozom.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
                      

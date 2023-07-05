@@ -82,7 +82,7 @@
                         - sunt anucleate <br/>
                         - conțin o proteină ce conține fier (hemoglobina) <br/>
                         <div className="flex justify-center ml-[65%] -mt-32">
-                            <Image src="/images2/hematii.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images2/hematii.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
                      
@@ -95,7 +95,7 @@
                         - au rol în imunitate <br/>
                         *Imunitatea = capacitatea corpului de a recunoaște, neutraliza și distruge particulele stăine numite antigene,<br/> prin producerea de anticorpi <br/>
                         <div className="flex justify-center ml-[65%] -mt-32">
-                            <Image src="/images2/leucocite.webp" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images2/leucocite.webp" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
 
@@ -107,7 +107,7 @@
                         - fragmente de celule cu membrană, citoplasmă și nu au nucleu <br/>
                         - asigură coagularea sângelui <br/>
                         <div className="flex justify-center ml-[65%] -mt-32">
-                            <Image src="/images2/trombocite.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images2/trombocite.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
                  </div>

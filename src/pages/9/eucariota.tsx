@@ -66,8 +66,8 @@ export default function Eucariota() {
                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Celula vegetală: </span>perete celular, plastide, vacuole mari și permanente. <br/>
                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Celula animală: </span>nu are perete celular, nu are plastide, vacuole mici și temporare. <br/>
                         <div className="flex justify-end -mt-32">
-                            <Image src="/images/celula-vegetala.png" width={250} height={250} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/celula-animala.png" width={450} height={250} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/celula-vegetala.png" width={250} height={250} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/celula-animala.png" width={450} height={250} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 

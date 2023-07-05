@@ -99,7 +99,7 @@
                         - clasa hidrozoare - hidra de apă dulce <br/>
                         - clasa scizofoare - meduza <br/>
                         <div className="flex justify-center -mt-44 ml-[60%]">
-                            <Image src="/images/meduza.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/meduza.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -113,7 +113,7 @@
                         - clasa termatode - viermele de gălbează <br/>
                         - clasa cestode - tenia <br/>
                         <div className="flex justify-center -mt-44 mr-[70%]">
-                            <Image src="/images/tenia.jpeg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/tenia.jpeg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -125,7 +125,7 @@
                         - corpul cilindric, ascuțit la capete <br/>
                         - grupate în: clasa nematode - limbricul, trichina, oxiurul<br/>
                         <div className="flex justify-center -mt-32 ml-[60%]">
-                            <Image src="/images/trichina.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/trichina.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
                      
@@ -137,7 +137,7 @@
                         - corpul alcătuit din inele care corespund unui compartimentări interne <br/>
                         - grupate în: clasa oligochete (ex: râma) și clasa hrudinee (ex: lipitoarea)<br/>
                         <div className="flex justify-center -mt-32 mr-[70%]">
-                            <Image src="/images/lipitori.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/lipitori.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
 
@@ -165,7 +165,7 @@
                         1. clasa pești osoși - crap, somn, biban, caras, scrumbie <br/>
                         2. clasa pești osoși cartilaginoși - cega, morun, nisetru, păstruga <br/>
                         <div className="flex justify-center -mt-52 ml-[60%]">
-                            <Image src="/images/nisetru.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/nisetru.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -186,7 +186,7 @@
                         - ordinul anure (amfibieni fără coadă): broasca de lac, brotăcelul <br/>
                         - ordinul urodele (amfibieni cu coadă): salamandra, triton <br/>
                         <div className="flex justify-center -mt-24 mr-[70%]">
-                            <Image src="/images/triton.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/triton.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -202,7 +202,7 @@
                         - clasa lamelibranhiate (scoici)<br/>
                         - clasa cefalopode (sepie, caracatița)<br/>
                         <div className="flex justify-center -mt-16 ml-[60%]">
-                            <Image src="/images/caracatita.webp" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/caracatita.webp" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -222,7 +222,7 @@
                         - clasa crustacee: rac, crab, crevete <br/>
                         - clasa insecte: fluturi, gândaci, lăcuste, furnici, libelule <br/>
                         <div className="flex justify-center -mt-16 mr-[70%]">
-                            <Image src="/images/scorpion.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/scorpion.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -239,7 +239,7 @@
                         - chelonieni: broaște țestoase <br/>
                         - crocodilieni: aligator, crocodil <br/>
                         <div className="flex justify-center -mt-64 ml-[60%]">
-                            <Image src="/images/aligator.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/aligator.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -263,7 +263,7 @@
                         - răpitoare de zi: uliu, șoim, acvila <br/>
                         - răpitoare de noapte: bufnița, turturea <br/>
                         <div className="flex justify-center -mt-48 mr-[70%]">
-                            <Image src="/images/barza.webp" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/barza.webp" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -286,7 +286,7 @@
                         - proboscidieni: elefant <br/>
                         - primate: maimuțe, cimpanzeu, gorila, urangutan | om <br/>
                         <div className="flex justify-center -mt-48 ml-[60%]">
-                            <Image src="/images/delfin.jpeg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/delfin.jpeg" width={300} height={300} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
                  </div>

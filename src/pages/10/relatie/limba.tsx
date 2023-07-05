@@ -53,7 +53,7 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="flex justify-center">
-                        <Image src="/images2/limba.jpg" width={400} height={300} alt="limba" className="rounded-lg"/>
+                        <img src="/images2/limba.jpg" width={400} height={300} alt="limba" className="rounded-lg"/>
                     </div>
                  </div>
              </div>

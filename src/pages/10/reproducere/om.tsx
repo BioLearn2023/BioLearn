@@ -91,7 +91,7 @@
                         <span className="underline decoration-wavy text-green-700">Organe genitale externe:</span> <br/>
                         - penisul (organ copulator) <br/>
                         <div className="flex justify-center -mt-24">
-                            <Image src="/images2/masculin.png" width={500} height={300} alt="reproducere" className="rounded-lg"/>
+                            <img src="/images2/masculin.png" width={500} height={300} alt="reproducere" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -111,7 +111,7 @@
                         <span className="underline decoration-wavy text-green-700">Organele genitale externe:</span> <br/>
                         - vulva <br/>
                         <div className="flex justify-center -mt-24">
-                            <Image src="/images2/feminin.jpg" width={500} height={300} alt="reproducere" className="rounded-lg"/>
+                            <img src="/images2/feminin.jpg" width={500} height={300} alt="reproducere" className="rounded-lg"/>
                         </div>
                      </div>
 

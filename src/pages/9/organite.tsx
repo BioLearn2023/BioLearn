@@ -121,7 +121,7 @@
                          - sinteza lipidelor și a proteinelor <br/>
                          - compartimentarea celulei <br/>
                          <div className="flex justify-end -mt-64">
-                            <Image src="/images/reticulul-endoplasmatic.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/reticulul-endoplasmatic.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -136,7 +136,7 @@
                          - prelucrează, stochează proteine și lipide <br/>
                          - formarea peretelui celular  <br/>
                          <div className="flex justify-start -mt-64">
-                            <Image src="/images/golgi.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/golgi.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -153,7 +153,7 @@
                          - sunt măturătorii celulelor <br/>
                          - distrug particulele străine, substanțe, fragmente  de țesuturi și celule deteriorate <br/>
                          <div className="flex justify-center -mt-64 ml-[55%]">
-                            <Image src="/images/lizozom.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/lizozom.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
                      
@@ -169,7 +169,7 @@
                          <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
                             - sinteza proteinelor <br/>
                         <div className="flex justify-start -mt-48">
-                            <Image src="/images/ribozomi2.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/ribozomi2.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
 
@@ -188,7 +188,7 @@
                         - eliminarea deșeurilor celulare <br/>
                         - la animale: vacuole digestive <br/>
                         <div className="flex justify-center -mt-64 ml-[55%]">
-                            <Image src="/images/vacuola.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/vacuola.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
 
@@ -203,7 +203,7 @@
                         - diviziunea celulară <br/>
                         - formarea fusului de diviziune
                         <div className="flex justify-start -mt-48">
-                            <Image src="/images/centroozom.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/centroozom.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
 
@@ -221,7 +221,7 @@
                         - de susținere <br/>
                         - de conducere a impulsului nervos <br/>
                         <div className="flex justify-center -mt-48 ml-[70%]">
-                            <Image src="/images/neurofibrile.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/neurofibrile.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -232,8 +232,8 @@
                         - Sunt organite specifice fibrelor musculare. <br/>
                         - Reprezintă elementele contractile ale fibrelor musculare. <br/>
                         <div className="flex justify-start -mt-24">
-                            <Image src="/images/miofibrile.webp" width={300} height={250} alt="Picture of the author" className="rounded-lg"/>
-                            <Image src="/images/miofibrile2.jpg" width={300} height={250} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/miofibrile.webp" width={300} height={250} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/miofibrile2.jpg" width={300} height={250} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -245,7 +245,7 @@
                       - asexuate: zoospori <br/>
                       - sexuate: zoogameți <br/>
                       <div className="flex justify-center -mt-32 ml-[60%]">
-                        <Image src="/images/cili-flageli.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                        <img src="/images/cili-flageli.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                       </div>
                     </div>
 
@@ -278,7 +278,7 @@
                         - prezența O2 rezultă energie multă (36 moli ATP) <br/>
                         - arderea totală rezultă produși finali     
                         <div className="flex justify-start -mt-48">
-                            <Image src="/images/mitocondria.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/mitocondria.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 
@@ -341,7 +341,7 @@
                         - se reduce dioxidul de carbon <br/>
                         - se formează SO <br/>
                         <div className="flex justify-center -mt-72 ml-[60%]">
-                            <Image src="/images/cloroplast.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/cloroplast.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                     </div>
 

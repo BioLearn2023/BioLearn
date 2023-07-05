@@ -52,8 +52,8 @@
                          <span className="underline decoration-wavy text-green-700">Transpirația</span> - sub formă de vapori  <br/>
                          <span className="underline decoration-wavy text-green-700">Gutația</span> - sub formă de picături de apă  <br/>
                          <div className="flex justify-center ml-[39%] -mt-24">
-                            <Image src="/images2/transpiratia.jpg" width={400} height={300} alt="transpiratia" className="rounded-lg"/>
-                            <Image src="/images2/gutatia.jpg" width={400} height={300} alt="gutatia" className="rounded-lg"/>
+                            <img src="/images2/transpiratia.jpg" width={400} height={300} alt="transpiratia" className="rounded-lg"/>
+                            <img src="/images2/gutatia.jpg" width={400} height={300} alt="gutatia" className="rounded-lg"/>
                         </div>
                      </div>
  

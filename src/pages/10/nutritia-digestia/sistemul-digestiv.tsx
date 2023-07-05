@@ -115,7 +115,7 @@
                      <div className="mt-0 text-lg text-grey-600 text-center">
                          Este format din tub digestiv și glande anexe. <br/>
                          <div className="flex justify-center mt-16">
-                            <Image src="/images2/digestiv.jpg" width={400} height={300} alt="sistemul-digestiv" className="rounded-lg"/>
+                            <img src="/images2/digestiv.jpg" width={400} height={300} alt="sistemul-digestiv" className="rounded-lg"/>
                         </div>
                      </div>
  

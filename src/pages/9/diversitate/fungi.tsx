@@ -76,7 +76,7 @@
                          - prezintă sporii specializați (ascospori), localizați în sporangele în formă de sac = asca <br/>
                         - Candida (este parazită, producând infecții ale urechilor, unghiilor, organitelor genitale) <br/>
                         <div className="flex justify-center -mt-24 ml-[80%]">
-                            <Image src="/images/candida.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/candida.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
  
@@ -89,7 +89,7 @@
                         - parazite (ex: rugina grâului, tăciunele porumbului) <br/>
                         - saprofice, cu pălarie: comestibile (ex: ghebele, hribul, ciuperca de câmp) și otrăvitoare (ex: muscarița, buretele ucigaș, hribul dracului) <br/>
                         <div className="flex justify-start -mt-32 ml-[%]">
-                            <Image src="/images/rugina-graului.jpg" width={200} height={350} alt="Picture of the author" className="rounded-lg"/>
+                            <img src="/images/rugina-graului.jpg" width={200} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
                      
