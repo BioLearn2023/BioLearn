@@ -31,30 +31,30 @@
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Model bacalaureat</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Baccalaureate Model</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                     Excreția se realizează la nivelul mai multor organe, eliminându-se astfel substnțele nefolositoare din corp. <br/>
-                    a) enumerați componentele sistemului excretor la mamifere; <br/>
-                    b) precizați rolul nefronilor și localizarea lor renală; <br/>
-                    c) alcătuiți un minieseu intitulat „Excreția la plante", folosind informația științifica adecvată. <br/>
-                    În acest scop, respectați următoarele etape: <br/>
-                    - enumerați șase noțiuni specifice acestei teme; <br/>
-                    - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei - patru fraze, folosind corect și în corelație, noțiunile enumerate. <br/>
+                     Excretion is carried out at the level of several organs, eliminating the unnecessary substances from the body. <br/>
+                    a) list the components of the excretory system in mammals; <br/>
+                    b) specify the role of nephrons and their renal location; <br/>
+                    c) write a mini-essay titled "Excretion in plants", using appropriate scientific information. <br/>
+                    To this end, follow these steps: <br/>
+                    - list six specific notions related to this topic; <br/>
+                    - construct, using them, a coherent text of a maximum of three to four sentences, using the notions listed correctly and in correlation. <br/>
                     <br/>
-                    <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare </span> <br/>
-                    a) Componentele sistemului excretor la mamifere sunt rinichii și căile urinare care sunt intrarenale sunt: papilele renale, calice mici și mari și pelvis renal, iar căile urinare extrarenale sunt: ureterele, vezica urinară și uretra. <br/>
-                    b) Rolul nefronilor este în formarea urinei. Aceștia sunt localizați în rinichi, în zona corticală. <br/>
+                    <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
+                    a) The components of the excretory system in mammals are the kidneys and the urinary tracts. The intrarenal urinary tracts are: renal papillae, minor and major calyces, and renal pelvis. The extrarenal urinary tracts are: ureters, urinary bladder, and urethra. <br/>
+                    b) The role of the nephrons is to form urine. They are located in the kidneys, in the cortical area. <br/>
                     c)
-                    - transpirația <br/>
-                    - gutația <br/>
-                    - celule epidermice <br/>
-                    - cuticula <br/>
-                    - stomatele <br/>
-                    - ostiolă <br/>
-                    <span className="underline">Excreția la plante</span><br/>
-                    Excreția la plante reprezintă eliminarea apei care se realizează fie prin <span className="underline decoration-double text-green-700">transpirație </span>(eliminarea apei sub formă de vapori) fie prin <span className="underline decoration-double text-green-700">gutație</span> (eliminarea apei sub formă de picături). Organul plantei implicat în transpirație este frunza, iar structurile implicate sunt cuticula și stomatele. <span className="underline decoration-double text-green-700">Cuticula</span> este reprezentată de <span className="underline decoration-double text-green-700"> celulele epidermice </span> de la nivelul frunzelor, iar acestea prezintă o substanță numită cutină, care limitează evaporarea apei. <span className="underline decoration-double text-green-700">Stomatele</span> au un orificiu numit <span className="underline decoration-double text-green-700">ostiolă</span> care are diametrul variabil în funcție de cantitatea de apă și gaze care intră și iese, iar atunci când ostiolele sunt deschise se realizează transpirație, fotosinteză și respirație.
+                    - transpiration <br/>
+                    - guttation <br/>
+                    - epidermal cells <br/>
+                    - cuticle <br/>
+                    - stomata <br/>
+                    - ostiole <br/>
+                    <span className="underline">Excretion in plants</span><br/>
+                    Excretion in plants is the elimination of water, which occurs either through <span className="underline decoration-double text-green-700">transpiration</span> (elimination of water as vapor) or through <span className="underline decoration-double text-green-700">guttation</span> (elimination of water as droplets). The plant organ involved in transpiration is the leaf, and the structures involved are the cuticle and stomata. The <span className="underline decoration-double text-green-700">cuticle</span> consists of <span className="underline decoration-double text-green-700">epidermal cells</span> at the leaf level, which contain a substance called cutin that limits water evaporation. The <span className="underline decoration-double text-green-700">stomata</span> have an opening called the <span className="underline decoration-double text-green-700">ostiole</span>, whose diameter varies depending on the amount of water and gases entering and exiting. When the ostioles are open, transpiration, photosynthesis, and respiration take place.
                     </p>
                  </div>
              </div>
@@ -63,10 +63,10 @@
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/bac/model/2')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Modelul anterior
+        Previous model
         </span>
         <span onClick={()=> void router.push('/bac/model/4')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următorul model
+        Next model
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>        
@@ -74,5 +74,3 @@
          </>
      )
  }
- 
- 

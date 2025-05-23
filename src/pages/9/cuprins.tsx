@@ -41,72 +41,72 @@ function Cuprins (){
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/celula')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/celula')}>Lecția 1</h3>
-                    <p className="text-sm">Celula și compoziția ei chimică</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/celula')}>Lesson 1</h3>
+                    <p className="text-sm">The cell and its chemical composition</p>
                 </li>
                 <li className="mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/procariota')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/procariota')}>Lecția 2</h3>
-                    <p className="text-sm">Celula procariotă</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/procariota')}>Lesson 2</h3>
+                    <p className="text-sm">Prokaryotic cell</p>
                 </li>
                 <li className="mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/eucariota')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/eucariota')}>Lecția 3</h3>
-                    <p className="text-sm">Celula eucariotă</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/eucariota')}>Lesson 3</h3>
+                    <p className="text-sm">Eukaryotic cell</p>
                 </li>
                 <li className="mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/perete')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/perete')}>Lecția 4</h3>
-                    <p className="text-sm">Peretele celular - Membrana...</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/perete')}>Lesson 4</h3>
+                    <p className="text-sm">Cell wall - Membrane</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/citoplasma')}></path></svg>
                     </span>
 
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/citoplasma')}>Lecția 5</h3>
-                    <p className="text-sm">Citoplasma</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/citoplasma')}>Lesson 5</h3>
+                    <p className="text-sm">Cytoplasm</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/organite')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/organite')}>Lecția 6</h3>
-                    <p className="text-sm">Organitele celulare</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/organite')}>Lesson 6</h3>
+                    <p className="text-sm">Cell organelles</p>
                 </li>
                 <li className="mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/cromozomi')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/cromozomi')}>Lecția 7</h3>
-                    <p className="text-sm">Cromozomii</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/cromozomi')}>Lesson 7</h3>
+                    <p className="text-sm">Chromosomes</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/diviziune')} ></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diviziune')}>Lecția 8</h3>
-                    <p className="text-sm">Diviziunea celulară</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diviziune')}>Lesson 8</h3>
+                    <p className="text-sm">Cell division</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/mitoza')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/mitoza')}>Lecția 9</h3>
-                    <p className="text-sm">Mitoza</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/mitoza')}>Lesson 9</h3>
+                    <p className="text-sm">Mitosis</p>
                 </li>
                 <li className="ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/meioza')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/meioza')}>Lecția 10</h3>
-                    <p className="text-sm">Meioza</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/meioza')}>Lesson 10</h3>
+                    <p className="text-sm">Meiosis</p>
                 </li>
             </ol>
 
@@ -115,90 +115,88 @@ function Cuprins (){
                 <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/ereditatea')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/ereditatea')}>Lecția 11</h3>
-                    <p className="text-sm">Ereditatea și variabilitatea...</p>
- 
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/ereditatea')}>Lesson 11</h3>
+                    <p className="text-sm">Heredity and variability</p>
                 </li>
                 <li className="mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/grupe-de-sange')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/grupe-de-sange')}>Lecția 12</h3>
-                    <p className="text-sm">Grupe de sânge. Determinismul...</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/grupe-de-sange')}>Lesson 12</h3>
+                    <p className="text-sm">Blood types. Determinism…</p>
                 </li>
                 <li className="mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/genetica')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/genetica')}>Lecția 13</h3>
-                    <p className="text-sm">Gentica umană</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/genetica')}>Lesson 13</h3>
+                    <p className="text-sm">Human genetics</p>
                 </li>
                 <li className="mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/diversitate/diversitate')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/diversitate')}>Lecția 14</h3>
-                    <p className="text-sm">Diversitatea lumii vii</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/diversitate')}>Lesson 14</h3>
+                    <p className="text-sm">The diversity of the living world</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/diversitate/virusuri')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/virusuri')}>Lecția 15</h3>
-                    <p className="text-sm">Virusuri</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/virusuri')}>Lesson 15</h3>
+                    <p className="text-sm">Viruses</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/diversitate/monera')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/monera')}>Lecția 16</h3>
-                    <p className="text-sm">Regnul Monera</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/monera')}>Lesson 16</h3>
+                    <p className="text-sm">Kingdom of Monera</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/diversitate/protista')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/protista')}>Lecția 17</h3>
-                    <p className="text-sm">Regnul Protista</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/protista')}>Lesson 17</h3>
+                    <p className="text-sm">Kingdom of Protista</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/diversitate/fungi')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/fungi')}>Lecția 18</h3>
-                    <p className="text-sm">Regnul Fungi</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/fungi')}>Lesson 18</h3>
+                    <p className="text-sm">Kingdom of Fungi</p>
                 </li>
                 <li className=" mb-6 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/diversitate/plante')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/plante')}>Lecția 19</h3>
-                    <p className="text-sm">Regnul Plante</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/plante')}>Lesson 19</h3>
+                    <p className="text-sm">Plant Kingdom</p>
                 </li>
                 <li className=" ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/9/diversitate/animal')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/animal')}>Lecția 20</h3>
-                    <p className="text-sm">Regnul animal</p>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/9/diversitate/animal')}>Lesson 20</h3>
+                    <p className="text-sm">Animal Kingdom</p>
                 </li>
             </ol>
             
            
             <div className="max-w-sm p-6 bg-gradient-to-tr from-lime to-lime-200 border border-green-500 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 ml-[36%] mt-[13%]">
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center">Lecții clasa a 9-a</h5>
+                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center">9th grade lessons</h5>
                 {/* <p className="mb-3 font-normal text-black-700 dark:text-gray-400 text-justify">
                 - Pentru a deschide pagina cu lecția pe care doriți să o accesați, apăsați pe iconița din dreptul lecției sau chiar pe titlul acesteia (ex: Lecția 1), după cum vă este mai ușor, și veți fi redirecționați către pagina cu lecția respectivă. <br/>
                 </p> */}
-                <Tooltip className = "w-96" content="Pentru a deschide pagina cu lecția pe care doriți să o accesați, apăsați pe iconița din dreptul lecției sau chiar pe titlul acesteia (ex: Lecția 1), după cum vă este mai ușor, și veți fi redirecționați către pagina cu lecția respectivă."
-                style="light"
-                ><InformationCircleIcon className="w-8 h-8 -mt-10"/></Tooltip>
+                <Tooltip className = "w-96" content="To open the page with the lesson you want to access, click on the icon next to the lesson or directly on its title (e.g., Lesson 1), whichever is easier for you, and you will be redirected to the corresponding lesson page"
+                style="light"><InformationCircleIcon className="w-8 h-8 -mt-10"/></Tooltip>
                 <p className="mb-3 mt-8 font-normal text-black-700 dark:text-gray-400 text-justify">
-                - Dacă vreți să schimbați clasa sau să alegeți altă categorie deoarece ați terminat lecțiile, doar apăsați butonul acasă. <br/>
+                If you want to change the class or choose another category because you have finished the lessons, just press the home button <br/>
                 </p>
                 <Button  className="w-80 rounded-lg mt-6" gradientDuoTone="greenToBlue" 
                 onClick={() => void router.push('/#')}>
-                    Acasă
+                    Home
                     <svg aria-hidden="true" className="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </Button>
             </div>

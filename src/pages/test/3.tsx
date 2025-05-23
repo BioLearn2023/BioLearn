@@ -66,119 +66,119 @@ export const API_3 = {
 const Test3 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Fac parte din regnul Animal, grupul Artropode:', 1, -1, [
-      'arahnidele',
-      'cefalopodele',
-      'hidrozoarele',
-      'nematodele',
+    new test('Belong to the Animal kingdom, Arthropod group:', 1, -1, [
+      'arachnids',
+      'cephalopods',
+      'hydrozoans',
+      'nematodes',
     ]),
 
     new test(
-      'Fiecare dintre celulele-fiice formate prin diviziunea mitotică a unei celule-mamă cu 2n=10 cromozomi are:',
+      'Each of the daughter cells formed by mitotic division of a parent cell with 2n=10 chromosomes has:',
       1,
       -1,
       [
-        '2n = 10 cromozomi',
-        '2n = 5 cromozomi',
-        'n = 10 cromozomi',
-        'n = 5 cromozomi',
+        '2n = 10 chromosomes',
+        '2n = 5 chromosomes',
+        'n = 10 chromosomes',
+        'n = 5 chromosomes',
       ]
     ),
 
     new test(
-      'Una dintre căile urinare ale sistemului excretor al mamiferelor este:',
+      'One of the urinary tracts of the mammalian excretory system is:',
       2,
       -1,
-      ['nefronul', 'uretra', 'uterul', 'zona corticală']
+      ['nephron', 'urethra', 'uterus', 'cortical area']
     ),
 
-    new test('Ficatul mamiferelor:', 4, -1, [
-      'este una dintre componentele tubului digestiv',
-      'este localizat în stânga stomacului',
-      'participă la digestia gastrică a alimentelor',
-      'secretă un suc digestiv lipsit de enzime',
+    new test('The liver of mammals:', 4, -1, [
+      'is one of the components of the digestive tract',
+      'is located to the left of the stomach',
+      'participates in the gastric digestion of food',
+      'secretes a digestive juice lacking enzymes',
     ]),
 
-    new test('Țesutul osos spongios:', 3, -1, [
-      'are lamele osoase cu dispoziție concentrică',
-      'conține substanță fundamentală semidură',
-      'este un tip de țesut conjunctiv dur',
-      'este străbătut de canale Havers, cu vase și nervi',
+    new test('Spongy bone tissue:', 3, -1, [
+      'has bone lamellae with concentric arrangement',
+      'contains semi-hard fundamental substance',
+      'is a type of hard connective tissue',
+      'is crossed by Haversian canals with vessels and nerves',
     ]),
 
-    new test('Peștii osoși aparțin grupului:', 3, -1, [
-      'cefalopode',
-      'celenterate',
-      'cordate',
-      'placentare',
+    new test('Bony fish belong to the group:', 3, -1, [
+      'cephalopods',
+      'coelenterates',
+      'chordates',
+      'placental mammals',
     ]),
 
-    new test('Rinichii mamiferelor sunt:', 4, -1, [
-      'alcătuiți din unități microscopice numite calice',
-      'componente ale căilor urinare',
-      'localizați în partea ventrală a cavității abdominale',
-      'protejați la exterior de o capsulă fibroasă',
+    new test('Mammalian kidneys are:', 4, -1, [
+      'composed of microscopic units called calyces',
+      'components of the urinary tract',
+      'located on the ventral side of the abdominal cavity',
+      'protected externally by a fibrous capsule',
     ]),
 
-    new test('Nutriția heterotrofă:', 4, -1, [
-      'este specifică organismelor vegetale',
-      'constă în sinteza de substanțe organice',
-      'poate fi evidențiată după CO2 absorbit',
-      'se poate realiza saprofit și parazit',
+    new test('Heterotrophic nutrition:', 4, -1, [
+      'is specific to plant organisms',
+      'consists in the synthesis of organic substances',
+      'can be evidenced by absorbed CO2',
+      'can be saprophytic and parasitic',
     ]),
 
-    new test('Componentă a tubului digestiv al mamiferelor este:', 2, -1, [
-      'bronhia',
-      'faringele',
-      'laringele',
-      'pancreasul',
+    new test('A component of the mammalian digestive tract is:', 2, -1, [
+      'bronchus',
+      'pharynx',
+      'larynx',
+      'pancreas',
     ]),
 
-    new test('Fotosinteza la plante:', 4, -1, [
-      'este un tip de nutriție heterotrofă',
-      'eliberează energie luminoasă',
-      'necesită prezența oxigenului',
-      'produce substanțe organice',
+    new test('Photosynthesis in plants:', 4, -1, [
+      'is a type of heterotrophic nutrition',
+      'releases light energy',
+      'requires the presence of oxygen',
+      'produces organic substances',
     ]),
 
-    new test('Nefronul face parte din structura:', 3, -1, [
-      'encefalului',
-      'plămânului',
-      'rinichiului',
-      'stomacului',
+    new test('The nephron is part of the structure of:', 3, -1, [
+      'brain',
+      'lung',
+      'kidney',
+      'stomach',
     ]),
 
-    new test('Coroida din structura ochiului mamiferelor:', 2, -1, [
-      'are rol în protecție a globului ocular',
-      'conține vase de sânge',
-      'este sediul fotoreceptor',
-      'face parte din sistemul optic',
+    new test('The choroid in the structure of the mammalian eye:', 2, -1, [
+      'has a protective role for the eyeball',
+      'contains blood vessels',
+      'is the site of photoreceptors',
+      'is part of the optic system',
     ]),
 
     new test(
-      'Fiecare dintre celulele-fiice formate prin diviziunea meiotică a unei celule-mamă cu 2n = 38 cromozomi are:',
+      'Each of the daughter cells formed by meiotic division of a parent cell with 2n = 38 chromosomes has:',
       4,
       -1,
       [
-        '2n = 38 cromozomi',
-        '2n = 19 cromozomi',
-        'n = 30 cromozomi',
-        'n = 19 cromozomi',
+        '2n = 38 chromosomes',
+        '2n = 19 chromosomes',
+        'n = 30 chromosomes',
+        'n = 19 chromosomes',
       ]
     ),
 
-    new test('Sunt mamifere:', 2, -1, [
-      'anurele',
-      'placentarele',
-      'termatodele',
-      'urodelele',
+    new test('Are mammals:', 2, -1, [
+      'anurans',
+      'placental mammals',
+      'trematodes',
+      'urodeles',
     ]),
 
-    new test('Celulele cu bastonașe sunt:', 3, -1, [
-      'componentele nervului optic',
-      'localizate în coroidă',
-      'receptori vizuali',
-      'sensibile la culorile roșu și verde',
+    new test('Rod cells are:', 3, -1, [
+      'components of the optic nerve',
+      'located in the choroid',
+      'visual receptors',
+      'sensitive to red and green colors',
     ]),
   ])
   console.log(intrebari)
@@ -199,7 +199,7 @@ const Test3 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -213,12 +213,12 @@ const Test3 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quiz')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

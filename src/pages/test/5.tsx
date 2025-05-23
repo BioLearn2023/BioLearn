@@ -66,114 +66,114 @@ export const API_5 = {
 const Test5 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Gameții feminini se formează prin diviziunea:', 4, -1, [
-      'ovulului',
-      'mitotică',
-      'testiculului',
-      'meiotică',
+    new test('Female gametes are formed through:', 4, -1, [
+      'the ovum',
+      'mitosis',
+      'the testicle',
+      'meiosis',
     ]),
 
-    new test('Sindromul Down reprezintă:', 1, -1, [
-      'trisomia 21',
-      'trisomia 18',
-      'trisomia 13',
-      'trisomia 22',
+    new test('Down syndrome represents:', 1, -1, [
+      'trisomy 21',
+      'trisomy 18',
+      'trisomy 13',
+      'trisomy 22',
     ]),
 
-    new test('Este plantă dicotiledonată:', 2, -1, [
-      'porumbul',
-      'crizantema',
-      'ceapa',
-      'gladiola',
+    new test('A dicotyledonous plant is:', 2, -1, [
+      'corn',
+      'chrysanthemum',
+      'onion',
+      'gladiolus',
     ]),
 
-    new test('Mamifer digitigrad este:', 2, -1, [
-      'ariciul',
-      'pisica',
-      'oaia',
-      'calul',
+    new test('A digitigrade mammal is:', 2, -1, [
+      'hedgehog',
+      'cat',
+      'sheep',
+      'horse',
     ]),
 
-    new test('Trombocitele au rol în:', 3, -1, [
-      'transportul gazelor',
-      'fagocitoza microbilor',
-      'coagularea sângelui',
-      'imunitatea organismului',
+    new test('Platelets have a role in:', 3, -1, [
+      'gas transport',
+      'microbe phagocytosis',
+      'blood clotting',
+      'immune defense',
     ]),
 
-    new test('Peștii au:', 4, -1, [
-      'respirație branhială',
-      'dezvoltare prin metamorfoză',
-      'înotătoare codală pereche',
-      'nutriție heterotrofă',
+    new test('Fish have:', 4, -1, [
+      'gill respiration',
+      'development through metamorphosis',
+      'paired caudal fins',
+      'heterotrophic nutrition',
     ]),
 
-    new test('Fermentația alcoolică este produsă de:', 1, -1, [
-      'drojdii',
-      'flagelate',
-      'mucegaiuri',
-      'protiste',
+    new test('Alcoholic fermentation is produced by:', 1, -1, [
+      'yeasts',
+      'flagellates',
+      'molds',
+      'protists',
     ]),
 
-    new test('Seismonastiile sunt:', 3, -1, [
-      'induse cu forța gravitațională',
-      'mișcări orientate ale plantelor',
-      'prezente la frunzele de mimoză',
-      'provocate de variații termice',
+    new test('Seismonastic movements are:', 3, -1, [
+      'induced by gravitational force',
+      'oriented plant movements',
+      'present in mimosa leaves',
+      'caused by temperature variations',
     ]),
 
-    new test('Respirația cutanee la vertebrate:', 2, -1, [
-      'este prezentă la reptilele acvatice și terestre',
-      'este completată de alte tipuri de respirație',
-      'se face printr-un sistem de tuburi',
-      'presupune existența unui tegument uscat',
+    new test('Cutaneous respiration in vertebrates:', 2, -1, [
+      'is present in aquatic and terrestrial reptiles',
+      'is complemented by other types of respiration',
+      'occurs through a system of tubes',
+      'requires a dry integument',
     ]),
 
-    new test('Sunt organite celulare cu rol în respirație:', 3, -1, [
-      'cloroplastele',
-      'oleoplastele',
-      'mitocondriile',
-      'plstidele',
+    new test('Organelles involved in respiration are:', 3, -1, [
+      'chloroplasts',
+      'oleoplasts',
+      'mitochondria',
+      'plastids',
     ]),
 
     new test(
-      'Variabilitatea reprezintă însușirea organismelor care aparțin specii de a:',
+      'Variability represents the property of organisms belonging to a species to:',
       3,
       -1,
       [
-        'deține aceeași informație genetică',
-        'realiza un permanent schimb cu mediul',
-        'se deosbi unele de celelalte',
-        'transmite caractere la descendenți',
+        'possess the same genetic information',
+        'constantly interact with the environment',
+        'differ from each other',
+        'transmit traits to descendants',
       ]
     ),
 
-    new test('Cerebelul:', 3, -1, [
-      'are rol în înregistrarea temperaturii',
-      'este situat în canalul vertebral',
-      'prezintă substanță albă la interior',
-      'recepționează informații vizuale',
+    new test('The cerebellum:', 3, -1, [
+      'is involved in recording temperature',
+      'is located in the vertebral canal',
+      'has white matter on the inside',
+      'receives visual information',
     ]),
 
-    new test('Animal ocrotit în Delta Dunării este:', 4, -1, [
-      'tisa',
-      'crapul',
-      'râsul',
-      'lopătanul',
+    new test('A protected animal in the Danube Delta is:', 4, -1, [
+      'yew',
+      'carp',
+      'lynx',
+      'spoonbill',
     ]),
 
-    new test('Au rol în digestia intracelulară:', 2, -1, [
-      'centriolii',
-      'lizozomii',
-      'nucleolii',
-      'ribozomii',
+    new test('Are involved in intracellular digestion:', 2, -1, [
+      'centrioles',
+      'lysosomes',
+      'nucleoli',
+      'ribosomes',
     ]),
 
-    new test('Prezintă corp acoperit cu pene:', 3, -1, [
-      'amfibienii',
-      'mamiferele',
-      'păsările',
-      'reptilele',
+    new test('Has a body covered with feathers:', 3, -1, [
+      'amphibians',
+      'mammals',
+      'birds',
+      'reptiles',
     ]),
   ])
   const [shouldRender, setRender] = useState(false)
@@ -193,7 +193,7 @@ const Test5 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -207,12 +207,12 @@ const Test5 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quiz')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

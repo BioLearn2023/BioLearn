@@ -1,4 +1,4 @@
- /* eslint-disable @next/next/no-img-element */
+/* eslint-disable @next/next/no-img-element */
  import React from "react"
  import { useRouter } from "next/router";
  export default function Anaaerobă() {
@@ -33,59 +33,59 @@
                      clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
                  }} />
          </div>
- 
+
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Respirația anaerobă</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Anaerobic respiration</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
- 
+
                      <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definiție:</span> Reprezintă procesul prin care se asigură schimbul de gaze, energia în urma oxidării substanțelor organice, iar energia rezultată este folosită la realizarea funcțiilor vitale. <br/>
-                        La plante se desfășoară în toate organele, dar mai ales în frunze (mitocondria). <br/>
-                        Respirația poate fi: <br/>
-                        - aerobă <br/>
-                        - anaerobă (fermentație) <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definition:</span> It represents the process by which gas exchange is ensured, energy is obtained as a result of the oxidation of organic substances, and the resulting energy is used for vital functions. <br/>
+                        In plants, it takes place in all organs, but especially in the leaves (mitochondria). <br/>
+                        Respiration can be: <br/>
+                        - aerobic <br/>
+                        - anaerobic (fermentation) <br/>
                      </p>
- 
+
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
- 
+
                      <p className="mt-0 text-lg text-grey-600">
-                        Fermentația este de mai multe tipuri: <br/>
-                        - alcoolică <br/>
-                        - lactică <br/>
-                        - acetică <br/>
+                        Fermentation is of several types: <br/>
+                        - alcoholic <br/>
+                        - lactic <br/>
+                        - acetic <br/>
                      </p>
- 
+
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
- 
+
                      <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Fermentația alcoolică</span> <br/>
-                        - transformarea glucozei în alcool etilic realizată de ciuperci numite drojdii <br/>
-                        <span className="underline decoration-wavy text-green-700">Importanță</span> <br/>
-                        - producerea alcoolului <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Alcoholic fermentation</span> <br/>
+                        - the transformation of glucose into ethyl alcohol carried out by fungi called yeasts <br/>
+                        <span className="underline decoration-wavy text-green-700">Importance</span> <br/>
+                        - alcohol production <br/>
                      </p>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Fermentația lactică</span> <br/>
-                        - transformarea glucozei în acid lactic <br/>
-                        - realizată de bacterii <br/>
-                        <span className="underline decoration-wavy text-green-700">Importanță</span> <br/>
-                        - producerea iaurtului <br/>
-                        - acidul lactic este un bun conservant pentru murături <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Lactic fermentation</span> <br/>
+                        - the transformation of glucose into lactic acid <br/>
+                        - carried out by bacteria <br/>
+                        <span className="underline decoration-wavy text-green-700">Importance</span> <br/>
+                        - yogurt production <br/>
+                        - lactic acid is a good preservative for pickles <br/>
                     </p>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Fermentația acetică</span> <br/>
-                        - transformarea glucozei în acid acetic <br/>
-                        - proces atipic, în prezența oxigenului <br/>
-                        - realizată de bacterii <br/>
-                        <span className="underline decoration-wavy text-green-700">Importanță</span> <br/>
-                        - producerea oțetului <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Acetic fermentation</span> <br/>
+                        - the transformation of glucose into acetic acid <br/>
+                        - atypical process, in the presence of oxygen <br/>
+                        - carried out by bacteria <br/>
+                        <span className="underline decoration-wavy text-green-700">Importance</span> <br/>
+                        - vinegar production <br/>
                     </p>
                  </div>
              </div>
@@ -94,10 +94,10 @@
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/10/nutritia-digestia/sucurile-digestive')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/10/respiratia/sistemul-respirator')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>

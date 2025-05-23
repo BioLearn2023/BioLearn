@@ -95,489 +95,419 @@ export default function Model() {
         <div className="mx-auto max-w-7xl px-6 lg:px-2">
           <div className="mx-auto max-w-7xl lg:mx-0">
             <h2 className="text-center text-3xl font-bold tracking-tight text-emerald-900 text-gray-900 sm:text-5xl">
-              Model bacalaureat
+              Baccalaureate model
             </h2>
             <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
             <h2 className="text-3xl font-bold tracking-tight text-emerald-900 text-gray-900  sm:text-3xl">
-              Subiectul I
+              Subject I
             </h2>
 
             <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
             <p className="text-grey-600 mt-0 text-lg">
-              A Scrieți, pe foaia de examen, noțiunile cu care trebuie să
-              completați spațiile libere din afirmația următoare, astfel încât
-              aceasta să fie corectă. <br />
-              În funcție de dispunerea lamelelor osoase, țesutul osos este de
-              două tipuri:{' '}
+              A Write on the exam sheet the notions that must complete the blanks in the following statement so that it is correct. <br />
+              Depending on the arrangement of bone lamellae, bone tissue is of two types:{' '}
               <span className="text-green-700 underline decoration-double">
                 compact
               </span>{' '}
-              și{' '}
+              and{' '}
               <span className="text-green-700 underline decoration-double">
-                spongios
+                spongy
               </span>
               . <br />
               <br />
-              B Dați două exemple de protiste; scrieți în dreptul fiecărui
-              exemplu câte o caracteristică. <br />
+              B Give two examples of protists; write a characteristic next to each example. <br />
               <span className="text-green-700 underline decoration-double">
-                Sporozoare - organisme parazite, produc boli la animale și om{' '}
+                Sporozoans - parasitic organisms, cause diseases in animals and humans{' '}
                 <br />
-                Alge verzi - organisme talofite ce se hrănesc autotrof prin
-                fotosinteză{' '}
+                Green algae - thallophyte organisms that feed autotrophically through photosynthesis{' '}
               </span>
               <br />
               <br />
-              C Scrieți, pe foaia de examen, litera corespunzătoare răspunsului
-              corect. Este corectă o singură variantă de răspuns. <br />
-              1. Este țesut vegetal embrionar: <br />
-              a) colenchimul <br />
-              b) epiderma <br />
+              C Write on the exam sheet the letter corresponding to the correct answer. Only one answer is correct. <br />
+              1. The plant embryonic tissue is: <br />
+              a) collenchyma <br />
+              b) epidermis <br />
               c){' '}
               <span className="text-green-700 underline decoration-wavy">
-                meristemul apical
+                apical meristem
               </span>{' '}
               <br />
-              d) sclerenchimul <br />
+              d) sclerenchyma <br />
               <br />
-              2. Nematodele sunt: <br />
-              a) anelide <br />
-              b) artropode <br />
+              2. Nematodes are: <br />
+              a) annelids <br />
+              b) arthropods <br />
               c){' '}
               <span className="text-green-700 underline decoration-wavy">
-                nematelminți{' '}
+              nematodes{' '}
               </span>{' '}
               <br />
-              d) platelminți <br />
+              d) flatworms <br />
               <br />
-              3. Exemplu de fruct uscat indehiscent, întâlnit la angiosperme,
-              este: <br />
-              a) capsula <br />
-              b) drupa <br />
+              3. An example of an indehiscent dry fruit found in angiosperms is: <br />
+              a) capsule <br />
+              b) drupe <br />
               c){' '}
               <span className="text-green-700 underline decoration-wavy">
-                nuca
+              nut
               </span>{' '}
               <br />
-              d) păstaia <br />
+              d) pod <br />
               <br />
-              4. Este deficiență senzorială întâlnită la om: <br />
-              a) epilepsia <br />
-              b) paralizia <br />
-              c) scleroza în plăci <br />
+              4. A sensory deficiency found in humans is: <br />
+              a) epilepsy <br />
+              b) paralysis <br />
+              c) multiple sclerosis <br />
               d){' '}
               <span className="text-green-700 underline decoration-wavy">
-                surditatea
+              deafness
               </span>{' '}
               <br />
               <br />
-              5. Substanța cenușie a măduvei spinării: <br />
-              a) are rol de conducere a impulsurilor nervoase <br />
-              b) este alcătuită din axonii neuronilor <br />
+              5. The gray matter of the spinal cord: <br />
+              a) has the role of conducting nerve impulses <br />
+              b) is made up of neuron axons <br />
               c){' '}
               <span className="text-green-700 underline decoration-wavy">
-                este localizată central
+              is centrally located
               </span>{' '}
               <br />
-              d) este dispusă în jurul substanței albe <br />
+              d) is arranged around the white matter <br />
               <br />
-              D Citiți, cu atenție, afirmațiile următoare. Dacă apreciați că
-              afirmația este adevărată, scrieți pe foaia de examen litera A.
-              Dacă apreciați că afirmația este falsă, scrieți, pe foaia de
-              examen, în dreptul cifrei corespunzătoare afirmației,litera F și
-              modificați parțial afirmația pentru ca aceasta să devină
-              adevărată. Folosiți, în acest scop, informația științifică
-              adecvată. Nu se acceptă folosirea negației. <br />
+              D Read the following statements carefully. If you consider the statement to be true, write the letter A on the exam sheet. If you consider the statement to be false, write the letter F next to the corresponding number on the exam sheet, and partially modify the statement to make it true. Use appropriate scientific information for this purpose. The use of negation is not accepted. <br />
               <span className="text-red-700">
-                1. Evidențierea fotosintezei se face prin procedee bazate pe
-                consumul de oxigen. F
+              1. Photosynthesis is demonstrated using procedures based on oxygen consumption. F
               </span>{' '}
               <br />
               <span className="text-green-700">
-                2. Sucul pancreatic conține amilază care transformă amidonul în
-                maltoză. A
+              2. Pancreatic juice contains amylase that converts starch into maltose. A
               </span>{' '}
               <br />
               <span className="text-red-700">
-                3. Coroida și cristalinul sunt componente ale sistemului optic
-                al globului ocular. F{' '}
+              3. The choroid and the lens are components of the eye's optical system. F{' '}
               </span>{' '}
               <br />
               <span className="text-green-700">
-                1. Evidențierea fotosintezei se face prin procedee bazate pe
-                consumul de dioxid de carbon. <br />
-                3. Corneea transparentă și cristalinul sunt componente ale
-                sistemului optic al globului ocular.{' '}
+              1. Photosynthesis is demonstrated using procedures based on carbon dioxide consumption. <br />
+              3. The transparent cornea and the lens are components of the eye's optical system.{' '}
               </span>
               <br />
-            </p>
+              </p>
 
-            <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
+              <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-            <h2 className="text-3xl font-bold tracking-tight text-emerald-900 text-gray-900  sm:text-3xl">
-              Subiectul al II-lea
-            </h2>
-            <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
+              <h2 className="text-3xl font-bold tracking-tight text-emerald-900 text-gray-900  sm:text-3xl">
+              Subject II
+              </h2>
+              <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-            <p className="text-grey-600 mt-0 text-lg">
-              A Hipertensiunea arterială este una dintre bolile sistemului
-              circulator al omului, alcătuit din inimă și vase de sânge. Inima
-              este un organ musculos, învelit în pericard. <br />
-              a) Caracterizați hipertensiunea arterială, precizând: o cauză,
-              trei manifestări, o măsură de prevenire. <br />
-              b) Explicați rolul pericardului. <br />
-              c) Calculați masa apei din plasma sângelui unei persoane, știind
-              următoarele: <br />
-              - sângele reprezintă 8% din masa corpului; <br />
-              - plasma sangvină reprezintă 55% din masa sângelui; <br />
-              - apa reprezintă 90% din masa plasmei sanguine; <br />
-              - masa corpului persoanei este de 107kg. <br />
-              Scrieți toate etapele parcurse pentru rezolvarea cerinței. <br />
-              d) Completați problema de la punctul c) cu o altă cerință pe care
-              o formulați voi, folosind informații științifice specifice
-              biologiei; rezolvați cerința pe care ați propus-o. <br />
+              <p className="text-grey-600 mt-0 text-lg">
+              A High blood pressure is one of the diseases of the human circulatory system, consisting of the heart and blood vessels. The heart is a muscular organ covered by the pericardium. <br />
+              a) Characterize high blood pressure, specifying: one cause, three manifestations, one preventive measure. <br />
+              b) Explain the role of the pericardium. <br />
+              c) Calculate the mass of water in the blood plasma of a person, knowing the following: <br />
+              - blood represents 8% of body mass; <br />
+              - blood plasma represents 55% of blood mass; <br />
+              - water represents 90% of blood plasma mass; <br />
+              - the body mass of the person is 107kg. <br />
+              Write all the steps taken to solve the task. <br />
+              d) Complete the problem from point c) with another requirement that you formulate yourself, using biology-specific scientific information; solve the requirement you proposed. <br />
               <br />
               <span className="font-extrabold text-[#65a30d] underline decoration-wavy">
-                Rezolvare
+              Solution
               </span>{' '}
               <br />
-              a) Hipertensiunea arterială: <br />
+              a) High blood pressure: <br />
               <span className="text-green-700 underline decoration-double">
-                cauza:
+              cause:
               </span>{' '}
-              creșterea presiunii sanguine asupra pereților arteriali <br />
+              increased pressure of blood on arterial walls <br />
               <span className="text-green-700 underline decoration-double">
-                manifestări:
+              manifestations:
               </span>{' '}
-              depășirea valorilor normale ale tensiunii arteriale, amețeli,
-              dureri de cap <br />
+              exceeding normal blood pressure values, dizziness, headaches <br />
               <span className="text-green-700 underline decoration-double">
-                preveniri:
+              prevention:
               </span>{' '}
-              evitare stres, supraalimentație, fumat, alcool <br />
-              b) Pericardul are rol în dinamica inimii, prin lichidul care se
-              găsește între cele două foițe, pericardul parietal (la exterior)
-              și pericardul visceral (la interior), el facilitează alunecarea
-              celor două foițe în timpul mișcărilor inimii - sistola și
-              diastola. <br />
+              avoid stress, overeating, smoking, alcohol <br />
+              b) The pericardium plays a role in the heart's dynamics, through the fluid found between the two layers, the parietal pericardium (outer) and the visceral pericardium (inner), facilitating the sliding of the two layers during heart movements – systole and diastole. <br />
               c){' '}
               <span className="text-green-700">
-                - calculăm masa sângelui din masa corpului
+              - calculate the mass of blood from body mass
               </span>{' '}
               <br />
               ms = (8/100)*107 = 856/100 ={' '}
               <span className="text-green-700 underline decoration-double">
-                8,56 kg
+              8.56 kg
               </span>{' '}
               <br />
               <span className="text-green-700">
-                - calculăm masa plasmei din masa sângelui
+              - calculate the mass of plasma from the mass of blood
               </span>{' '}
               <br />
-              mp = (55/100)*8,56 = (55/100)*(856/100) = 47080/10000 ={' '}
+              mp = (55/100)*8.56 = (55/100)*(856/100) = 47080/10000 ={' '}
               <span className="text-green-700 underline decoration-double">
-                4,708 kg
+              4.708 kg
               </span>
               <br />
               <span className="text-green-700">
-                - calculăm masa apei din masa plasmei
+              - calculate the mass of water from the mass of plasma
               </span>{' '}
               <br />
-              mH2O = (90/100)*4,708 = (90/100)*(4708/1000) = 42372/10000 ={' '}
+              mH2O = (90/100)*4.708 = (90/100)*(4708/1000) = 42372/10000 ={' '}
               <span className="text-green-700 underline decoration-double">
-                4,2372 kg
+              4.2372 kg
               </span>{' '}
               <br />
               d){' '}
               <span className="text-green-700">
-                Calculați masa elementelor figurate, știind că acestea
-                reprezintă 45% din masa sângelui.
+              Calculate the mass of the formed elements, knowing that these represent 45% of the blood mass.
               </span>{' '}
               <br />
-              mef = (45/100)*8,56 = (45/100)*(856/100) = 38520/10000 ={' '}
+              mef = (45/100)*8.56 = (45/100)*(856/100) = 38520/10000 ={' '}
               <span className="text-green-700 underline decoration-double">
-                3,852 kg
+              3.852 kg
               </span>{' '}
               <br />
               <br />
-              B Se încrucișează două soiuri de garoafe care se deosebesc prin
-              două perechi de caractere. Un soi de garoafe are flori mari (M),
-              de culoare roșie (R), iar celălalt soi de garoafe are flori mici
-              (m), de culoare albă (r). Părinții sunt homozigoți pentru ambele
-              caractere. În F1 se obțin organisme hibride. Prin încrucișarea
-              între ei a indivizilor din F1, se obțin, în F2, 16 combinații de
-              factori ereditari. Stabiliți următoarele: <br />
-              a) genotipurile celor două soiuri de garoafe; <br />
-              b) trei exemple de tipuri de gameți produși de indivii din F1;{' '}
-              <br />
-              c) numărul combinațiilor din F2, heterozigote pentru culoarea
-              florilor; genotipul indivizilor din F2 cu flori mici și de culoare
-              roșie. <br />
-              d) Completați această problemă cu o altă cerință pe care o
-              formulați voi, folosind informații științifice specifice
-              biologiei; rezolvați cerința pe care ați propus-o. <br />
-              Scrieți toate etapele rezolvării problemei. <br />
-              <br />
-              <span className="font-extrabold text-[#65a30d] underline decoration-wavy">
-                Rezolvare
-              </span>{' '}
-              <br />
-              a) genotipul celor două soiuri de garoafe:{' '}
-              <span className="text-green-700">MMRR, mmrr</span> <br />
-              b) trei exemple de tipuri de gameți produși de indivizii din F1:{' '}
-              <span className="text-green-700">MR, Mr, mR</span> <br />
-              c) numărul combinațiilor din F2, heterozigote pentru culoarea
-              florilor: <span className="text-green-700">8/16</span> <br />
-              d){' '}
-              <span className="text-green-700">
-                Stabiliți numărul combinațiilor dublu heterozigote din F2.
-              </span>{' '}
-              <br />
-              Numărul combinațiilor dublu heterozigote din F2 este{' '}
-              <span className="text-green-700">4/16</span> <br />
-            </p>
-            <br />
 
-            <div className="relative overflow-x-auto shadow-md sm:rounded-lg">
-              <table className="w-full text-left text-sm text-gray-600 dark:text-green-400">
-                <thead className="text-sm text-gray-700  dark:text-gray-400">
-                  <tr>
-                    <th
-                      scope="col"
-                      className="bg-green-50 bg-lime-300 px-6 py-3"
-                    ></th>
-                    <th
-                      scope="col"
-                      className="bg-green-50 bg-lime-200 px-6 py-3"
-                    >
-                      MR
-                    </th>
-                    <th
-                      scope="col"
-                      className="bg-green-50 bg-lime-300 px-6 py-3"
-                    >
-                      Mr
-                    </th>
-                    <th
-                      scope="col"
-                      className="bg-green-50 bg-lime-200 px-6 py-3"
-                    >
-                      mR
-                    </th>
-                    <th
-                      scope="col"
-                      className="bg-green-50 bg-lime-300 px-6 py-3"
-                    >
-                      mr
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr className="border-b border-lime-400 text-green-900 dark:border-green-700">
-                    <th
-                      scope="row"
-                      className="whitespace-nowrap bg-green-50 bg-lime-300 px-6 py-4 font-medium text-gray-900 dark:text-white"
-                    >
-                      MR
-                    </th>
-                    <td className="bg-green-50 bg-lime-200 px-6 py-4">MMRR</td>
-                    <td className="bg-green-50 bg-lime-300 px-6 py-4">MMRr</td>
-                    <td className="bg-green-50 bg-lime-200 px-6 py-4">MmRR</td>
-                    <td className="bg-green-50 bg-lime-300 px-6 py-4">MmRr</td>
-                  </tr>
-                  <tr className="border-b border-lime-400 text-green-900 dark:border-gray-700">
-                    <th
-                      scope="row"
-                      className="whitespace-nowrap bg-green-50 bg-lime-300 px-6 py-4 font-medium text-gray-900 dark:text-white"
-                    >
-                      Mr
-                    </th>
-                    <td className="bg-green-50 bg-lime-200 px-6 py-4">MMRr</td>
-                    <td className="bg-green-50 bg-lime-300 px-6 py-4">MMrr</td>
-                    <td className="bg-green-50 bg-lime-200 px-6 py-4">MmRr</td>
-                    <td className="bg-green-50 bg-lime-300 px-6 py-4">Mmrr</td>
-                  </tr>
-                  <tr className="border-b border-lime-400 text-green-900 dark:border-green-700">
-                    <th
-                      scope="row"
-                      className="whitespace-nowrap bg-green-50 bg-lime-300 px-6 py-4 font-medium text-gray-900 dark:text-white"
-                    >
-                      mR
-                    </th>
-                    <td className="bg-green-50 bg-lime-200 px-6 py-4">MmRR</td>
-                    <td className="bg-green-50 bg-lime-300 px-6 py-4">MmRr</td>
-                    <td className="bg-green-50 bg-lime-200 px-6 py-4">mmRR</td>
-                    <td className="bg-green-50 bg-lime-300 px-6 py-4">mmRr</td>
-                  </tr>
-                  <tr className="border-grey-400 border-b text-green-900 dark:border-green-700">
-                    <th
-                      scope="row"
-                      className="whitespace-nowrap bg-green-50 bg-lime-300 px-6 py-4 font-medium text-gray-900 dark:text-white"
-                    >
-                      mr
-                    </th>
-                    <td className="bg-green-50 bg-lime-200 px-6 py-4">MmRr</td>
-                    <td className="bg-green-50 bg-lime-300 px-6 py-4">Mmrr</td>
-                    <td className="bg-green-50 bg-lime-200 px-6 py-4">mmRr</td>
-                    <td className="bg-green-50 bg-lime-300 px-6 py-4">mmrr</td>
-                  </tr>
-                </tbody>
-              </table>
+              B Two varieties of carnations that differ by two pairs of traits are crossed. One variety of carnations has large flowers (M), red in color (R), while the other variety has small flowers (m), white in color (r). The parents are homozygous for both traits. In F1, hybrid organisms are obtained. By intercrossing the F1 individuals, 16 combinations of hereditary factors are obtained in F2. Determine the following: <br />
+a) the genotypes of the two varieties of carnations; <br />
+b) three examples of gamete types produced by individuals from F1; <br />
+c) the number of combinations in F2 that are heterozygous for flower color; the genotype of individuals from F2 with small and red flowers. <br />
+d) Complete this problem with another requirement that you formulate yourself, using biology-specific scientific information; solve the requirement you proposed. <br />
+Write all the steps taken to solve the problem. <br />
+<br />
+<span className="font-extrabold text-[#65a30d] underline decoration-wavy">
+  Solution
+</span>{' '}
+<br />
+a) genotypes of the two varieties of carnations:{' '}
+<span className="text-green-700">MMRR, mmrr</span> <br />
+b) three examples of gamete types produced by F1 individuals:{' '}
+<span className="text-green-700">MR, Mr, mR</span> <br />
+c) the number of combinations in F2 that are heterozygous for flower color: <span className="text-green-700">8/16</span> <br />
+d){' '}
+<span className="text-green-700">
+  Determine the number of double heterozygous combinations in F2.
+</span>{' '}
+<br />
+The number of double heterozygous combinations in F2 is{' '}
+<span className="text-green-700">4/16</span> <br />
+</p>
+<br />
+
+<div className="relative overflow-x-auto shadow-md sm:rounded-lg">
+  <table className="w-full text-left text-sm text-gray-600 dark:text-green-400">
+    <thead className="text-sm text-gray-700  dark:text-gray-400">
+      <tr>
+        <th
+          scope="col"
+          className="bg-green-50 bg-lime-300 px-6 py-3"
+        ></th>
+        <th
+          scope="col"
+          className="bg-green-50 bg-lime-200 px-6 py-3"
+        >
+          MR
+        </th>
+        <th
+          scope="col"
+          className="bg-green-50 bg-lime-300 px-6 py-3"
+        >
+          Mr
+        </th>
+        <th
+          scope="col"
+          className="bg-green-50 bg-lime-200 px-6 py-3"
+        >
+          mR
+        </th>
+        <th
+          scope="col"
+          className="bg-green-50 bg-lime-300 px-6 py-3"
+        >
+          mr
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr className="border-b border-lime-400 text-green-900 dark:border-green-700">
+        <th
+          scope="row"
+          className="whitespace-nowrap bg-green-50 bg-lime-300 px-6 py-4 font-medium text-gray-900 dark:text-white"
+        >
+          MR
+        </th>
+        <td className="bg-green-50 bg-lime-200 px-6 py-4">MMRR</td>
+        <td className="bg-green-50 bg-lime-300 px-6 py-4">MMRr</td>
+        <td className="bg-green-50 bg-lime-200 px-6 py-4">MmRR</td>
+        <td className="bg-green-50 bg-lime-300 px-6 py-4">MmRr</td>
+      </tr>
+      <tr className="border-b border-lime-400 text-green-900 dark:border-gray-700">
+        <th
+          scope="row"
+          className="whitespace-nowrap bg-green-50 bg-lime-300 px-6 py-4 font-medium text-gray-900 dark:text-white"
+        >
+          Mr
+        </th>
+        <td className="bg-green-50 bg-lime-200 px-6 py-4">MMRr</td>
+        <td className="bg-green-50 bg-lime-300 px-6 py-4">MMrr</td>
+        <td className="bg-green-50 bg-lime-200 px-6 py-4">MmRr</td>
+        <td className="bg-green-50 bg-lime-300 px-6 py-4">Mmrr</td>
+      </tr>
+      <tr className="border-b border-lime-400 text-green-900 dark:border-green-700">
+        <th
+          scope="row"
+          className="whitespace-nowrap bg-green-50 bg-lime-300 px-6 py-4 font-medium text-gray-900 dark:text-white"
+        >
+          mR
+        </th>
+        <td className="bg-green-50 bg-lime-200 px-6 py-4">MmRR</td>
+        <td className="bg-green-50 bg-lime-300 px-6 py-4">MmRr</td>
+        <td className="bg-green-50 bg-lime-200 px-6 py-4">mmRR</td>
+        <td className="bg-green-50 bg-lime-300 px-6 py-4">mmRr</td>
+      </tr>
+      <tr className="border-grey-400 border-b text-green-900 dark:border-green-700">
+        <th
+          scope="row"
+          className="whitespace-nowrap bg-green-50 bg-lime-300 px-6 py-4 font-medium text-gray-900 dark:text-white"
+        >
+          mr
+        </th>
+        <td className="bg-green-50 bg-lime-200 px-6 py-4">MmRr</td>
+        <td className="bg-green-50 bg-lime-300 px-6 py-4">Mmrr</td>
+        <td className="bg-green-50 bg-lime-200 px-6 py-4">mmRr</td>
+        <td className="bg-green-50 bg-lime-300 px-6 py-4">mmrr</td>
+      </tr>
+    </tbody>
+  </table>
             </div>
 
             <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
             <h2 className="text-3xl font-bold tracking-tight text-emerald-900 text-gray-900  sm:text-3xl">
-              Subiectul al III-lea
+            Subject III
             </h2>
 
             <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
             <p className="text-grey-600 mt-0 text-lg">
-              1. Celula reprezintă unitatea structurală și funcțională a vieții.{' '}
-              <br />
-              a) Precizați două tipuri de diviziune celulară indirectă. <br />
-              b) Comparați mitocondria cu cloroplastul, precizând o asemănare și
-              o deosebire între aceste organite celulare. <br />
-              c) Construiți patru enunțuri afirmative, câte două pentru fiecare
-              conținut, utilizând limbajul științific adecvat. <br />
-              Folosiți, în acest scop, informații referitoare la următoarele
-              conținuturi: <br />
-              - Legile mendeliene ale eredității. <br />
-              - Ciclul celular. <br />
-              <br />
-              <span className="font-extrabold text-[#65a30d] underline decoration-wavy">
-                Rezolvare
-              </span>{' '}
-              <br />
-              a) Mitoza și meioza <br />
-              b){' '}
-              <span className="text-green-700 underline decoration-double">
-                Asemănare
-              </span>{' '}
-              - ambele prezintă membrană dublă <br />
-              <span className="text-green-700 underline decoration-double">
-                Deosebire
-              </span>{' '}
-              - mitocondria are rol în respirație, cloroplastul are rol în
-              fotosinteză <br />
-              c){' '}
-              <span className="text-green-500">
-                Legile medeliene ale eredității sunt legea purității gameților
-                și legea segregării independente a perechilor de caractere.{' '}
-                <br />
-                Codominanța este o excepție de la legile mendeliene ale
-                eredității, o întâlnim în determinismul grupelor sanguine.{' '}
-              </span>{' '}
-              <br />
-              <span className="text-lime-700">
-                Ciclul celular cuprinde două etape: interfaza, care precede
-                diviziunea, caracterizată prin intense procese de sinteză și
-                dublarea cantității de ADN, și diviziunea celulară. <br />
-                Diviziunea celulară poate fi directă prin fragmentare sau
-                strangulare și indirectă, prin mitoză sau meioză. <br />
-              </span>
-              <br />
-              2. Digestia, circulația, respirația și excreția participă la
-              realizarea funcțiilor de nutriție ale organismelor. <br />
-              a) Precizați două tipuri de digestie întâlnite la animale. <br />
-              b) Scrieți un program în favoarea afirmației următoare: „La
-              mamifere, în timpul inspirației, volumul pulmonar crește.” <br />
-              c) Alcătuiți un minieseu intitulat „Circulația la plante - forțe
-              care contribuie la circulația sevelor”. În acest scop, respectați
-              următoarele etape: <br />
-              - enumerarea a șase noțiuni specifice acestei teme; <br />
-              - construirea, cu ajutorul acestora, a unui text coerent, format
-              din maximum trei-patru fraze, folosind corect și în corlație
-              noțiunile enumerate. <br />
-              <br />
-              <span className="font-extrabold text-[#65a30d] underline decoration-wavy">
-                Rezolvare
-              </span>{' '}
-              <br />
-              a) Digestia intracelulară, întâlnită la protozoare, spongieri,
-              celenterate, și digestia extracelulară, întâlnită la organisme
-              pluricelulare de la viermi la om. <br />
-              b) În timpul inspirației mușchii respiratori se contractă, ceea ce
-              determină creșterea volumului cutiei toracice, iar aceasta, prin
-              sistemul de pleure, extinde și plămânii, care își măresc astfel
-              volumul. <br />
-              c) - seva brută <br />
-              - seva elaborată <br />
-              - vase lemnoase <br />
-              - vase liberiene <br />
-              - forța de sucțiune <br />
-              - transport pasiv <br />
-              Circulația la plante constă în circulația{' '}
-              <span className="text-green-700 underline decoration-double">
-                sevei brute
-              </span>{' '}
-              și a{' '}
-              <span className="text-green-700 underline decoration-double">
-                sevei eleborate
-              </span>
-              . Seva brută conține apă și substanțe minerale și circulă prin{' '}
-              <span className="text-green-700 underline  decoration-double">
-                vase lemnoase
-              </span>{' '}
-              în sens ascendent, de la rădăcină la frunze. Seva elaborată
-              conține substanțele organice sintetizate în frunză prin procesul
-              de fotosinteză și circulă prin{' '}
-              <span className="text-green-700 underline decoration-double">
-                vase liberiene
-              </span>
-              , în ambele sensuri, ascendent și descendent. Forțele care asigură
-              un transport activ și{' '}
-              <span className="text-green-700 underline decoration-double">
-                forța de sucțiune
-              </span>
-              , de la nivelul frunzelor, care asigură un{' '}
-              <span className="text-green-700 underline decoration-double">
-                transport pasiv
-              </span>
-              , iar circulația sevei elaborate se realizează prin transport
-              activ, cu o viteză mai mică decât viteza de circulație a sevei
-              brute, pentru că vasele liberiene conțin citoplasmă.
-            </p>
-
+  1. The cell represents the structural and functional unit of life.{' '}
+  <br />
+  a) Specify two types of indirect cell division. <br />
+  b) Compare the mitochondrion with the chloroplast, specifying one similarity and one difference between these cell organelles. <br />
+  c) Construct four affirmative statements, two for each topic, using appropriate scientific language. <br />
+  Use, for this purpose, information related to the following topics: <br />
+  - Mendelian laws of heredity. <br />
+  - The cell cycle. <br />
+  <br />
+  <span className="font-extrabold text-[#65a30d] underline decoration-wavy">
+    Solution
+  </span>{' '}
+  <br />
+  a) Mitosis and meiosis <br />
+  b){' '}
+  <span className="text-green-700 underline decoration-double">
+    Similarity
+  </span>{' '}
+  - both have a double membrane <br />
+  <span className="text-green-700 underline decoration-double">
+    Difference
+  </span>{' '}
+  - the mitochondrion is involved in respiration, the chloroplast is involved in photosynthesis <br />
+  c){' '}
+  <span className="text-green-500">
+    The Mendelian laws of heredity are the law of purity of gametes and the law of independent assortment of character pairs. <br />
+    Codominance is an exception to the Mendelian laws of heredity, and it is encountered in the determination of blood groups.{' '}
+  </span>{' '}
+  <br />
+  <span className="text-lime-700">
+    The cell cycle consists of two stages: interphase, which precedes division, characterized by intense synthesis processes and doubling of DNA quantity, and cell division. <br />
+    Cell division can be direct by fragmentation or constriction, and indirect, through mitosis or meiosis. <br />
+  </span>
+  <br />
+  2. Digestion, circulation, respiration, and excretion contribute to the realization of the nutritional functions of organisms. <br />
+  a) Specify two types of digestion found in animals. <br />
+  b) Write an explanation in support of the following statement: "In mammals, during inhalation, lung volume increases." <br />
+  c) Write a short essay entitled “Circulation in plants - forces that contribute to the movement of sap.” For this purpose, follow these steps: <br />
+  - list six concepts specific to this topic; <br />
+  - construct, using them, a coherent text consisting of a maximum of three to four sentences, using the listed terms correctly and in correlation. <br />
+  <br />
+  <span className="font-extrabold text-[#65a30d] underline decoration-wavy">
+    Solution
+  </span>{' '}
+  <br />
+  a) Intracellular digestion, found in protozoa, sponges, cnidarians, and extracellular digestion, found in multicellular organisms from worms to humans. <br />
+  b) During inhalation, the respiratory muscles contract, which causes an increase in the volume of the rib cage, and this, through the pleural system, also expands the lungs, which thus increase their volume. <br />
+  c) - raw sap <br />
+  - elaborated sap <br />
+  - xylem vessels <br />
+  - phloem vessels <br />
+  - suction force <br />
+  - passive transport <br />
+  Circulation in plants consists of the movement of{' '}
+  <span className="text-green-700 underline decoration-double">
+    raw sap
+  </span>{' '}
+  and{' '}
+  <span className="text-green-700 underline decoration-double">
+    elaborated sap
+  </span>
+  . Raw sap contains water and mineral substances and moves through{' '}
+  <span className="text-green-700 underline  decoration-double">
+    xylem vessels
+  </span>{' '}
+  upward, from the root to the leaves. Elaborated sap contains the organic substances synthesized in the leaf through photosynthesis and moves through{' '}
+  <span className="text-green-700 underline decoration-double">
+    phloem vessels
+  </span>
+  , in both directions, upward and downward. The forces that ensure an active transport and the{' '}
+  <span className="text-green-700 underline decoration-double">
+    suction force
+  </span>
+  from the leaves ensure a{' '}
+  <span className="text-green-700 underline decoration-double">
+    passive transport
+  </span>
+  , and the movement of elaborated sap occurs through active transport, at a slower speed than the movement of raw sap, because the phloem vessels contain cytoplasm.
+</p>
             <div className="max-w-2x1 mx-auto mt-10 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-            <p className="text-grey-600 mt-0 text-lg">
-              <span className="font-extrabold text-[#65a30d] underline decoration-wavy">
-                Observație!
-              </span>{' '}
-              Toate sublinierile sau culorile sunt folosite în scopul
-              evidențierii răspunsurilor corecte pentru a înțelege mai ușor, la
-              examenul de bacalaureat NU FOLOSIM CULORI sau SUBLINIERI.
-              <br />
-            </p>
-          </div>
-        </div>
-      </div>
+<p className="text-grey-600 mt-0 text-lg">
+  <span className="font-extrabold text-[#65a30d] underline decoration-wavy">
+    Note!
+  </span>{' '}
+  All underlinings or colors are used for the purpose of highlighting correct answers to make them easier to understand. During the baccalaureate exam DO NOT USE COLORS or UNDERLINING.
+  <br />
+</p>
+</div>
+</div>
+</div>
 
-      <div className="flex justify-center">
-        <span
-          onClick={() => void router.push('/bac/model/2')}
-          className="mb-8 inline-flex items-center rounded-lg border border-lime-500 bg-white px-4 py-2 text-sm font-medium text-lime-500 hover:bg-lime-500 hover:text-white dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white"
-        >
-          Următorul model
-          <svg
-            aria-hidden="true"
-            className="ml-2 h-5 w-5"
-            fill="currentColor"
-            viewBox="0 0 20 20"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              fill-rule="evenodd"
-              d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
-              clip-rule="evenodd"
-            ></path>
-          </svg>
-        </span>
-      </div>
-    </>
-  )
+<div className="flex justify-center">
+  <span
+    onClick={() => void router.push('/bac/model/2')}
+    className="mb-8 inline-flex items-center rounded-lg border border-lime-500 bg-white px-4 py-2 text-sm font-medium text-lime-500 hover:bg-lime-500 hover:text-white dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white"
+  >
+    Next model
+    <svg
+      aria-hidden="true"
+      className="ml-2 h-5 w-5"
+      fill="currentColor"
+      viewBox="0 0 20 20"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        fill-rule="evenodd"
+        d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+        clip-rule="evenodd"
+      ></path>
+    </svg>
+  </span>
+</div>
+</>
+)
 }

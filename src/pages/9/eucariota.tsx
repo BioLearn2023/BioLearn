@@ -48,23 +48,23 @@ export default function Eucariota() {
         <div className=" py-24 sm:py-12">
             <div className="mx-auto max-w-7xl px-6 lg:px-2">
                 <div className="mx-auto max-w-7xl lg:mx-0">
-                    <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Celula eucariotă</h2>
+                    <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Eukaryotic cell</h2>
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Localizare: </span> O regăsim la 4 regnuri: Protista, Fungi, Plante și Animale. <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Componente:</span> <br/>
-                        - membrană celulară <br/>
-                        - citoplasmă <br/>
-                        - nucleu <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Localisation: </span> We find it in 4 kingdoms: Protista, Fungi, Plants, and Animals. <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Components:</span> <br/>
+                        - cell membrane <br/>
+                        - cytoplasm <br/>
+                        - nucleus <br/>
                     </div>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        Celula eucariotă se împarte în: <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Celula vegetală: </span>perete celular, plastide, vacuole mari și permanente. <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Celula animală: </span>nu are perete celular, nu are plastide, vacuole mici și temporare. <br/>
+                        The eukaryotic cell is divided into: <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Plant cell: </span>cell walls, plastids, large and permanent vacuoles. <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Animal cell: </span>no cell wall, no plastids, small and temporary vacuoles. <br/>
                         <div className="flex justify-end -mt-32">
                             <img src="/images/celula-vegetala.png" width={250} height={250} alt="Picture of the author" className="rounded-lg"/>
                             <img src="/images/celula-animala.png" width={450} height={250} alt="Picture of the author" className="rounded-lg"/>
@@ -74,37 +74,37 @@ export default function Eucariota() {
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Clasificarea organitelor:</span> <br/>
-                        - cu membrană dublă: nucleu, plastide, mitocondrii <br/>
-                        - cu membrană simplă: restul organitelor <br/>
-                        - fără membrană: ribozomi, centrozomi <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Classification of organelles:</span> <br/>
+                        - with double membrane: nucleus, plastids, mitochondria <br/>
+                        - with single membrane: all other organelles <br/>
+                        - without membrane: ribosomes, centrosomes <br/>
                     </div>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Componente arevii:</span> <br/>
-                        Protoplastul reprezintă centrul celulei eucariote. <br/>
-                        Componente arevii: perete celular, vacuole, incluziuni ergastice. <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Componente vii (protoplasmatice):</span> <br/>
-                        - restul 
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Non-living components:</span> <br/>
+                        The protoplast represents the center of the eukaryotic cell. <br/>
+                        Non-living components: Cell wall, vacuoles, ergastic inclusions. <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Living(protoplasmatic) components:</span> <br/>
+                        - all the rest 
                     </div>
                     
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        Celulele eucariote, vegetale și animale, sunt celule tipice care au o structură similară, însă prezintă anumite particularități. <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold"> Celula eucariotă vegetală </span> conține plastide, una sau mai multe vacuole permanente și un perete celular de natură celulozică. <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Celula eucariotă animală:</span> <br/>
-                        - este lipsită de plastide <br/>
-                        - are o formațiune numită centrozom <br/>
-                        - vacuolele sunt structuri temporare, și atunci când există au dimensiuni foarte mici <br/>
+                        Eukaryotic, plant, and animal cells are typical cells that have a similar structure, but they present certain particularities. <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">The plant eukaryotic cell </span> contains plastids, one or more permanent vacuoles, and a cellulose-based cell wall. <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">The animal eukaryotic cell:</span> <br/>
+                        - lacks plastids <br/>
+                        - has a structure called the centrosome <br/>
+                        - vacuoles are temporary structures, and when they exist, they are very small in size<br/>
                     </div>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        Celulele eucariote vegetale și animale sunt foarte diferite ca mărime, formă și funcțiune. <br/>
+                        Plant and animal eukaryotic cells vary greatly in size, shape, and function. <br/>
                     </div>
                 </div>
             </div>
@@ -113,10 +113,10 @@ export default function Eucariota() {
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/9/procariota')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/9/perete')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>

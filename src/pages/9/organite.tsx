@@ -94,64 +94,64 @@
                 clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
             }} />
         </div>
- 
+
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Organite celulare - Nucleul</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Cellular Organelles - Nucleus</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
- 
+
                      <div className="mt-0 text-lg text-grey-600 text-center">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definiție: </span> Organitele celulare sunt subunități specializate ale celulei, ce prezintă funcții specifice.<br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definition: </span> Cellular organelles are specialized subunits of the cell that have specific functions.<br/>
                      </div>
- 
+
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
- 
+
                      <div className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">RETICULUL ENDOPLASMATIC</span> <br/>
-                         <span className="underline decoration-wavy text-green-700">Structura: </span> <br/>
-                         Este un sistem de canalicule ramificate ce fac legătura dintre membrana celulară și membrana nucleară. <br/>
-                         Este de două feluri: <br/>
-                         - reticul endoplasmatic neted <br/>
-                         - reticul endoplasmatic rugos <br/>
-                         Ribozomii dau aspectul rugos.  <br/>
-                         Este mai dezvoltat în celulele cu activitate metabolică intensă (celulele hepatice). <br/>
-                         <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                         - transportul substanțelor  <br/>
-                         - sinteza lipidelor și a proteinelor <br/>
-                         - compartimentarea celulei <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">ENDOPLASMIC RETICULUM</span> <br/>
+                         <span className="underline decoration-wavy text-green-700">Structure: </span> <br/>
+                         It is a system of branched canaliculi that connect the cell membrane with the nuclear membrane. <br/>
+                         It is of two types: <br/>
+                         - smooth endoplasmic reticulum <br/>
+                         - rough endoplasmic reticulum <br/>
+                         Ribosomes give it the rough appearance.  <br/>
+                         It is more developed in cells with intense metabolic activity (liver cells). <br/>
+                         <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                         - transport of substances  <br/>
+                         - synthesis of lipids and proteins <br/>
+                         - compartmentalization of the cell <br/>
                          <div className="flex justify-end -mt-64">
                             <img src="/images/reticulul-endoplasmatic.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
- 
+
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
- 
+
                      <div className="mt-0 text-lg text-grey-600 text-right">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">DICTIOZOMII (=aparatul Golgi)</span> <br/>
-                         - Sunt săculeți care prezintă la capete vezicule mici (microvezicule) sau mari (macrovezicule). <br/>
-                         <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                         - secretor (elaborarea secrețiilor celulare) <br/>
-                         - sinteza polizaharidelor <br/>
-                         - prelucrează, stochează proteine și lipide <br/>
-                         - formarea peretelui celular  <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">DICTYOSOMES (=Golgi apparatus)</span> <br/>
+                         - They are sacs that have at their ends small vesicles (microvesicles) or large vesicles (macrovesicles). <br/>
+                         <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                         - secretory (production of cellular secretions) <br/>
+                         - synthesis of polysaccharides <br/>
+                         - processes, stores proteins and lipids <br/>
+                         - formation of the cell wall  <br/>
                          <div className="flex justify-start -mt-64">
                             <img src="/images/golgi.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
                      </div>
- 
+
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
- 
+
                      <div className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">LIZOZOMII</span> <br/>
-                         <span className="underline decoration-wavy text-green-700">Structura:</span> <br/>
-                         - Sunt corpusculi sferici. <br/>
-                         - Conțin aproximativ 40 de enzime digestive (enzime hidrolitice). <br/>
-                         - Se găsesc în număr mare în celulele fagotice (leucocite, celule îmbătrânite). <br/>
-                         <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                         - asigură digestia intracelulară <br/>
-                         - sunt măturătorii celulelor <br/>
-                         - distrug particulele străine, substanțe, fragmente  de țesuturi și celule deteriorate <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">LYSOSOMES</span> <br/>
+                         <span className="underline decoration-wavy text-green-700">Structure:</span> <br/>
+                         - They are spherical bodies. <br/>
+                         - They contain about 40 digestive enzymes (hydrolytic enzymes). <br/>
+                         - They are found in large numbers in phagocytic cells (leukocytes, aged cells). <br/>
+                        <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                         - ensures intracellular digestion <br/>
+                         - are the cell sweepers <br/>
+                         - destroy foreign particles, substances, tissue fragments, and damaged cells <br/>
                          <div className="flex justify-center -mt-64 ml-[55%]">
                             <img src="/images/lizozom.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -160,14 +160,14 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600 text-right">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">RIBOZOMII (=granulele, corpusculii lui Palade)</span> <br/>
-                         - Sunt organite celulare lipsite de membrană celulară. <br/>
-                         <span className="underline decoration-wavy text-green-700">Structura:</span> <br/>
-                         - Sunt structuri ovale sau sferice. <br/>
-                         - Conțin ARN și proteine. <br/>
-                         - Conțin două subunități: mare și mică.<br/>
-                         <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                            - sinteza proteinelor <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">RIBOSOMES (=granules, Palade particles)</span> <br/>
+                         - They are cellular organelles without a cell membrane. <br/>
+                         <span className="underline decoration-wavy text-green-700">Structure:</span> <br/>
+                         - They are oval or spherical structures. <br/>
+                         - Contain RNA and proteins. <br/>
+                         - Contain two subunits: large and small.<br/>
+                         <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                            - protein synthesis <br/>
                         <div className="flex justify-start -mt-48">
                             <img src="/images/ribozomi2.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -176,17 +176,17 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                      <div className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">VACUOLELE</span> <br/>
-                        - Totalitatea vacuolelor formează vacuomul. <br/>
-                        - Membrana vacuolelor se numeșre tonoplast. <br/>
-                        - La celula animală sunt mici și temporare. <br/>
-                        - La celula vegetală sunt mari și permanente. <br/>
-                        - Conțin suc vacuolar (apă + substanțe + pigmenți). <br/>
-                        <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                        - depozitează substanțe <br/>
-                        - circulația apei  <br/>
-                        - eliminarea deșeurilor celulare <br/>
-                        - la animale: vacuole digestive <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">VACUOLES</span> <br/>
+                        - The total of vacuoles forms the vacuome. <br/>
+                        - The membrane of vacuoles is called tonoplast. <br/>
+                        - In animal cells they are small and temporary. <br/>
+                        - In plant cells they are large and permanent. <br/>
+                        - Contain vacuolar sap (water + substances + pigments). <br/>
+                        <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                        - store substances <br/>
+                        - water circulation  <br/>
+                        - elimination of cellular waste <br/>
+                        - in animals: digestive vacuoles <br/>
                         <div className="flex justify-center -mt-64 ml-[55%]">
                             <img src="/images/vacuola.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -195,13 +195,13 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                      <div className="mt-0 text-lg text-grey-600 text-right">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">CENTROZOMUL (=centrul celular)</span> <br/>
-                        - Se găsește la celulele animale și fungi. <br/>
-                        - Lipsește la neuroni. <br/>
-                        - Este format dintr-o zonă citoplasmatică și 1-2 centrioli. <br/>
-                        <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                        - diviziunea celulară <br/>
-                        - formarea fusului de diviziune
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">CENTROSOME (=cell center)</span> <br/>
+                        - Found in animal and fungi cells. <br/>
+                        - Absent in neurons. <br/>
+                        - Consists of a cytoplasmic zone and 1-2 centrioles. <br/>
+                        <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                        - cell division <br/>
+                        - formation of the division spindle
                         <div className="flex justify-start -mt-48">
                             <img src="/images/centroozom.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -209,17 +209,17 @@
 
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Organite specifice anumitor organe</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Organelles specific to certain organs</h2>
 
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">1. NEUROFIBRILELE SAU CORPUSCULII NISSL</span> <br/>
-                        - Sunt organite specifice neuronilor. <br/>
-                        <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                        - mecanic <br/>
-                        - de susținere <br/>
-                        - de conducere a impulsului nervos <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">1. NEUROFIBRILS OR NISSL BODIES</span> <br/>
+                        - Organelles specific to neurons. <br/>
+                        <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                        - mechanical <br/>
+                        - supportive <br/>
+                        - conduction of nerve impulse <br/>
                         <div className="flex justify-center -mt-48 ml-[70%]">
                             <img src="/images/neurofibrile.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -228,9 +228,9 @@
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600 text-right">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">2. MIOFIBRILELE</span> <br/>
-                        - Sunt organite specifice fibrelor musculare. <br/>
-                        - Reprezintă elementele contractile ale fibrelor musculare. <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">2. MYOFIBRILS</span> <br/>
+                        - Organelles specific to muscle fibers. <br/>
+                        - Represent the contractile elements of muscle fibers. <br/>
                         <div className="flex justify-start -mt-24">
                             <img src="/images/miofibrile.webp" width={300} height={250} alt="Picture of the author" className="rounded-lg"/>
                             <img src="/images/miofibrile2.jpg" width={300} height={250} alt="Picture of the author" className="rounded-lg"/>
@@ -240,10 +240,10 @@
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                      <span className="underline decoration-wavy text-[#65a30d] font-extrabold">3. CILII ȘI FLAGELII</span> <br/>
-                      Apar la organitele unicelulare și reproducătoare: <br/>
-                      - asexuate: zoospori <br/>
-                      - sexuate: zoogameți <br/>
+                      <span className="underline decoration-wavy text-[#65a30d] font-extrabold">3. CILIA AND FLAGELLA</span> <br/>
+                      Appear in unicellular and reproductive organelles: <br/>
+                      - asexual: zoospores <br/>
+                      - sexual: zoogametes <br/>
                       <div className="flex justify-center -mt-32 ml-[60%]">
                         <img src="/images/cili-flageli.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                       </div>
@@ -252,31 +252,31 @@
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600 text-right">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">MITOCONDRIILE</span> <br/>
-                        - Sunt organite celulare cu membrană dublă. <br/>
-                        - Sunt autodivizibile. <br/>
-                        - Au formă de bastonaș, sferică, elipsoidală. <br/>
-                        - Au material genetic propriu (ADN și ARN mitocondriali). <br/>
-                        - Sunt mai numeroase în celulele cu activitate metabolică intensă (celulele hepatice), fibrele musculare striate (mușchi striați), celulele aflate în diviziune. <br/>
-                        - Se înmulțesc prin diviziune. <br/>
-                        <span className="underline decoration-wavy text-green-700">Structura:</span> <br/>
-                        - membrana dublă: externă, internă și spațiul intermembranar <br/>
-                        - criste mitocondriale (formate din membrana internă) <br/>
-                        - enzime oxidoreducătoare  <br/>
-                        - substanța fundamentală = MATRIX (substanțe anorganice, substanțe organice: glucide, lipide, proteine, ARN, ADN) <br/>
-                        <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                        Principal: În respirația celulară și producerea energiei înmaagazinate în ATP, de aici rezultă denumitea mitocondriilor de uzine energetice ale celulelor. <br/>
-                        Secundar: Transportul ionilor și sinteza proteinelor și lipidelor. <br/>
-                        - Este moneda energetică universală. <br/>
-                        - Respirația celulară se desfășoară în două etape: în citoplasmă și în mitocondrie. <br/>
-                        <span className="underline decoration-wavy text-green-700">Respirația celulară în citoplasmă:</span> <br/>
-                        - în hialoplasmă <br/>
-                        - glicoliza <br/>
-                        - lipsa O2 rezultă energie mai mică de 2 moli de ATP <br/>
-                        - degradarea parțială a substanțelor organice rezultă compuși intermediari  <br/>
-                        <span className="underline decoration-wavy text-green-700">Respirația celulară în mitocondrie:</span> <br/>
-                        - prezența O2 rezultă energie multă (36 moli ATP) <br/>
-                        - arderea totală rezultă produși finali     
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">MITOCHONDRIA</span> <br/>
+                        - Organelles with a double membrane. <br/>
+                        - Are self-dividing. <br/>
+                        - Have rod, spherical, or elliptical shape. <br/>
+                        - Have their own genetic material (mitochondrial DNA and RNA). <br/>
+                        - More numerous in cells with intense metabolic activity (liver cells), striated muscle fibers, dividing cells. <br/>
+                        - Multiply by division. <br/>
+                        <span className="underline decoration-wavy text-green-700">Structure:</span> <br/>
+                        - double membrane: outer, inner and intermembrane space <br/>
+                        - mitochondrial cristae (formed from inner membrane) <br/>
+                        - oxidoreductase enzymes  <br/>
+                        - fundamental substance = MATRIX (inorganic substances, organic substances: carbohydrates, lipids, proteins, RNA, DNA) <br/>
+                        <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                        Main: In cellular respiration and production of energy stored in ATP, hence mitochondria are called the powerhouses of the cell. <br/>
+                        Secondary: Ion transport and synthesis of proteins and lipids. <br/>
+                        - ATP is the universal energy currency. <br/>
+                        - Cellular respiration occurs in two stages: in cytoplasm and mitochondria. <br/>
+                        <span className="underline decoration-wavy text-green-700">Cellular respiration in cytoplasm:</span> <br/>
+                        - in hyaloplasm <br/>
+                        - glycolysis <br/>
+                        - lack of O2 results in less energy, about 2 ATP molecules <br/>
+                        - partial degradation of organic substances results in intermediate compounds  <br/>
+                        <span className="underline decoration-wavy text-green-700">Cellular respiration in mitochondria:</span> <br/>
+                        - presence of O2 results in much energy (36 ATP molecules) <br/>
+                        - complete burning results in final products     
                         <div className="flex justify-start -mt-48">
                             <img src="/images/mitocondria.png" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -285,61 +285,61 @@
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">PLASTIDELE</span> <br/>
-                        - Sunt organite celulare cu membrană dublă. <br/>
-                        - Sunt autodivizibile. <br/>
-                        - Au acizi nucleici proprii (ADN și ARN plastidial). <br/>
-                        - Au formă sferică, elipsoidală, alungită. <br/>
-                        - Se înmulțesc prin diviziune. <br/>
-                        - La plante sunt numeroase în frunze (cloroplaste). <br/>
-                        - La bacterii se găsesc sub formă de incluziuni. <br/>
-                        - La protiste fotosintetizatoare se găsesc sub formă de cromatofori.    <br/>
-                        <span className="underline decoration-wavy text-green-700">Tipuri funcționale de plastide:</span> <br/>
-                        Cloroplaste - sunt verzi și realizează fotosinteza <br/>
-                        Cromoplaste - conțin pigmenți: roșii, galbeni, portocalii (carotenoizi) <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">PLASTIDS</span> <br/>
+                        - Organelles with a double membrane. <br/>
+                        - Are self-dividing. <br/>
+                        - Have their own nucleic acids (plastid DNA and RNA). <br/>
+                        - Are spherical, elliptical, or elongated. <br/>
+                        - Multiply by division. <br/>
+                        - Numerous in plant leaves (chloroplasts). <br/>
+                        - Found in bacteria as inclusions. <br/>
+                        - Found in photosynthetic protists as chromatophores.    <br/>
+                        <span className="underline decoration-wavy text-green-700">Functional types of plastids:</span> <br/>
+                        Chloroplasts - are green and perform photosynthesis <br/>
+                        Chromoplasts - contain pigments: red, yellow, orange (carotenoids) <br/>
                     </div>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">LEUCOPLASTELE</span> <br/>
-                        - Sunt incolore, lipsite de pigmenți. <br/>
-                        - Se găsesc în porțiunile albicioase ale tulpinilor și frunzelor. <br/>
-                        - Se mai pot găsi și în rădăcinile și tulpinile tuberizate (ex: tubercul de cartof) <br/>
-                        - Se mai găsesc în endospermul seminar. <br/>
-                        <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                        - depozitează substanțe de rezervă  <br/>
-                        G = amidon = amiloplaste <br/>
-                        L = oleoplaste <br/>
-                        P = proteoplaste 
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">LEUCOPLASTS</span> <br/>
+                        - They are colorless, lacking pigments. <br/>
+                        - They are found in the whitish parts of stems and leaves. <br/>
+                        - They can also be found in tuberous roots and stems (ex: potato tuber) <br/>
+                        - They are also found in the seed endosperm. <br/>
+                        <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                        - store reserve substances  <br/>
+                        G = starch = amyloplasts <br/>
+                        L = oleoplasts <br/>
+                        P = protoplasts 
                     </div>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <div className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">CLOROPLASTUL</span> <br/>
-                        <span className="underline decoration-wavy text-green-700">Structura:</span> <br/>
-                        - membrană externă <br/>
-                        - spațiul intermembranar <br/>
-                        - membrană internă <br/>
-                        - plieri lamelare = lamele ce conțin tilacoizi rezultă grana <br/>
-                        *grana = sistem tilacoidal (conține clorofilă) <br/>
-                        <span className="underline decoration-wavy text-green-700">Rolul cloroplastului în realizarea fotosintezei. </span> <br/>
-                        Fotosinteza este proceul de nutriție autotrofă, caracteristic plantelor prin care acestea își procură din substanțe anorganice, substanțele anorganice necesare în prezența luminii și a clorofilei. <br/>
-                        <span className="underline decoration-wavy text-green-700">Clorofila</span> <br/>
-                        - Este un pigment asimilator de culoare verde (pigment clorofilian). <br/>
-                        - Se găsește în cloroplast la nivelul granei. <br/>
-                        Fotosinteza se realizează în două faze: <br/>
-                        <span className="underline decoration-wavy text-green-700">1. Faza de lumină (faza Hill)</span> <br/>
-                        - are loc în grana cloroplastului <br/>
-                        - lumina este absorbită de clorofilă <br/>
-                        - are loc descompunerea apei (fotoliza apei) <br/>
-                        - se eliberează oxigen în atmosferă <br/>
-                        - se produce energie înmagazinată în ATP <br/>
-                        <span className="underline decoration-wavy text-green-700">2. Faza întunecată (faza Blackman)</span> <br/>
-                        - se realizează în stroma cloroplastului <br/>
-                        - se reduce dioxidul de carbon <br/>
-                        - se formează SO <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">CHLOROPLAST</span> <br/>
+                        <span className="underline decoration-wavy text-green-700">Structure:</span> <br/>
+                        - outer membrane <br/>
+                        - intermembrane space <br/>
+                        - inner membrane <br/>
+                        - lamellar folds = layers containing thylakoids form the grana <br/>
+                        *grana = thylakoid system (contains chlorophyll) <br/>
+                        <span className="underline decoration-wavy text-green-700">Role of chloroplast in photosynthesis.</span> <br/>
+                        Photosynthesis is the autotrophic nutrition process characteristic of plants by which they obtain organic substances from inorganic substances in the presence of light and chlorophyll. <br/>
+                        <span className="underline decoration-wavy text-green-700">Chlorophyll</span> <br/>
+                        - It is a green assimilating pigment (chlorophyll pigment). <br/>
+                        - It is found in the chloroplast at the level of the grana. <br/>
+                        Photosynthesis occurs in two phases: <br/>
+                        <span className="underline decoration-wavy text-green-700">1. Light phase (Hill reaction)</span> <br/>
+                        - takes place in the chloroplast grana <br/>
+                        - light is absorbed by chlorophyll <br/>
+                        - water is decomposed (photolysis of water) <br/>
+                        - oxygen is released into the atmosphere <br/>
+                        - energy stored in ATP is produced <br/>
+                        <span className="underline decoration-wavy text-green-700">2. Dark phase (Blackman reaction)</span> <br/>
+                        - takes place in the chloroplast stroma <br/>
+                        - carbon dioxide is reduced <br/>
+                        - SO is formed <br/>
                         <div className="flex justify-center -mt-72 ml-[60%]">
                             <img src="/images/cloroplast.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -348,26 +348,26 @@
                         <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                         <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">NUCLEUL</span> <br/>
-                        - Coordonează procesele biologice celulare fundamentale. <br/>
-                        - Este prezentat de majoritatea celulelor eucariote. <br/>
-                        <span className="underline decoration-wavy text-green-700">Structura:</span> <br/>
-                        1. Membrana nucleară <br/>
-                        - este dublă <br/>
-                        - străbătută de pori prin care se face schimbul între nucleu și citoplasmă <br/>
-                        - membrana externă prezintă atașați ribozomi și se continuă cu membrana reticulului endoplasmatic<br/>
-                        2. Carioplasma = nucleoplasma <br/>
-                        - formată dintr-o parte lichidă numită cariolimfă (o soluție coloidală cu aspect omogen) și o parte dispersată sub formă de filamente lungi, subțiri și încolăcite, care constituie cromatina<br/>
-                        - fibra de cromatină reprezintă un cromozom despiralizat, care la începutul diviziunii celulare se condensează și astfel poate fi văzut la microscop <br/>
-                        3. Nucleolul <br/>
-                        - celula poate avea unul sau doi <br/>
-                        - au forma unor corpusculi denși, sferici sau elipsoidali<br/>
-                        - lipsit de membrană proprie <br/>
-                        - conține ARN, ADN și proteine <br/>
-                        - au rol în diviziunea celulară precum și în biogeneza ribozomilor <br/>
-                        <span className="underline decoration-wavy text-green-700">Rol:</span> <br/>
-                        - reprezintă centrala informațională și de control a celulei, dar și sediul eredității <br/>
-                        - prin conținutul de acizi nucleici, nucleul poartă și transmite informația prin sinteza proteinelor
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">NUCLEUS</span> <br/>
+                        - Coordinates fundamental cellular biological processes. <br/>
+                        - It is present in most eukaryotic cells. <br/>
+                        <span className="underline decoration-wavy text-green-700">Structure:</span> <br/>
+                        1. Nuclear membrane <br/>
+                        - is double <br/>
+                        - crossed by pores through which exchange between nucleus and cytoplasm occurs <br/>
+                        - the outer membrane has attached ribosomes and continues with the membrane of the endoplasmic reticulum<br/>
+                        2. Carioplasm = nucleoplasm <br/>
+                        - consists of a liquid part called cariolymph (a colloidal solution with a homogeneous appearance) and a dispersed part in the form of long, thin, coiled filaments that constitute chromatin<br/>
+                        - the chromatin fiber represents an uncoiled chromosome, which condenses at the beginning of cell division and can thus be seen under a microscope <br/>
+                        3. Nucleolus <br/>
+                        - the cell can have one or two <br/>
+                        - shaped like dense, spherical or ellipsoidal corpuscles<br/>
+                        - lacking its own membrane <br/>
+                        - contains RNA, DNA, and proteins <br/>
+                        - plays a role in cell division as well as in ribosome biogenesis <br/>
+                        <span className="underline decoration-wavy text-green-700">Role:</span> <br/>
+                        - represents the information and control center of the cell, as well as the seat of heredity <br/>
+                        - through its nucleic acid content, the nucleus carries and transmits information through protein synthesis
                         </p>
 
                  </div>
@@ -377,18 +377,16 @@
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/9/citoplasma')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/9/cromozomi')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>
-         
-                    
- 
-         </>
+
+        </>
      )
- }
+ } 
  
  

@@ -66,109 +66,109 @@ export const API_6 = {
 const Test6 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Alegeți  asocierea corectă:', 1, -1, [
-      'tenie - Platelminți',
-      'melcul de livadă - Lamelibranhiate (Bivalve)',
-      'păianjenul cu cruce - Insecte ',
-      'broasca de lac - Urodele',
+    new test('Choose the correct association:', 1, -1, [
+      'tapeworm - Platyhelminthes',
+      'grove snail - Lamellibranchs (Bivalves)',
+      'cross spider - Insects',
+      'lake frog - Urodela',
     ]),
 
-    new test('Un individ cu genotipul AABB:', 4, -1, [
-      'este hibrid pentru ambele perechi de factori ereditari',
-      'formează 2 tipuri de gameți',
-      'manifestă fenotipul de gameți',
-      'este homozigot dominant pentru două perechi de gene',
+    new test('An individual with genotype AABB:', 4, -1, [
+      'is a hybrid for both pairs of hereditary factors',
+      'produces 2 types of gametes',
+      'manifests the phenotype of the gametes',
+      'is homozygous dominant for two pairs of genes',
     ]),
 
-    new test('Neuronul:', 3, -1, [
-      'conține mielină la nivelul corpului neuronal',
-      'are unul sau mai mulți axoni',
-      'primește excitația la nivelul dendritelor',
-      'are rol în formarea urinei',
+    new test('The neuron:', 3, -1, [
+      'contains myelin at the level of the cell body',
+      'has one or more axons',
+      'receives excitation at the dendrites',
+      'has a role in urine formation',
     ]),
 
-    new test('Urechea medie comunică cu:', 2, -1, [
-      'urechea internă, prin timpan',
-      'faringele, prin trompa lui Eustachio',
-      'urechea externă, prin fereastra rotundă',
-      'urechea externă, prin fereastra ovală',
+    new test('The middle ear communicates with:', 2, -1, [
+      'the inner ear, through the eardrum',
+      'the pharynx, via the Eustachian tube',
+      'the outer ear, through the round window',
+      'the outer ear, through the oval window',
     ]),
 
-    new test('Receptorii acustici la mamifere sunt localizați în:', 2, -1, [
-      'retină',
-      'melcul membranos',
-      'utriculă',
-      'saculă',
+    new test('Acoustic receptors in mammals are located in:', 2, -1, [
+      'retina',
+      'membranous cochlea',
+      'utricle',
+      'saccule',
     ]),
 
     new test(
-      'Marcotajul este o formă de reproduce asexuată artificială practicată la:',
+      'Layering is a form of artificial asexual reproduction practiced on:',
       2,
       -1,
-      ['mușcată', 'vița de vie', 'stânjenel', 'cartof']
+      ['geranium', 'grapevine', 'iris', 'potato']
     ),
 
     new test(
-      'Substanța cenușie organizată în coarne este prezentă la nivelul:',
+      'Gray matter organized into horns is present at the level of the:',
       3,
       -1,
-      ['cerebelului', 'hipotalamusului', 'măduvei spinării', 'mezencefalul']
+      ['cerebellum', 'hypothalamus', 'spinal cord', 'midbrain']
     ),
 
-    new test('La nivelul intestinului subțire:', 4, -1, [
-      'aminoacizii sunt transformați în proteine',
-      'enzimele bilei degradează acizii grași și glicerina',
-      'se formează materiile fecale',
-      'alimentele sunt supuse acțiunii sucului pancreatic',
+    new test('At the level of the small intestine:', 4, -1, [
+      'amino acids are transformed into proteins',
+      'bile enzymes degrade fatty acids and glycerin',
+      'feces are formed',
+      'food is subjected to pancreatic juice action',
     ]),
 
     new test(
-      'Componentă structurală a celulei vegetale, absentă la celula animală este:',
+      'A structural component of the plant cell, absent in the animal cell, is:',
       1,
       -1,
-      ['peretele celular', 'mitocondria', 'nucleul', 'ribozomul']
+      ['cell wall', 'mitochondrion', 'nucleus', 'ribosome']
     ),
 
-    new test('Cromozomii sunt bicromatidici în:', 2, -1, [
-      'telofaza mitozei',
-      'profaza II',
-      'anafaza mitozei',
-      'telofaza II',
+    new test('Chromosomes are bicromatid in:', 2, -1, [
+      'telophase of mitosis',
+      'prophase II',
+      'anaphase of mitosis',
+      'telophase II',
     ]),
 
-    new test('Respirația branhială se întâlnește la:', 1, -1, [
-      'păstrăv și larvele amfibienilor',
-      'balenă și limbric',
-      'vipere și gușter',
-      'broasca țestoasă de apă și insecte',
+    new test('Gill respiration is found in:', 1, -1, [
+      'trout and amphibian larvae',
+      'whale and earthworm',
+      'vipers and lizards',
+      'water turtle and insects',
     ]),
 
-    new test('Sinteza proteică are loc la nivelul:', 4, -1, [
-      'dictiozomilor',
-      'lizozomilor',
-      'centrozomilor',
-      'ribozomilor',
+    new test('Protein synthesis occurs at the level of:', 4, -1, [
+      'dictyosomes',
+      'lysosomes',
+      'centrosomes',
+      'ribosomes',
     ]),
 
-    new test('La nivelul urechii mamiferelor:', 1, -1, [
-      'conductul auditiv conduce sunetul la timpan',
-      'ciocanul se sprijină pe fereastra ovală',
-      'melcul este localizat în urechea medie',
-      'receptorii auditivi se află în utriculă și saculă',
+    new test('In the mammalian ear:', 1, -1, [
+      'the auditory canal directs sound to the eardrum',
+      'the hammer rests on the oval window',
+      'the cochlea is located in the middle ear',
+      'auditory receptors are found in the utricle and saccule',
     ]),
 
-    new test('Celenteratele:', 2, -1, [
-      'trăiesc în mediul terestru',
-      'prezintă tentacule',
-      'au cap, picior și masă viscerală',
-      'includ păianjenul și racul',
+    new test('Cnidarians:', 2, -1, [
+      'live in terrestrial environments',
+      'have tentacles',
+      'have head, foot, and visceral mass',
+      'include spider and crayfish',
     ]),
 
-    new test('Sunt organite celulare autodivizibile:', 3, -1, [
-      'dictiozomii',
-      'lizozomii',
-      'mitocondriile',
-      'vacuolele',
+    new test('Self-replicating cell organelles are:', 3, -1, [
+      'dictyosomes',
+      'lysosomes',
+      'mitochondria',
+      'vacuoles',
     ]),
   ])
   const [shouldRender, setRender] = useState(false)
@@ -188,7 +188,7 @@ const Test6 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -202,12 +202,12 @@ const Test6 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quizzes')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

@@ -66,109 +66,109 @@ export const API_10 = {
 const Test10 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Este suc digestiv:', 2, -1, [
-      'amilaza',
-      'bila',
-      'lactaza',
-      'pepsina',
+    new test('Is a digestive juice:', 2, -1, [
+      'amylase',
+      'bile',
+      'lactase',
+      'pepsin',
     ]),
 
-    new test('Hemofilia se caracterizează prin:', 1, -1, [
-      'deficiențe de coagulare a sângelui ',
-      'incapacitatea de a distinge culoarea roșie de culoarea verde',
-      'prezența în sânge a hematiilor în formă de seceră',
-      'prezența unui heterozom suplimentar',
+    new test('Hemophilia is characterized by:', 1, -1, [
+      'blood clotting deficiencies',
+      'inability to distinguish red from green color',
+      'presence of sickle-shaped red blood cells',
+      'presence of an additional heterosome',
     ]),
 
-    new test('Sângele este adus în atriul drept al inimii prin:', 3, -1, [
-      'artera aortă',
-      'artera pulmonară',
-      'venele cave',
-      'venele pulmonare',
+    new test('Blood is brought to the right atrium of the heart by:', 3, -1, [
+      'aortic artery',
+      'pulmonary artery',
+      'vena cava',
+      'pulmonary veins',
     ]),
 
-    new test('Plastidele sunt organite celulare întâlnite la:', 3, -1, [
-      'bacterii',
-      'bazidiomicete',
-      'monocotiledonate',
-      'urodele',
+    new test('Plastids are cell organelles found in:', 3, -1, [
+      'bacteria',
+      'basidiomycetes',
+      'monocotyledons',
+      'urodeles',
     ]),
 
-    new test('Are corpul reprezentat de corm:', 3, -1, [
-      'bacilul fânului',
-      'cornul secarei',
-      'laricele (zada)',
-      'sbârciogul',
+    new test('Has the body represented by a corm:', 3, -1, [
+      'hay bacillus',
+      'rye horn',
+      'larch',
+      'scabious',
     ]),
 
-    new test('Centrozomii se găsesc în: ', 3, -1, [
-      'centromer',
-      'lizozom',
-      'nucleu',
-      'ribozom',
+    new test('Centrosomes are found in:', 3, -1, [
+      'centromere',
+      'lysosome',
+      'nucleus',
+      'ribosome',
     ]),
 
-    new test('Foveea centralis:', 4, -1, [
-      'asigură acomodarea pentru distanță',
-      'este o componentă a coroidei',
-      'face parte din sistemul optic',
-      'se găsește la nivelul petei galbene',
+    new test('Fovea centralis:', 4, -1, [
+      'provides accommodation for distance',
+      'is a component of the choroid',
+      'is part of the optic system',
+      'is located at the yellow spot',
     ]),
 
-    new test('Inima, la om, este un organ:', 2, -1, [
-      'respirator',
+    new test('The heart, in humans, is an organ:', 2, -1, [
+      'respiratory',
       'muscular',
-      'pereche',
-      'tricameral',
+      'paired',
+      'three-chambered',
     ]),
 
-    new test('Stomacul produce:', 3, -1, [
-      'bilă',
-      'salivă',
-      'suc gastric',
-      'suc pancreatic',
+    new test('The stomach produces:', 3, -1, [
+      'bile',
+      'saliva',
+      'gastric juice',
+      'pancreatic juice',
     ]),
 
-    new test('Sindromul Turner:', 1, -1, [
-      'reprezintă o monosomie',
-      'este o trisomie laterală',
-      'prezintă cariotipul 2n = 47 + XXX',
-      'se transmite de la mamă la băieți',
+    new test('Turner syndrome:', 1, -1, [
+      'represents a monosomy',
+      'is a lateral trisomy',
+      'has a karyotype 2n = 47 + XXX',
+      'is transmitted from mother to sons',
     ]),
 
-    new test('Venele cave se deschid în:', 1, -1, [
-      'atriul drept',
-      'atriul stâng',
-      'ventriculul stâng',
-      'ventriculul drept',
+    new test('The vena cava opens into:', 1, -1, [
+      'right atrium',
+      'left atrium',
+      'left ventricle',
+      'right ventricle',
     ]),
 
-    new test('George Emil Palade a descoperit:', 3, -1, [
-      'cloroplastele',
-      'lizozomii',
-      'ribozomii',
-      'vacuolele',
+    new test('George Emil Palade discovered:', 3, -1, [
+      'chloroplasts',
+      'lysosomes',
+      'ribosomes',
+      'vacuoles',
     ]),
 
-    new test('Are corpul reprezentat de corm:', 1, -1, [
-      'tisa',
-      'bacilul tetanosului',
-      'drojdia',
-      'lichenul de piatră',
+    new test('Has the body represented by a corm:', 1, -1, [
+      'yew',
+      'tetanus bacillus',
+      'yeast',
+      'rock lichen',
     ]),
 
     new test(
-      'Știința care studiază clasificarea organismelor se numește:',
+      'The science that studies the classification of organisms is called:',
       4,
       -1,
-      ['citologie', 'evoluționism', 'histologie', 'sistematică']
+      ['cytology', 'evolutionism', 'histology', 'systematics']
     ),
 
     new test(
-      'Țesutul alcătuit din neuroni și celule gliale (nevroglii) se numește:',
+      'The tissue made up of neurons and glial cells (neuroglia) is called:',
       3,
       -1,
-      ['cartilaginos', 'muscular', 'nervos', 'osos spongios']
+      ['cartilaginous', 'muscular', 'nervous', 'spongy bone']
     ),
   ])
   const [shouldRender, setRender] = useState(false)
@@ -188,7 +188,7 @@ const Test10 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -202,12 +202,12 @@ const Test10 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quiz')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

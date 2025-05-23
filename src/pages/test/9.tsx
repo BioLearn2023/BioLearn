@@ -66,114 +66,114 @@ export const API_9 = {
 const Test9 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Meristemele apicale:', 3, -1, [
-      'conțin celule care nu se mai pot divide',
-      'sunt alcătuite din celulele specializate',
-      'se află în vârfurile de creștere',
-      'sunt situate lateral de axul organului vegetativ',
+    new test('Apical meristems:', 3, -1, [
+      'contain cells that can no longer divide',
+      'are composed of specialized cells',
+      'are located at growth tips',
+      'are located laterally to the vegetative organ axis',
     ]),
 
     new test(
-      'Pentru a realiza fotosinteza, un organism viu trebuie să:',
+      'To perform photosynthesis, a living organism must:',
       2,
       -1,
       [
-        'aparțină regnului fungi',
-        'conțină cloroplaste',
-        'absoarbă glucoza din sol',
-        'sintetizeze substanțe anorganice',
+        'belong to the fungi kingdom',
+        'contain chloroplasts',
+        'absorb glucose from the soil',
+        'synthesize inorganic substances',
       ]
     ),
 
-    new test('Drojdiile sunt:', 1, -1, [
-      'ascomicete',
-      'filicate',
-      'sporozoare',
-      'procariote',
+    new test('Yeasts are:', 1, -1, [
+      'ascomycetes',
+      'filicates',
+      'sporozoans',
+      'prokaryotes',
     ]),
 
     new test(
-      'Genotipurile tuturor gameților formați de un organism AaBb sunt:',
+      'The genotypes of all gametes formed by an AaBb organism are:',
       4,
       -1,
       ['A, B, a, b', 'Aa, Bb', 'AaB, Aab', 'AB, Ab, aB, ab']
     ),
 
-    new test('Tisa:', 1, -1, [
-      'este o specie ocrotită prin lege',
-      'face parte din grupul angiospermelor',
-      'prezintă semințele închise în fruct',
-      'se reproduce asexuat prin rizomi',
+    new test('Yew:', 1, -1, [
+      'is a species protected by law',
+      'belongs to the angiosperm group',
+      'has seeds enclosed in fruit',
+      'reproduces asexually through rhizomes',
     ]),
 
-    new test('La mamifere, pielea conține receptorii:', 3, -1, [
-      'auditivi',
-      'gustativi',
-      'tactili',
-      'vizuali',
+    new test('In mammals, the skin contains receptors:', 3, -1, [
+      'auditory',
+      'gustatory',
+      'tactile',
+      'visual',
     ]),
 
-    new test('Sporozoarele aparțin regnului:', 4, -1, [
-      'Animale',
+    new test('Sporozoans belong to the kingdom:', 4, -1, [
+      'Animals',
       'Fungi',
-      'Plante',
-      'Protiste',
+      'Plants',
+      'Protists',
     ]),
 
-    new test('În timpul profazei mitotice:', 3, -1, [
-      'se dublează cantitatea de ADN',
-      'se realizează fecundația',
-      'se individualizează cromozomii',
-      'se reduce la jumătate numărul de cromozomi ai celulelor',
+    new test('During mitotic prophase:', 3, -1, [
+      'the amount of DNA doubles',
+      'fertilization occurs',
+      'chromosomes become distinct',
+      'the number of chromosomes in cells halves',
     ]),
 
-    new test('Fructul salcâmului este:', 4, -1, [
-      'achemă',
-      'bacă',
-      'drupă',
-      'păstaie',
+    new test('The fruit of the acacia tree is:', 4, -1, [
+      'achene',
+      'berry',
+      'drupe',
+      'pod',
     ]),
 
-    new test('Ursul:', 1, -1, [
-      'este un mamifer plantigrad',
-      'respiră anaerob',
-      'se hrănește autotrof',
-      'se reproduce asexuat',
+    new test('The bear:', 1, -1, [
+      'is a plantigrade mammal',
+      'breathes anaerobically',
+      'feeds autotrophically',
+      'reproduces asexually',
     ]),
 
-    new test('Plantă dicotiledonată este:', 3, -1, [
-      'grâul',
-      'irisul',
-      'măceșul',
-      'porumbul',
+    new test('A dicotyledonous plant is:', 3, -1, [
+      'wheat',
+      'iris',
+      'dog rose',
+      'corn',
     ]),
 
-    new test('În cazul respirației anaerobe:', 4, -1, [
-      'au loc reacții de oxidare completă',
-      'se formează apă',
-      'sunt oxidate substanțe anorganice',
-      'rezultă produși intermediari',
+    new test('In anaerobic respiration:', 4, -1, [
+      'complete oxidation reactions occur',
+      'water is formed',
+      'inorganic substances are oxidized',
+      'intermediate products result',
     ]),
 
-    new test('Păsările au:', 1, -1, [
-      'fecundația internă',
-      'nutriție parazită',
-      'temperatura corpului variabilă',
-      'respirație branhială',
+    new test('Birds have:', 1, -1, [
+      'internal fertilization',
+      'parasitic nutrition',
+      'variable body temperature',
+      'branchial respiration',
     ]),
 
     new test(
-      'Nutrimentele rezultate prin degradarea enzimatică a proteinelor sunt:',
+      'Nutrients resulting from enzymatic degradation of proteins are:',
       2,
       -1,
-      ['acizii grași', 'aminoacizii', 'glicerolul', 'monozaharidele']
+      ['fatty acids', 'amino acids', 'glycerol', 'monosaccharides']
     ),
 
-    new test('Aparține sistemelor digestiv și respirator:', 3, -1, [
-      'cavitatea nazală',
-      'esofagul',
-      'faringele',
-      'laringele',
+    new test('Belongs to the digestive and respiratory systems:', 3, -1, [
+      'nasal cavity',
+      'esophagus',
+      'pharynx',
+      'larynx',
     ]),
   ])
   const [shouldRender, setRender] = useState(false)
@@ -193,7 +193,7 @@ const Test9 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -207,12 +207,12 @@ const Test9 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quiz')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

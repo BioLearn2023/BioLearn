@@ -67,123 +67,123 @@ const Test4 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
     new test(
-      'Exemplu de fruct uscat indehiscent, întâlnit la angiosperme, este:',
+      'An example of a dry indehiscent fruit found in angiosperms is:',
       2,
       -1,
-      ['capsula', 'cariospa', 'păstaia', 'silicva']
+      ['capsule', 'caryopsis', 'pod', 'silique']
     ),
 
-    new test('Celulele cu conuri sunt:', 4, -1, [
-      'absente în pata galbenă',
-      'celule chemosensibile',
-      'componente ale nervului optic',
-      'localizate în retină',
+    new test('Cone cells are:', 4, -1, [
+      'absent in the yellow spot',
+      'chemosensitive cells',
+      'components of the optic nerve',
+      'located in the retina',
     ]),
 
-    new test('La plante, fotosinteza:', 2, -1, [
-      'are loc în absența pigmenților asimilatori',
-      'este un tip de nutriție autotrofă',
-      'eliberează energie luminoasă',
-      'sintetizează substanțe anorganice',
+    new test('In plants, photosynthesis:', 2, -1, [
+      'occurs in the absence of assimilatory pigments',
+      'is a type of autotrophic nutrition',
+      'releases light energy',
+      'synthesizes inorganic substances',
     ]),
 
     new test(
-      'La realizarea funcției de nutriție a organismelor participă sistemele:',
+      'The systems involved in the nutrition function of organisms are:',
       1,
       -1,
       [
-        'circulator, digestiv, excretor',
-        'digestiv, muscular, osos',
-        'excretor, nervos, muscular',
-        'respirator, osos, muscular',
+        'circulatory, digestive, excretory',
+        'digestive, muscular, skeletal',
+        'excretory, nervous, muscular',
+        'respiratory, skeletal, muscular',
       ]
     ),
 
     new test(
-      'Fiecare dintre celulele-fiice, formate prin diviziunea mitotică a unei celule-mamă cu 2n = 28 cromozomi, are:',
+      'Each of the daughter cells formed by mitotic division of a parent cell with 2n = 28 chromosomes has:',
       2,
       -1,
       [
-        '2n  = 28 cromozomi',
-        '2n = 14 cromozomi',
-        'n = 28 cromozomi',
-        'n = 14 cromozomi',
+        '2n = 28 chromosomes',
+        '2n = 14 chromosomes',
+        'n = 28 chromosomes',
+        'n = 14 chromosomes',
       ]
     ),
 
-    new test('Insuficiența renală cronică este o boală a sistemului:', 3, -1, [
-      'circulator',
-      'digestiv',
-      'excretor',
-      'respirator',
+    new test('Chronic kidney failure is a disease of the:', 3, -1, [
+      'circulatory system',
+      'digestive system',
+      'excretory system',
+      'respiratory system',
     ]),
 
     new test(
-      'Glanda anexă, componentă a sistemului digestiv al mamiferelor este:',
+      'An accessory gland that is part of the digestive system of mammals is:',
       3,
       -1,
-      ['esofagul', 'faringele', 'pancreasul', 'stomacul']
+      ['esophagus', 'pharynx', 'pancreas', 'stomach']
     ),
 
-    new test('La plante, fotosinteza:', 4, -1, [
-      'are sediul în mitocondrie',
-      'are loc în absența pigmenților clorofilieni',
-      'descompune apa în faze de întuneric',
-      'se poate evidenția după O2 produs',
+    new test('In plants, photosynthesis:', 4, -1, [
+      'occurs in the mitochondria',
+      'occurs in the absence of chlorophyll pigments',
+      'splits water in the dark phase',
+      'can be detected by the O2 produced',
     ]),
 
     new test(
-      'Fiecare dintre celulele-fiice formate prin diviziunea meiotică a unei celule-mamă cu 2n = 36 cromozomi are:',
+      'Each of the daughter cells formed by meiotic division of a parent cell with 2n = 36 chromosomes has:',
       4,
       -1,
       [
-        '2n = 36 cromozomi',
-        '2n = 18 cromozomi',
-        'n = 36 cromozomi',
-        'n = 18 cromozomi',
+        '2n = 36 chromosomes',
+        '2n = 18 chromosomes',
+        'n = 36 chromosomes',
+        'n = 18 chromosomes',
       ]
     ),
 
-    new test('Boală cu transmitere sexuală este:', 2, -1, [
-      'astigmatismul',
-      'candidoza',
-      'epilepsia',
-      'gastrita',
+    new test('A sexually transmitted disease is:', 2, -1, [
+      'astigmatism',
+      'candidiasis',
+      'epilepsy',
+      'gastritis',
     ]),
 
-    new test('Cale respiratorie a mamiferelor este:', 4, -1, [
-      'alveola pulmonară',
-      'esofagul',
+    new test('A respiratory tract of mammals is:', 4, -1, [
+      'pulmonary alveolus',
+      'esophagus',
       'pleura',
-      'laringele',
+      'larynx',
     ]),
 
-    new test('La mamifere, ureterele', 4, -1, [
-      'alcătuiesc zona medulară a rinichilor',
-      'au formă de pâlnie cu baza spre hilul renal',
-      'sunt localizate între vezica urinară și uretră',
-      'transportă urina către vezica urinară',
+    new test('In mammals, the ureters:', 4, -1, [
+      'make up the medullary area of the kidneys',
+      'are funnel-shaped with the base towards the renal hilum',
+      'are located between the urinary bladder and urethra',
+      'transport urine to the urinary bladder',
     ]),
 
-    new test('La plante, fotosinteza:', 2, -1, [
-      'eliberează CO2 în prezența luminii',
-      'necesită prezența pigmenților asimilatori',
-      'poate fi evidențiată după O2 absorbit',
-      'produce o cantitate mare de energie',
+    new test('In plants, photosynthesis:', 2, -1, [
+      'releases CO2 in the presence of light',
+      'requires the presence of assimilatory pigments',
+      'can be detected by the absorbed O2',
+      'produces a large amount of energy',
     ]),
 
-    new test('Din grupul protistelor fac parte:', 4, -1, [
-      'briatele',
-      'eubacteriile',
-      'filicatele',
-      'sporozoarele',
+    new test('The protist group includes:', 4, -1, [
+      'bryophytes',
+      'eubacteria',
+      'ferns',
+      'sporozoans',
     ]),
 
-    new test('Anurele sunt:', 3, -1, [
-      'anelide',
-      'artropode',
-      'cordate',
-      'reptile',
+    new test('Anurans are:', 3, -1, [
+      'annelids',
+      'arthropods',
+      'chordates',
+      'reptiles',
     ]),
   ])
   const [shouldRender, setRender] = useState(false)
@@ -203,7 +203,7 @@ const Test4 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -217,12 +217,12 @@ const Test4 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quiz')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

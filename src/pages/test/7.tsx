@@ -66,114 +66,114 @@ export const API_7 = {
 const Test7 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Este un constituent specific celulei vegetale:', 2, -1, [
-      'lizozomul',
-      'peretele celular',
-      'reticulul endoplasmatic',
-      'ribozomul',
+    new test('It is a specific constituent of the plant cell:', 2, -1, [
+      'lysosome',
+      'cell wall',
+      'endoplasmic reticulum',
+      'ribosome',
     ]),
 
     new test(
-      'Fiecare din celulele-fiice, rezultate din diviziunea meiotică a unei celule-mamă cu 2n = 28 cromozomi, are:',
+      'Each of the daughter cells resulting from meiotic division of a mother cell with 2n = 28 chromosomes has:',
       3,
       -1,
       [
-        '2n = 14 cromozomi',
-        '2n = 28 cromozomi',
-        'n = 24 cromozomi',
-        'n = 28 cromozomi',
+        '2n = 14 chromosomes',
+        '2n = 28 chromosomes',
+        'n = 24 chromosomes',
+        'n = 28 chromosomes',
       ]
     ),
 
-    new test('Cristele intră în alcătuirea:', 2, -1, [
-      'cloroplastelor',
-      'mitocondriilor',
-      'nucleului',
-      'vacuolelor',
+    new test('Cristae are part of:', 2, -1, [
+      'chloroplasts',
+      'mitochondria',
+      'nucleus',
+      'vacuoles',
     ]),
 
     new test('Gregor Mendel:', 3, -1, [
-      'a demonstrat segregarea independentă a perechilor de caractere',
-      'a enunțat legea codominanței, în cazul grupelor de sânge',
-      'a experimentat hibridarea pe plante autogame',
-      'a realizat experiențe de hibridare la șoareci',
+      'demonstrated independent segregation of character pairs',
+      'stated the law of codominance in blood groups',
+      'experimented hybridization on self-pollinating plants',
+      'conducted hybridization experiments on mice',
     ]),
 
-    new test('Hemoglobina:', 2, -1, [
-      'conține magneziu',
-      'este o proteină',
-      'se găsește în trombocite',
-      'la nivelul plămânilor se combină cu CO2',
+    new test('Hemoglobin:', 2, -1, [
+      'contains magnesium',
+      'is a protein',
+      'is found in platelets',
+      'combines with CO2 in the lungs',
     ]),
 
     new test(
-      'Nutrimente care rezultă din digestia chimică a lipidelor sunt:',
+      'Nutrients resulting from the chemical digestion of lipids are:',
       1,
       -1,
-      ['acizii grași', 'aminoacizii', 'glucoza', 'peptidele']
+      ['fatty acids', 'amino acids', 'glucose', 'peptides']
     ),
 
-    new test('Bacilul fânului face parte din regnul:', 2, -1, [
+    new test('The hay bacillus belongs to the kingdom:', 2, -1, [
       'Fungi',
       'Monera',
       'Protista',
-      'Plante',
+      'Plants',
     ]),
 
-    new test('Au rol în producerea energiei celulare:', 3, -1, [
-      'dictiozomii',
-      'lizozomii',
-      'mitocondriile',
-      'ribozomii',
+    new test('They play a role in cellular energy production:', 3, -1, [
+      'dictyosomes',
+      'lysosomes',
+      'mitochondria',
+      'ribosomes',
     ]),
 
-    new test('Respirația aerobă:', 1, -1, [
-      'are loc în prezența oxigenului',
-      'duce la sinteza de substanțe organice',
-      'necesită prezența luminii',
-      'se mai numește fermentație',
+    new test('Aerobic respiration:', 1, -1, [
+      'takes place in the presence of oxygen',
+      'leads to synthesis of organic substances',
+      'requires light presence',
+      'is also called fermentation',
     ]),
 
-    new test('Se deplasează prin fugă:', 4, -1, [
-      'brotăcelul',
-      'leneșul',
-      'tritonul',
-      'struțul',
+    new test('Moves by running:', 4, -1, [
+      'tadpole',
+      'sloth',
+      'newt',
+      'ostrich',
     ]),
 
-    new test('Sindromul Turner:', 4, -1, [
-      'afectează în mod egal ambele sexe',
-      'este o maladie autozomală',
-      'reprezintă o trisomie',
-      'se caracterizează prin prezența a 45 de cromozomi',
+    new test('Turner syndrome:', 4, -1, [
+      'affects both sexes equally',
+      'is an autosomal disease',
+      'represents a trisomy',
+      'is characterized by presence of 45 chromosomes',
     ]),
 
-    new test('Cloroplastele prezintă:', 3, -1, [
-      'carioplasmă la interior',
-      'criste cu enzime',
-      'grane',
-      'o membrană simplă',
+    new test('Chloroplasts have:', 3, -1, [
+      'karyoplasm inside',
+      'cristae with enzymes',
+      'grana',
+      'a single membrane',
     ]),
 
-    new test('Artera pulmonară pornește din:', 3, -1, [
-      'atriul drept',
-      'atriul stâng',
-      'ventriculul drept',
-      'ventriculul stâng',
+    new test('The pulmonary artery originates from:', 3, -1, [
+      'right atrium',
+      'left atrium',
+      'right ventricle',
+      'left ventricle',
     ]),
 
     new test(
-      'Este o cale comună, genitală și urinară, întâlnită la masculii mamiferelor:',
+      'It is a common genital and urinary pathway found in male mammals:',
       3,
       -1,
-      ['prostata', 'ureterul', 'uretra', 'vezica urinară']
+      ['prostate', 'ureter', 'urethra', 'urinary bladder']
     ),
 
-    new test('Prin ereditate se înțelege:', 2, -1, [
-      'apariția unor caractere diferite la descendenții unei familii',
-      'moștenirea, de către descendenți, a unor caractere corespunzătoare speciei',
-      'proprietatea indivizilor din aceeași specie de a se deosebi între ei',
-      'transmiterea caracterelor de la descendenți la ascendenți',
+    new test('Inheritance means:', 2, -1, [
+      'appearance of different traits in offspring of a family',
+      'the inheritance by offspring of traits corresponding to the species',
+      'the property of individuals of the same species to differ among themselves',
+      'transmission of traits from offspring to ancestors',
     ]),
   ])
   const [shouldRender, setRender] = useState(false)
@@ -193,7 +193,7 @@ const Test7 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -207,12 +207,12 @@ const Test7 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quiz')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

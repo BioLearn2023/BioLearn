@@ -10,10 +10,10 @@ export default function Footer(){
                 </span>
                 <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
                     <li>
-                        <a href="/despre" className="mr-4 hover:underline md:mr-6 ">Despre</a>
+                        <a href="/despre" className="mr-4 hover:underline md:mr-6 ">About</a>
                     </li>
                     <li>
-                        <a href="/bibliografie" className="mr-4 hover:underline md:mr-6">Bibliografie</a>
+                        <a href="/bibliografie" className="mr-4 hover:underline md:mr-6">Bibliography</a>
                     </li>
                     <li>
                         <a href="https://github.com/BioLearn2023/BioLearn" className="mr-4 hover:underline md:mr-6">GitHub</a>

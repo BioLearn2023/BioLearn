@@ -66,109 +66,109 @@ export const API_2 = {
 const Test2 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Celule fotosensibile conține:', 1, -1, [
+    new test('Photosensitive cells contain:', 1, -1, [
       'retina',
-      'sclerotica',
-      'coroida',
-      'pupila',
+      'sclera',
+      'choroid',
+      'pupil',
     ]),
 
-    new test('Albinismul este o maladie:', 4, -1, [
-      'heterozomală',
-      'dominantă',
-      'genomică',
-      'autozomală',
+    new test('Albinism is a disease:', 4, -1, [
+      'heterosomal',
+      'dominant',
+      'genomic',
+      'autosomal',
     ]),
 
-    new test('Anafaza mitotică se caracterizează prin:', 2, -1, [
-      'formarea membranei nucleare',
-      'migrarea cromozomilor monocromatidici spre poli',
-      'dezorganizarea fusului de diviziune',
-      'individualizarea cromozomilor bicromatidici',
-    ]),
-
-    new test(
-      'Din categoria țesuturilor embrionare fac parte țesuturile',
-      2,
-      -1,
-      ['secretoare', 'apicale', 'conductoare', 'de apărare']
-    ),
-
-    new test('Neuroni senzitivi cu rol de receptori se găsesc în:', 2, -1, [
-      'mugurele gustativ',
-      'epiteliul olfactiv',
-      'coroida',
-      'melcul membranos',
-    ]),
-
-    new test('Sunt talofite:', 1, -1, [
-      'briofitele',
-      'pterodofitele',
-      'gimnospermele',
-      'angiospermele',
-    ]),
-
-    new test('În procesul de fermentație lactică se oxidează', 1, -1, [
-      'glucoza',
-      'acidul lactic',
-      'alcoolul etilic',
-      'acidul acetic',
-    ]),
-
-    new test('Conțin enzime oxido-reducătoare', 4, -1, [
-      'centrozomii',
-      'vacuolele',
-      'ribozomii',
-      'mitocondriile',
-    ]),
-
-    new test('Orientarea frunzelor către lumină reprezintă:', 3, -1, [
-      'o fotonastie',
-      'o termonastie',
-      'un fototropism',
-      'un fototactism',
-    ]),
-
-    new test('Aparține artropodelor:', 1, -1, [
-      'racul',
-      'hidra',
-      'râma',
-      'meduza',
+    new test('Mitotic anaphase is characterized by:', 2, -1, [
+      'formation of the nuclear membrane',
+      'migration of monatid chromosomes towards the poles',
+      'disorganization of the spindle apparatus',
+      'individualization of bicromatid chromosomes',
     ]),
 
     new test(
-      'Regiunea de digestie chimică finală a alimentelor este reprezentată de:',
+      'The category of embryonic tissues includes the tissues',
       2,
       -1,
-      ['cavitatea bucală', 'intestinul subțire', 'stomac', 'intestinul gros']
+      ['secretory', 'apical', 'conductive', 'defensive']
     ),
 
-    new test('Nucleoidul:', 3, -1, [
-      'este un organ cu rol în respirația celulei procariote',
-      'este alcătuit dintr-o moleculă de ARN circulară',
-      'reprezintă genomul bacterian',
-      'se află în interiorul nucleului la eucariote',
+    new test('Sensory neurons with receptor roles are found in:', 2, -1, [
+      'taste bud',
+      'olfactory epithelium',
+      'choroid',
+      'membranous cochlea',
     ]),
 
-    new test('HCl din sucul gastric', 3, -1, [
-      'hidrolizează glucidele',
-      'coagulează/încheagă laptele',
-      'împiedică dezvoltarea germenilor',
-      'emulsionează lipazele',
+    new test('Are thallophytes:', 1, -1, [
+      'bryophytes',
+      'pteridophytes',
+      'gymnosperms',
+      'angiosperms',
     ]),
 
-    new test('În procesul de fermentație alcoolică se oxidează:', 4, -1, [
-      'alcoolul etilic',
-      'aminoacizii',
-      'acidul acetic',
-      'glucoza',
+    new test('In the process of lactic fermentation, the following is oxidized:', 1, -1, [
+      'glucose',
+      'lactic acid',
+      'ethyl alcohol',
+      'acetic acid',
     ]),
 
-    new test('Măduva spinării prezintă:', 3, -1, [
-      'nuclei somatici la exterior',
-      'substanță albă la interior',
-      'fascicule de substanță albă la periferie',
-      'substanță cenușie la exterior',
+    new test('Contain oxidoreductase enzymes', 4, -1, [
+      'centrosomes',
+      'vacuoles',
+      'ribosomes',
+      'mitochondria',
+    ]),
+
+    new test('Leaf orientation towards light represents:', 3, -1, [
+      'a photonasty',
+      'a thermonasty',
+      'a phototropism',
+      'a phototactism',
+    ]),
+
+    new test('Belongs to arthropods:', 1, -1, [
+      'crab',
+      'hydra',
+      'earthworm',
+      'jellyfish',
+    ]),
+
+    new test(
+      'The region of final chemical digestion of food is represented by:',
+      2,
+      -1,
+      ['oral cavity', 'small intestine', 'stomach', 'large intestine']
+    ),
+
+    new test('The nucleoid:', 3, -1, [
+      'is an organ involved in the respiration of prokaryotic cells',
+      'is composed of a circular RNA molecule',
+      'represents the bacterial genome',
+      'is located inside the nucleus in eukaryotes',
+    ]),
+
+    new test('HCl in gastric juice:', 3, -1, [
+      'hydrolyzes carbohydrates',
+      'coagulates milk',
+      'prevents germ development',
+      'emulsifies lipases',
+    ]),
+
+    new test('In the process of alcoholic fermentation, the following is oxidized:', 4, -1, [
+      'ethyl alcohol',
+      'amino acids',
+      'acetic acid',
+      'glucose',
+    ]),
+
+    new test('The spinal cord presents:', 3, -1, [
+      'somatic nuclei on the outside',
+      'white matter on the inside',
+      'bundles of white matter at the periphery',
+      'gray matter on the outside',
     ]),
   ])
   const [shouldRender, setRender] = useState(false)
@@ -188,7 +188,7 @@ const Test2 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -202,12 +202,12 @@ const Test2 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quiz')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

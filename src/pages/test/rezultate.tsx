@@ -332,7 +332,7 @@ const Results = () => {
         {
           <div className="display: block">
           <div className="text-2xl font-bold text-center text-green-900">
-            Raspunsuri gresite
+            Wrong answers
           </div>
           <Card className="h-max max-w-md max-h-[50vh] overflow-y-scroll border-lime-500 bg-gradient-to-tr from-lime-200 to-green-300">
 
@@ -377,7 +377,7 @@ const Results = () => {
         {
           <div className="display: block">
             <div className="text-2xl font-bold text-center text-green-900">
-              Raspunsuri corecte
+              Correct answers
             </div>
           <Card className="h-max max-w-md max-h-[50vh] overflow-y-scroll border-lime-500 bg-gradient-to-tr from-lime-200 to-green-300 object-right">
             <ul>
@@ -410,12 +410,12 @@ const Results = () => {
   const [currWordG, setCurrWordG] = React.useState('Raspunsuri')
   const [currWordC, setCurrWordC] = React.useState('Raspunsuri')
   function changeWord(){
-    if(correctAnswers == 1) setCurrWordC('1 Raspuns Corect')
-    else if(correctAnswers == 0) setCurrWordC('Niciun Raspuns Corect')
-    else setCurrWordC(correctAnswers + ' Raspunsuri Corecte') 
-    if(wrongAnswers == 1) setCurrWordG('1 Raspuns Gresit')
-    else if(wrongAnswers == 0) setCurrWordG('Niciun Raspuns Gresit')
-    else setCurrWordG(wrongAnswers + ' Raspunsuri Gresite')
+    if(correctAnswers == 1) setCurrWordC('1 Correct answer')
+    else if(correctAnswers == 0) setCurrWordC('No Correct Answer')
+    else setCurrWordC(correctAnswers + ' Correct answers') 
+    if(wrongAnswers == 1) setCurrWordG('1 Wrong answer')
+    else if(wrongAnswers == 0) setCurrWordG('No Wrong Answer')
+    else setCurrWordG(wrongAnswers + ' Wrong answers')
   }
   useEffect(() => {
     changeWord()
@@ -441,7 +441,7 @@ const Results = () => {
   if (unusedSet == 0) {
     return (
       <>
-        <h1 className='text-center mt-20 text-4xl font-extrabold'>Rezultate</h1>
+        <h1 className='text-center mt-20 text-4xl font-extrabold'>Results</h1>
         <div className=" mt-20 w-auto  ml-[50%] translate-x-[-50%] grid grid-cols-3 gap-4">
           {renderWrongCard()}
           {renderCorWroCounter()} 
@@ -450,10 +450,10 @@ const Results = () => {
               <Button
                 className=" rounded-xl border-lime-500 bg-gradient-to-tr from-lime-200 to-green-300 flex justify-center mx-auto -mt-48 text-black"
                 onClick={() => {
-                  void router.push('/test/cuprins')
+                  void router.push('test/cuprins/')
                 }}
               >
-                Teste <ClipboardDocumentListIcon className='w-6 h-6 ml-1'/>
+                Quizzes <ClipboardDocumentListIcon className='w-6 h-6 ml-1'/>
               </Button>
               <Button
                 className=" rounded-xl border-lime-500 bg-gradient-to-tr from-lime-200 to-green-300 flex justify-center mx-auto mt-8 text-black"
@@ -461,7 +461,7 @@ const Results = () => {
                   void router.push('/')
                 }}
               >
-                Acasa  <HomeIcon className='w-6 h-6 ml-1'/>
+                Home  <HomeIcon className='w-6 h-6 ml-1'/>
               </Button>
               <div
         className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
@@ -499,15 +499,14 @@ const Results = () => {
         <div className="z-100 absolute grid h-[90%] w-screen overflow-hidden">
           <div className="relative z-50 mx-auto my-auto flex grid h-1/2 w-1/5 rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 dark:bg-gray-800">
             <div className="z-1 absolute inset-x-0 top-0 my-auto mt-4 h-8 w-auto text-center text-xl font-bold">
-              Nu ai dat niciun test!
+             You didn't take any quiz!
             </div>
             <div className="mx-auto mt-24 h-12 w-1/2 text-center">
-              Trebuie să parcurgeți un test înainte de a vedea rezultatele.
+              You have to solve a quiz to see the results.
             </div>
             <br/>
             <div className="mx-auto mb-12 h-12 w-3/4 text-center">
-              Click mai jos pentru a ajunge la cuprinsul de teste sau pe pagina
-              principală.
+              Click down here to go to the quiz or home page.
             </div>
             <div className="mx-12 inline-block flex justify-between">
               <Button
@@ -516,7 +515,7 @@ const Results = () => {
                   void router.push('/test/cuprins')
                 }}
               >
-                Teste
+                Quizzes
               </Button>
               <Button
                 className="w-1/3 rounded-xl border border-blue-200 bg-[#3AA6B9] text-cyan-900 focus:ring-2 focus:ring-blue-200 enabled:hover:bg-[#3AA6B9ad]	"
@@ -524,7 +523,7 @@ const Results = () => {
                   void router.push('/')
                 }}
               >
-                Acasa
+                Home
               </Button>
               <div
         className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"

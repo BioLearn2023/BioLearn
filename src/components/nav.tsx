@@ -56,7 +56,7 @@ export default function Nav() {
         <Popover.Group className="hidden lg:flex lg:gap-x-12">
           <Popover className="relative">
             <Popover.Button className="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900">
-              Lecții
+              Lessons
               <ChevronDownIcon
                 className="h-5 w-5 flex-none text-gray-400"
                 aria-hidden="true"
@@ -105,19 +105,19 @@ export default function Nav() {
             href="/test/cuprins"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Teste
+            Quizzes
           </a>
           <a
             href="/bac/model/cuprins"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Modele bacalaureat
+            Baccalaureate Models
           </a>
           <a
             href="/despre"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Despre proiect
+           About
           </a>
           
         </Popover.Group>
@@ -126,7 +126,7 @@ export default function Nav() {
             href="/"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Acasă <span aria-hidden="true">&rarr;</span>
+            Home <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
       </nav>

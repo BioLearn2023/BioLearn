@@ -41,31 +41,31 @@ function Cuprins (){
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/1')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/1')}>Testul 1</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/1')}>Quiz 1</h3>
                 </li>
                 <li className="mb-14 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/2')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/2')}>Testul 2</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/2')}>Quiz 2</h3>
                 </li>
                 <li className="mb-14 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/3')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/3')}>Testul 3</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/3')}>Quiz 3</h3>
                 </li>
                 <li className="mb-14 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/4')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/4')}>Testul 4</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/4')}>Quiz 4</h3>
                 </li>
                 <li className="ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/5')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/5')}>Testul 5</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/5')}>Quiz 5</h3>
                 </li>
             </ol>
 
@@ -74,31 +74,31 @@ function Cuprins (){
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/6')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/6')}>Testul 6</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/6')}>Quiz 6</h3>
                 </li>
                 <li className="mb-14 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/7')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/7')}>Testul 7</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/7')}>Quiz 7</h3>
                 </li>
                 <li className="mb-14 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/8')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/8')}>Testul 8</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/8')}>Quiz 8</h3>
                 </li>
                 <li className="mb-14 ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/9')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/9')}>Testul 9</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/9')}>Quiz 9</h3>
                 </li>
                 <li className="ml-6">
                     <span className="absolute flex items-center justify-center w-8 h-8 bg-green-200 rounded-full -left-4 ring-1 ring-green-500 dark:ring-green-900 dark:bg-green-900">
                         <svg aria-hidden="true" className="w-5 h-5 text-green-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path><path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd" onClick={()=> void router.push('/test/10')}></path></svg>
                     </span>
-                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/10')}>Testul 10</h3>
+                    <h3 className="font-medium leading-tight" onClick={()=> void router.push('/test/10')}>Quiz 10</h3>
                 </li>
             </ol>
             
@@ -108,15 +108,15 @@ function Cuprins (){
                 {/* <p className="mb-3 font-normal text-black-700 dark:text-gray-400 text-justify">
                 - Pentru a deschide pagina cu lecția pe care doriți să o accesați, apăsați pe iconița din dreptul lecției sau chiar pe titlul acesteia (ex: Lecția 1), după cum vă este mai ușor, și veți fi redirecționați către pagina cu lecția respectivă. <br/>
                 </p> */}
-                <Tooltip className = "w-96" content="Pentru a deschide pagina cu testul pe care doriți să îl accesați, apăsați pe iconița din dreptul testului sau chiar pe titlul acestuia (ex: Test 1), după cum vă este mai ușor, și veți fi redirecționați către pagina cu testul respectiv."
+                <Tooltip className = "w-96" content="To open the page with the test you want to access, click on the icon next to the test or directly on its title (e.g., Test 1), whichever is easier for you, and you will be redirected to the page with that test."
                 style="light"
                 ><InformationCircleIcon className="w-8 h-8 -mt-10"/></Tooltip>
                 <p className="mb-3 mt-8 font-normal text-black-700 dark:text-gray-400 text-center">
-                Dacă vreți să schimbați clasa sau să alegeți altă categorie deoarece ați terminat testele, doar apăsați butonul acasă. <br/>
+                If you want to change the class or choose another category because you have finished the tests, just press the home button. <br/>
                 </p>
                 <Button  className="w-80 rounded-lg mt-6" gradientDuoTone="greenToBlue" 
                 onClick={() => void router.push('/#')}>
-                    Acasă
+                    Home
                     <svg aria-hidden="true" className="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </Button>
             </div>

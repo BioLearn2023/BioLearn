@@ -1,4 +1,4 @@
- /* eslint-disable @next/next/no-img-element */
+/* eslint-disable @next/next/no-img-element */
  import React from "react"
  import Image from 'next/image'
  import { useRouter } from "next/router";
@@ -48,13 +48,13 @@
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Ochiul</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">The Eye</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600">
-                        Este format din: <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">A. Tunici</span> (= învelișuri) <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">B. Sistem optic</span> <br/>
+                        It consists of: <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">A. Tunics</span> (= coverings) <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">B. Optical system</span> <br/>
                         <div className="flex justify-center -mt-24 ml-[65%]">
                             <img src="/images2/ochiul.jpg" width={400} height={300} alt="ochiul" className="rounded-lg"/>
                         </div>
@@ -63,73 +63,73 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">A. Tunicile</span><br/>
-                        1. Sclerotica (tunica externă) = albul ochiului, are rol protector <br/> 
-                        2. Coroida (tunica medie) = bogat vascularizată, hrănește globul ocular <br/>
-                        3. Retina (tunica internă) = conține celule fotoreceptoare <br/> 
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">A. The Tunics</span><br/>
+                        1. Sclera (outer tunic) = the white of the eye, has a protective role <br/> 
+                        2. Choroid (middle tunic) = richly vascularized, nourishes the eyeball <br/>
+                        3. Retina (inner tunic) = contains photoreceptor cells <br/> 
                      </p>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">B. Sistemul optic</span> = medii transparente sau refrigente <br/>
-                        <span className="underline decoration-wavy text-green-700">1. Corneea transparentă </span> se formează din sclerotică în partea anterioară a ochiului. <br/>
-                        <span className="underline decoration-wavy text-green-700">2. Umoarea apoasă</span> se găsește în camera anterioară ochiului (între cornee și iris) și în camera posterioară (între iris și cristalin) și menține presiunea intraoculară. <br/> 
-                        <span className="underline decoration-wavy text-green-700">3. Cristalinul </span> este o lentilă biconvexă care își modifică curburile pentru a proiecta lumina pe retină; se prinde prin ligamentul suspensor de corpul ciliar. <br/> 
-                        <span className="underline decoration-wavy text-green-700">4. Umoarea sticloasă</span> este un corp vitros care se găsește între cristalin și retină. <br/> 
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">B. Optical system</span> = transparent or refractive media <br/>
+                        <span className="underline decoration-wavy text-green-700">1. Transparent cornea </span> is formed from the sclera in the anterior part of the eye. <br/>
+                        <span className="underline decoration-wavy text-green-700">2. Aqueous humor</span> is found in the anterior chamber (between the cornea and iris) and in the posterior chamber (between the iris and lens), and maintains intraocular pressure. <br/> 
+                        <span className="underline decoration-wavy text-green-700">3. The lens </span> is a biconvex lens that changes curvature to project light onto the retina; it is held by the suspensory ligament to the ciliary body. <br/> 
+                        <span className="underline decoration-wavy text-green-700">4. Vitreous humor</span> is a vitreous body found between the lens and retina. <br/> 
                      </p>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold"> Celulele fotoreceptoare</span> <br/>
-                        <span className="underline decoration-wavy text-green-700">Bastonașele</span> <br/>
-                        - Sunt în număr de 125-130 mil/retină. <br/>
-                        - Sunt receptorii vederii nocturne, alb-negru, crepusculare, fără detalii și culori ale obiectelor. <br/>
-                        - Conțin pigmentul rodopsină. <br/>
-                        <span className="underline decoration-wavy text-green-700">Conurile</span> <br/>
-                        - Sunt în număr de 5-7 mil/retină. <br/>
-                        - Sunt receptorii vederii diurne, de zi, colorate, cromatice, cu detalii ale obiectelor. <br/>
-                        - Există 3 tipuri de conuri: pentru roșu, pentru albastru și pentru verde, celelalte sunt percepute prin combinarea semnalelor de la cele 3 tipuri de conuri. <br/>
-                        - Conțin pigmentul numit iodopsină. <br/>
-                        Razele de lumină traversează mediile transparente și ajung pe retină în pata galbenă (zona de acuitate vizuală maximă) unde se formează imaginea care este: mai mică, reală și răsturnată. <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold"> Photoreceptor cells</span> <br/>
+                        <span className="underline decoration-wavy text-green-700">Rods</span> <br/>
+                        - There are 125-130 million/retina. <br/>
+                        - They are the receptors for night, black-and-white, twilight vision, without detail or color. <br/>
+                        - Contain the pigment rhodopsin. <br/>
+                        <span className="underline decoration-wavy text-green-700">Cones</span> <br/>
+                        - There are 5-7 million/retina. <br/>
+                        - They are the receptors for daytime, colored, chromatic vision with details. <br/>
+                        - There are 3 types of cones: for red, blue, and green; other colors are perceived by combining signals from the 3 types. <br/>
+                        - Contain the pigment iodopsin. <br/>
+                        Light rays pass through the transparent media and reach the retina in the macula (area of maximum visual acuity) where the image is formed: smaller, real, and inverted. <br/>
                     </p>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Defecte de vedere</span> <br/>
-                        <span className="underline decoration-wavy text-green-700">1. Miopie</span><br/>
-                        - corectare cu lentile divergente <br/>
-                        - imaginea se formează în fața retinei <br/>
-                        - apropie obeictele de ochi <br/>
-                        - nu văd bine la distanță <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Vision defects</span> <br/>
+                        <span className="underline decoration-wavy text-green-700">1. Myopia</span><br/>
+                        - corrected with diverging lenses <br/>
+                        - the image forms in front of the retina <br/>
+                        - brings objects closer to the eye <br/>
+                        - can't see well at a distance <br/>
                     </p>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-green-700">2. Hipermetropie</span> <br/>
-                        - corectare cu lentile convergente <br/>
-                        - imaginea se formează în spatele retinei <br/>
-                        - îndepărtează obiectele de ochi <br/>
-                        - nu văd bine la apropiere <br/>
+                        <span className="underline decoration-wavy text-green-700">2. Hyperopia</span> <br/>
+                        - corrected with converging lenses <br/>
+                        - the image forms behind the retina <br/>
+                        - moves objects away from the eye <br/>
+                        - can't see well up close <br/>
                     </p>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-green-700">3. Miopie</span> <br/>
-                        - razele de lumină nu foaclizează într-un singur punct <br/>
-                        - corectare cu lentile cilindrice <br/>
+                        <span className="underline decoration-wavy text-green-700">3. Astigmatism</span> <br/>
+                        - light rays do not focus at a single point <br/>
+                        - corrected with cylindrical lenses <br/>
                     </p>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Efecte de percepere a culorilor</span> <br/>
-                        - Daltonismul <br/>
-                        - Acromatopia <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Color perception effects</span> <br/>
+                        - Daltonism <br/>
+                        - Achromatopsia <br/>
                     </p>
                  </div>
              </div>
@@ -138,10 +138,10 @@
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/10/relatie/sensibilitate-miscare')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/10/relatie/urechea')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>           
@@ -149,9 +149,3 @@
          </>
      )
  }
- 
- 
-
-
-                
-               

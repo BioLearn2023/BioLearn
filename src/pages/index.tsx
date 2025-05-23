@@ -8,27 +8,27 @@ import { useRouter } from 'next/router'
 
 const features = [
   {
-    name: 'Lecții',
+    name: 'Lessons',
     description:
-      'Lecțiile noastre sunt sintetizate în așa fel încat să fie pe înțelesul tuturor și să conțină toate informațiile necesare pentru a înțelege materia de biologie de la 0. ',
+      'Our lessons are summarized in a way that makes them easy to understand for everyone and include all the necessary information to learn biology from scratch. ',
     icon: BookOpenIcon,
   },
   {
-    name: 'Mobele bacalaureat',
+    name: 'Baccalaureate Models',
     description:
-      'Acestea sunt rezolvate, pentru a vedea cum trebuie lucrată o problemă și pentru a înțelege cum se aplică teoria în practică.',
+      'These are solved so you can see how to work through a problem and understand how theory is applied in practice.',
     icon: AcademicCapIcon ,
   },
   {
-    name: 'Teste',
+    name: 'Quizzes',
     description:
-      'Sunt concepute pentru a te ajuta să îți testezi cunoștințele și să vezi unde mai ai nevoie de îmbunătățiri.',
+      'They are designed to help you test your knowledge and see where you still need improvement.',
     icon: ClipboardDocumentListIcon,
   },
   {
-    name: 'Imagini',
+    name: 'Images',
     description:
-      'Lecțiile conțin imagini reprezentative pentru persoanele cu o memorie vizuală mai bună.',
+      'The lessons contain representative images for people with stronger visual memory.',
     icon: PhotoIcon,
   },
 ]
@@ -49,12 +49,11 @@ export default function Home() {
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl underline decoration-solid">
-              Învață acum biologie
+              Leran Biology Now
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Pregătește-te pentru examenul de bacalaureat la biologie cu
-              ajutorul nostru.
-              <br /> Ai la dispoziție noțiunile teoretice necesare, teste pentru verificarea cunoștințelor și modele de bacalaureat rezolvate.
+              Get ready for your biology baccalaureate exam with our help.
+              <br /> You have access to the necessary theoretical concepts, tests to check your knowledge, and solved baccalaureate exam models.
             </p>
             <div className="mt-6 flex items-center justify-center gap-x-6">
               <Button
@@ -62,7 +61,7 @@ export default function Home() {
                 pill
                 href='https://github.com/BioLearn2023/BioLearn'
               >
-                <p>Începe acum</p>
+                <p>Learn now</p>
               </Button>
               <Button gradientDuoTone="tealToLime" outline pill onClick={handleClickScroll}>
                 <p>Features</p>
@@ -71,10 +70,10 @@ export default function Home() {
           </div>
           <div id="features" className="mx-auto mt-[40rem] max-w-2xl lg:text-center">
             <h2 className="text-base font-semibold leading-7 text-green-600">
-              Învață acum
+              Learn now
             </h2>
             <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              Tot ce ai nevoie pentru a obține nota maximă la examenul de bacalaureat 
+              Everything you need to get the highest grade on the baccalaureate exam. 
             </p>
             
           </div>

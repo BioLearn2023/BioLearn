@@ -47,49 +47,48 @@ export default function Meioza() {
         <div className=" py-24 sm:py-12">
             <div className="mx-auto max-w-7xl px-6 lg:px-2">
                 <div className="mx-auto max-w-7xl lg:mx-0">
-                    <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Meioza</h2>
+                    <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Meiosis</h2>
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        - Are loc numai în celulele organelor reproducătoare. <br/>
+                        - Occurs only in reproductive organ cells. <br/>
                      </p>
 
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Fazele meiozei</span> <br/>
-                        Se desfășoară în două etape: <br/>
-                        <span className="underline">a. Dviziunea nucleului cu 4 faze</span> <br/>
-                        <span className="underline decoration-wavy text-green-700">1. Meioza I = ETAPA REDUCȚIONALĂ</span> <br/>
-                        <span className="underline decoration-wavy text-green-700">Profaza I</span> <br/>
-                        - cromozomii se organizează în perechi (unul matern și unul patern) numiți omologi sau tetrade cromatidice <br/>
-                        - cromatidele nesurori (o cromatidă de la cromozomul matern și una de la cromozomul patern) se ating în puncte numite CHIASME,
-                        se rup și se realizează un schim reciproc de gene = CROSSING-OVER (recombinare intercromozomială) <br/>
-                        - cromozomii recombinați se atașează prin centromerii lor de fibrele fusului de diviziune <br/>
-                        <span className="underline decoration-wavy text-green-700">Metafaza I</span> <br/>
-                        -  cromozomii tetracromatidici se aliniază în planul ecuatorial al celulei = placa metafazică <br/>
-                        <span className="underline decoration-wavy text-green-700">Anafaza I</span> <br/>
-                        - perechile se separă <br/>
-                        - cromozomii bicromatidici merg spre poli <br/>
-                        - are loc segregarea independentă a perechilor de cromozomi - recombinarea genetică intercromozomială (dansul cromozomilor sau dansul lui Muller) <br/>
-                        <span className="underline decoration-wavy text-green-700">Telofaza I</span> <br/>
-                        - la poli se formează doi nuclei cu număr redus la jumătate de cromozomi bicromatidici <br/>
-                        <span className="underline">b. Diviziunea citoplasmatică</span> <br/>
-                        - Se formează două celule haploide ce au cromozomi bicromatidici care, după o interfază scurtă intră în cea de-a două etapă a diviziunii meiotice.  <br/>
-                        <span className="underline decoration-wavy text-green-700"> Meioza II = ETAPA ECVAȚIONALĂ</span> <br/>
-                        - seamănă cu o mitoză <br/>
-                        - diviziunea nucleului prezintă: profaza II, metafaza II, anafaza II, telofaza II <br/>
-                        <span className="underline decoration-wavy text-green-700">Diviziunea citoplasmei</span> <br/>
-                        - la sfârștitul telofazei se formează 4 celule haploide (gameți) care nu se mai divid <br/>
-                        - în procesul fecundației, din contopirea a 2 celule haploide (ovul și spermatozoid) celula-ou (zigot) și astfel se reface numărul constant de cromozomi (2n) <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Phases of meiosis</span> <br/>
+                        It unfolds in two stages: <br/>
+                        <span className="underline">a. Nuclear division with 4 phases</span> <br/>
+                        <span className="underline decoration-wavy text-green-700">1. Meiosis I = REDUCTIONAL PHASE</span> <br/>
+                        <span className="underline decoration-wavy text-green-700">Prophase I</span> <br/>
+                        - chromosomes pair up (one maternal and one paternal), called homologous or chromatid tetrads <br/>
+                        - non-sister chromatids (one from maternal, one from paternal) touch at points called CHIASMATA, break and exchange genes = CROSSING-OVER (interchromosomal recombination) <br/>
+                        - recombined chromosomes attach via centromeres to spindle fibers <br/>
+                        <span className="underline decoration-wavy text-green-700">Metaphase I</span> <br/>
+                        - tetrad chromosomes align in the cell equatorial plane = metaphase plate <br/>
+                        <span className="underline decoration-wavy text-green-700">Anaphase I</span> <br/>
+                        - pairs separate <br/>
+                        - bichromatid chromosomes move to poles <br/>
+                        - independent assortment of chromosome pairs occurs - interchromosomal genetic recombination (chromosome dance or Muller’s dance) <br/>
+                        <span className="underline decoration-wavy text-green-700">Telophase I</span> <br/>
+                        - at poles, two nuclei form with half the number of bichromatid chromosomes <br/>
+                        <span className="underline">b. Cytoplasmic division</span> <br/>
+                        - Two haploid cells form with bichromatid chromosomes, entering the second meiotic division after a short interphase.  <br/>
+                        <span className="underline decoration-wavy text-green-700"> Meiosis II = EQUATIONAL PHASE</span> <br/>
+                        - resembles mitosis <br/>
+                        - nuclear division includes: prophase II, metaphase II, anaphase II, telophase II <br/>
+                        <span className="underline decoration-wavy text-green-700">Cytoplasmic division</span> <br/>
+                        - at the end of telophase, 4 haploid cells (gametes) form that do not divide again <br/>
+                        - in fertilization, two haploid cells (egg and sperm) fuse forming the zygote, restoring the constant chromosome number (2n) <br/>
                     </p>                     
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Importanța meiozei</span> <br/>
-                        - asigură variabilitate organismelor și formarea gameților (celulele reproducătoare) bărbătești (spermatozoizii) și femeiești (ovulele) <br/>
-                        - menține constant numărul de cromozomi caracteristic fiecărei specii, prin fecundație
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Importance of meiosis</span> <br/>
+                        - ensures organism variability and formation of male (sperm) and female (egg) reproductive cells <br/>
+                        - maintains constant chromosome number specific to each species through fertilization
                     </p>
                 </div>
             </div>
@@ -98,10 +97,10 @@ export default function Meioza() {
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/9/mitoza')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/9/ereditatea')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>
@@ -109,4 +108,3 @@ export default function Meioza() {
         </>
     )
 }
-

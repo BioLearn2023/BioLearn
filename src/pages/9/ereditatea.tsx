@@ -47,60 +47,58 @@
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Ereditatea lumii vii</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">The Heredity of the Living World</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Legile ereddității</span> <br/>
-                        1. Legea purității gameților <br/>
-                        2. Legea segregării independente a perechilor de caractere <br/>
-                        - Au fost formulate de Gregor Mendel în urma experimentelor de hibridare la mazăre. <br/>
-                        - El e a arătat că transmiterea caracterelor ereditare se realizează prin intermediul unor factori ereditari (gene), care se găsesc sub formă
-                        de pereche în celulele corpului și sub formă simplă în gameți. <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Laws of heredity</span> <br/>
+                        1. Law of gamete purity <br/>
+                        2. Law of independent segregation of character pairs <br/>
+                        - Formulated by Gregor Mendel following hybridization experiments in peas. <br />
+                        - He showed that the transmission of hereditary traits is carried out through hereditary factors (genes), which are paired in body cells and single in gametes. <br />
                      </p>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Monohibridarea</span> <br/>
-                         - Încrucișarea organismelor care se deosebesc printr-o singură pereche de caractere ereditare. <br/>
-                        Mendel a încrucișat două varietăți de mazăre: <br/>
-                        - mazăre cu bob neted (AA) x mazăre cu bob zbârcit (aa) <br/>
-                        - Caracterul bob neted = Dominant (AA) <br/>
-                        - Caracterul cu bob zbârcit = Recesiv (aa) <br/>
-                        Organismele care prezintă factori ereditari identici în fiecare pereche sunt pure genetic (HOMOZIGOTE). <br/>
-                        Organismele care prezintă factori ereditari diferiți cel puțin într-o pereche sunt impure genetic (HETEROZIGOTE). <br/>
-                        Prin <span className="underline">autopolenizarea</span> plantelor hibride (heterozigote) - Aa din F1, în F2 au rezultat 75% plante cu bob neted și 25% plante cu bob zbârcit. <br/>
-                        Segregarea după fenotip fiind în raport de 3:1 (75%:25%) ={">"} plante cu bob neted:plante cu bob zbârcit. <br/>
-                        Conform primei legi, legea purității gameților, gameții sunt întotdeauna puri, adică nu conțin decât unul din factorii ereditari pereche. <br/>
-                        <span className="underline decoration-wavy text-green-700">Genotip</span> = totalitatea factorilor ereditari care intră în structura genetică a unui organism <br/>
-                        <span className="underline decoration-wavy text-green-700">Fenotip</span> = totalitatea trăsăturilor morfologice, fiziologice, biochimice și de comportament, ce sunt rezultatul interacțiunii dintre genotip și mediu. <br/>
-
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Monohybrid Cross</span> <br/>
+                        - Crossing organisms differing by a single pair of hereditary traits. <br />
+                            Mendel crossed two pea varieties: <br />
+                            - smooth pea (AA) x wrinkled pea (aa) <br />
+                            - Smooth trait = Dominant (AA) <br />
+                            - Wrinkled trait = Recessive (aa) <br />
+                            Organisms with identical hereditary factors in every pair are genetically pure (HOMOZYGOUS). <br />
+                            Organisms with different hereditary factors in at least one pair are genetically impure (HETEROZYGOUS). <br />
+                            By <span className="underline">self-pollinating</span> the hybrid (heterozygous) plants - Aa from F1, in F2 resulted in 75% smooth peas and 25% wrinkled peas. <br />
+                            Phenotypic segregation ratio was 3:1 (75%:25%) =&gt; smooth peas:wrinkled peas. <br />
+                            According to the first law, the law of purity of gametes, gametes are always pure, containing only one of the paired hereditary factors. <br />
+                            <span className="underline decoration-wavy text-green-700">Genotype</span> = the entirety of hereditary factors that make up the genetic structure of an organism <br />
+                            <span className="underline decoration-wavy text-green-700">Phenotype</span> = the entirety of morphological, physiological, biochemical and behavioral traits resulting from the interaction between genotype and environment. <br />
                      </p>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Dihibridarea</span> <br/>
-                         Constă în încrucișarea a două organisme ce se deosebesc prin două perechi de caractere ereditare. <br/>
-                        Mendel a încrucișat două varietăți de mazăre ce se deosebeau prin două perechi de caractere ereditare. <br/>
-                        - mazăre cu bob neted și galben (AABB) x mazăre cu bob zbârcit și verde (aabb) <br/>
-                        - Organismele hibride (heterozigote) produc patru categorii de gameți: AB, Ab, aB, ab, feminini și masculini,
-                        prin a căror combinare rezultă 16 categorii de indivizi. <br/>
-                        Segregare în F2 după fenotip = 9:3:3:1 <br/>
-                        - 9/16 DD (dominant dominant) - neted, galben <br/>
-                        - 3/16 DR (dominant recesiv) - neted, verde <br/>
-                        - 3/16 RD (recesiv dominant) - zbârcit, galben <br/>
-                        - 1/16 RR (recisiv reicisiv) - zbârcit, galben <br/>
-                        - Conform celei de a II-a legi, legea segregării independente de altă pereche de factori ereditari, astfel încât, în F2,
-                        raportul de segregare după fenotip, pentru o pereche de factori ereditari, este de 3:1, iar pentru două perechi este de 9:3:3:1. <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Dihybrid Cross</span> <br/>
+                        Involves crossing two organisms differing by two pairs of hereditary traits. <br />
+                            Mendel crossed two pea varieties differing by two pairs of hereditary traits. <br />
+                            - smooth and yellow pea (AABB) x wrinkled and green pea (aabb) <br />
+                            - Hybrid organisms (heterozygotes) produce four categories of gametes: AB, Ab, aB, ab, both female and male, <br />
+                            whose combinations yield 16 categories of individuals. <br />
+                            F2 phenotypic segregation = 9:3:3:1 <br />
+                            - 9/16 DD (dominant dominant) - smooth, yellow <br />
+                            - 3/16 DR (dominant recessive) - smooth, green <br />
+                            - 3/16 RD (recessive dominant) - wrinkled, yellow <br />
+                            - 1/16 RR (recessive recessive) - wrinkled, green <br />
+                            - According to the second law, the law of independent assortment of other pairs of hereditary factors, in F2,
+                            the phenotypic segregation ratio for one pair is 3:1, and for two pairs is 9:3:3:1. <br />
                      </p>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Abateri de la legile mendeliene</span> <br/>
-                         <span className="underline decoration-wavy text-green-700">Codominanța</span> = fenomenul de interacțiune dintr două gene, ambele distincte, care, împreună, duc la apariția unui nou fenotip: grupa de sânge AB(IV).
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Deviations from Mendelian Laws</span> <br/>
+                         <span className="underline decoration-wavy text-green-700">Codominance</span> = interaction between two distinct genes, both of which together result in a new phenotype: blood group AB(IV).
                      </p>
                      
                      
@@ -111,10 +109,10 @@
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/9/meioza')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/9/grupe-de-sange')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>

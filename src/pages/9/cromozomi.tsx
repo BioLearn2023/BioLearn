@@ -48,20 +48,20 @@
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">CROMOZOMII</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">CHROMOSOMES</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600 text-center">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definiție: </span> Sunt structuri permanente în nucleu - vizibili doar în timpul diviziunii nucleului (sub formă condensată spiralizată). <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definition: </span> Chromosomes are permanent structures in the nucleus — visible only during nuclear division (in a condensed spiralized form). <br/>
                      </div>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Tipuri de cromozomi</span> <br/>
-                         Cromozomul poate fi: <br/>
-                         - de tip procariot = o singură moleculă de ADN (un singur cromozom bacterian) <br/>
-                         - de tip eucariot = ADN + proteine + lipide + ioni <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Types of chromosomes:</span> <br/>
+                         A chromosome can be: <br/>
+                         - Prokaryotic type = a single DNA molecule (a single bacterial chromosome) <br/>
+                         - Eukaryotic type = DNA + proteins + lipids + ions <br/>
                          <div className="flex justify-center -mt-32 ml-[53%]">
                             <img src="/images/cromozomi1.jpeg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                             <img src="/images/cromozomi2.jpg" width={300} height={350} alt="Picture of the author" className="rounded-lg"/>
@@ -71,32 +71,32 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Celulele</span> <br/>
-                         <span className="underline text-green-700">1. Celule somatice</span> (2n = diploide) = celulele corpului (cu excepția celulelor sexuale) <br/>
-                         - prezintă două tipuri de cromozomi, unul de la tată și unul de la mamă <br/>
-                         <span className="underline text-green-700">2. Celulele reproducătoare</span> (n = haploide) = celulele sexuale (gametele) <br/>
-                         - au un număr de cromzomi redus la jumătate (un singur set de cromozomi) <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Cells</span> <br/>
+                         <span className="underline text-green-700">1. Somatic cells </span> (2n = diploid) = body cells (except for sex cells) <br/>
+                         - They have two types of chromosomes, one from the father and one from the mother. <br/>
+                         <span className="underline text-green-700">2. Reproductive cells</span> (n = haploid) = sex cells (gametes) <br/>
+                        - They have a reduced number of chromosomes, half (a single set of chromosomes). <br/>
                      </p>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Caracteristici ale cromozomilor</span> <br/>
-                         Setul de cromozomi = totalitatea cromzomilor dintr-o celulă. <br/>
-                         <span className="underline decoration-wavy text-green-700">CARIOTIP</span>= numărul, mărimea și forma cromozomilor dintr-o celulă <br/>
-                         <span className="underline decoration-wavy text-green-700">CARIOGRAMA</span> = reprezentarea schematică a cariotipului <br/>
-                         OM: cariotip = 46 de cromozomi (23 de perechi) <br/>
-                         - 44 se numesc autozomi (22 de perechi) - identici la ambele sexe <br/>
-                         - 2 se numesc heterozomi (o pereche) - determină sexul <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Chromosome characteristics:</span> <br/>
+                         - Chromosome set = the totality of chromosomes in a cell. <br/>
+                         <span className="underline decoration-wavy text-green-700">Karyotype</span>= the number, size, and shape of the chromosomes in a cell.<br/>
+                         <span className="underline decoration-wavy text-green-700">Karyogram</span> = the schematic representation of the karyotype. <br/>
+                         Human: Karyotype = 46 chromosomes (23 pairs) <br/>
+                         - 44 are called autosomes (22 pairs) - identical in both sexes <br/>
+                         - 2 are called heterosomes (one pair) - determine sex <br/>
                      </p>
                      
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Structura cromozomului:</span> <br/>
-                         - brațele cromozomilor = CROMATIDE <br/>
-                         - cromatina = ADN spiralat <br/>
-                         - cromozomi: 2 brațe (bicromatidici), un braț (monocromatidici), tetracromatidici <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Chromosome structure:</span> <br/>
+                         - Chromosome arms = chromatids <br/>
+                         - Chromatin = spiralized DNA <br/>
+                         - Chromosomes: Two arms (bicromatidic), one arm (monocromatidic), tetracromatidic <br/>
                      </p>
                  </div>
              </div>
@@ -105,10 +105,10 @@
          <div className="flex justify-center">
         <span onClick={()=> void router.push('/9/organite')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/9/diviziune')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>    

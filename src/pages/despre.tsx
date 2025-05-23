@@ -36,17 +36,14 @@ export default function Example(): JSX.Element {
                     handleOpen(1)
                   }}
                 >
-                  Ce este BioLearn?
+                  What is BioLearn?
                 </AccordionHeader>
               </div>
               <AccordionBody className="text-lg">
-                BioLearn este un proiect realizat cu scopul de a ajuta elevii
-                care aleg să dea proba de bacalaureat la biologie, utilizând
-                lecții redactate pe înțelesul oricui, dar și sintetizate astfel
-                încât să nu privim la niște paragrafe de text simple, teste
-                pentru a ne putea verifica cunoștințele pe care le avem și
-                pentru a le îmbunătăți și modele de bacalaureat rezolvate,
-                astfel încât să putem vedea cum se rezolvă corect subiectele.
+                BioLearn is a project created with the purpose of helping students who choose to take the biology baccalaureate exam, 
+                using lessons written in an easy-to-understand way, as well as summarized so that we don’t just look at simple text paragraphs. 
+                It also offers tests to check and improve our knowledge, along with solved baccalaureate exam examples, so we can see how to 
+                correctly solve the exam questions.
               </AccordionBody>
             </Accordion>
             <Accordion open={open === 2}>
@@ -56,14 +53,12 @@ export default function Example(): JSX.Element {
                   handleOpen(2)
                 }}
               >
-                Cum sunt realizate testele?
+                How are the tests created?
               </AccordionHeader>
               <AccordionBody className="text-lg">
-                Testele sunt simple, realizate în așa fel încât să îți poți
-                recapitula toată materia prin doar niște simple întrebări. La
-                finalul testului te așteaptă o pagină specială unde poți vedea
-                ce ai greșit, dar și ce ai făcut corect, astfel încât data
-                viitoare să poți răspunde corect la toate întrebările.
+                The tests are simple, designed so that you can review all the material through just a few straightforward questions. 
+                At the end of the test, you’ll find a special page where you can see what you got wrong as well as what you answered correctly, 
+                so that next time you can answer all the questions correctly.
               </AccordionBody>
             </Accordion>
             <Accordion open={open === 3}>
@@ -73,18 +68,18 @@ export default function Example(): JSX.Element {
                   handleOpen(3)
                 }}
               >
-                În ce este realizat proiectul?{' '}
+                What technologies were used to develop the project?{' '}
               </AccordionHeader>
               <AccordionBody className="text-lg">
-                BioLearn este realizat în{' '}
-                <span className="underline">TypeScript</span> și{' '}
-                <span className="underline">React</span> pentru interfață{' '}
+                BioLearn is created in{' '}
+                <span className="underline">TypeScript</span> and{' '}
+                <span className="underline">React</span> for interface{' '}
                 <span className="underline">Flowbite</span>,{' '}
                 <span className="underline">Flowbite React</span>,{' '}
                 <span className="underline">Material Tailwind</span>,{' '}
-                <span className="underline">Tailwind UI</span> și{' '}
-                <span className="underline">Tailwind CSS</span> și{' '}
-                <span className="underline">HeroIcons</span> pentru design.
+                <span className="underline">Tailwind UI</span> and{' '}
+                <span className="underline">Tailwind CSS</span> and{' '}
+                <span className="underline">HeroIcons</span> for design.
               </AccordionBody>
             </Accordion>
             <Accordion open={open === 4}>
@@ -94,13 +89,11 @@ export default function Example(): JSX.Element {
                   handleOpen(4)
                 }}
               >
-                De cine este realizat proiectul?
+                Who created the project?
               </AccordionHeader>
               <AccordionBody className="text-lg">
-                Proiectul este realizat de Mincă Bianca, elevă la Liceul
-                Teoretic Tudor Vladimirescu din București, o elevă care a dorit
-                să ajute și alți elevi pentru a reuși promovarea marelui examen
-                din viața lor.
+                The project is created by two students who wish to help students prepare for the biology baccalaureate exam in the most 
+                interactive and easy way possible.
               </AccordionBody>
             </Accordion>
           </div>

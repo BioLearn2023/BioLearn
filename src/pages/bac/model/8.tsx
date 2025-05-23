@@ -78,115 +78,111 @@
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Model bacalaureat</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Baccalaureate Model</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subiectul I</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subject I</h2>
 
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                        A Scrieți, pe foaia de examen, noțiunile cu care trebuie să completați spațiile libere din afirmația următoare, astfel încât aceasta să fie corectă.  <br/>
-                        Rinichii mamiferelor sunt localizați în partea <span className="underline decoration-double text-green-700">dorsală</span> a cavității <span className="underline decoration-double text-green-700">abdominale.</span> <br/>
+                        A Write, on the exam sheet, the concepts with which you need to complete the blanks in the following statement, so that it is correct.  <br/>
+                        The kidneys of mammals are located in the <span className="underline decoration-double text-green-700">dorsal</span> part of the <span className="underline decoration-double text-green-700">abdominal</span> cavity. <br/>
                         <br/>
-                        B Numiți doua tipuri de fermentații; scrieți în dreptul fiecărui tip de fermentație câte un exemplu de aplicație practică. <br/>
-                        <span className="underline decoration-double text-green-700">Fermentația alcoolică - folosită în industria băututilor alcoolice <br/>
-                        Fermentația lactică - folosită în industria laptelui </span><br/>
+                        B Name two types of fermentations; write next to each type of fermentation one example of practical application. <br/>
+                        <span className="underline decoration-double text-green-700">Alcoholic fermentation - used in the alcoholic beverages industry <br/>
+                        Lactic fermentation - used in the dairy industry </span><br/>
                         <br/>
-                        C Scrieți, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns. <br/>
-                        1. Crustaceii sunt: <br/>
-                        a) <span className="underline decoration-wavy text-green-700">artropode</span> <br/>
-                        b) celenterete <br/>
-                        c) cordate <br/>
-                        d) nematelminți <br/>
+                        C Write, on the exam sheet, the letter corresponding to the correct answer. Only one answer variant is correct. <br/>
+                        1. Crustaceans are: <br/>
+                        a) <span className="underline decoration-wavy text-green-700">arthropods</span> <br/>
+                        b) coelenterates <br/>
+                        c) chordates <br/>
+                        d) nemathelminths <br/>
+                        <br/>                                                                                                                                                 
+                        2. Each of the daughter cells formed by the mitotic division of a mother cell with 2n = 22 chromosomes has: <br/>
+                        a) <span className="underline decoration-wavy text-green-700">2n = 22 chromosomes</span><br/>
+                        b) 2n = 11 chromosomes <br/>
+                        c) n = 22 chromosomes <br/>
+                        d) n = 11 chromosomes <br/>
                         <br/>
-                        2. Fiecare dintre celulele-fiice formate prin diviziunea mitotică a unei celule mamă cu 2n = 22 cromozomi are: <br/>
-                        a) <span className="underline decoration-wavy text-green-700">2n = 22 cromozomi</span><br/>
-                        b) 2n = 11 cromozomi <br/>
-                        c) n = 22 cromozomi <br/>
-                        d) n = 11 cromozomi <br/>
+                        3. A fleshy fruit found in angiosperms is: <br/>
+                        a) achene <br/>
+                        b) <span className="underline decoration-wavy text-green-700">drupe</span> <br/>
+                        c) nut <br/>
+                        d) silique <br/>
                         <br/>
-                        3. Fruct cărnos întâlnit la angiosperme este: <br/>
-                        a) achena <br/>
-                        b) <span className="underline decoration-wavy text-green-700">drupa</span> <br/>
-                        c) nuca <br/>
-                        d) silicva <br/>
+                        4. Ovaries: <br/>
+                        a) <span className="underline decoration-wavy text-green-700">contain numerous follicles</span> <br/>
+                        b) represent the male gonads <br/>
+                        c) are haploid cells <br/>
+                        d) are fertilized by sperm cells <br/>
                         <br/>
-                        4. Ovarele: <br/>
-                        a) <span className="underline decoration-wavy text-green-700">conțin numeroși foliculi</span> <br/>
-                        b) reprezintă gonadele bărbătești <br/>
-                        c) sunt celule haploide <br/>
-                        d) sunt fecundate de spermatozoizi <br/>
+                        5. Photosynthesis: <br/>
+                        a) occurs in the absence of assimilative pigments <br/>
+                        b) <span className="underline decoration-wavy text-green-700">consists of synthesizing organic substances</span> <br/>
+                        c) is a type of heterotrophic nutrition <br/>
+                        d) releases light energy <br/>
                         <br/>
-                        5. Fotosinteza: <br/>
-                        a) are loc în absența pigmenților asimilatori <br/>
-                        b) <span className="underline decoration-wavy text-green-700">constă în sinteza de substanțe organice</span> <br/>
-                        c) este un tip de nutriție heterotrofă <br/>
-                        d) eliberează energie luminoasă <br/>
-                        <br/>
-                        D Citiți, cu atenție, afirmațiile următoare. Dacă apreciați că afirmația este adevărată, scrieți pe foaia de examen litera A. Dacă apreciați că afirmația este falsă, scrieți, pe foaia de examen, în dreptul cifrei corespunzătoare afirmației,litera F și modificați parțial afirmația pentru ca aceasta să devină adevărată. Folosiți, în acest scop, informația științifică adecvată. Nu se acceptă folosirea negației. <br/>
-                        <span className="text-red-700">1. Talamusul este sediul acitvității nervoase superioare a mamiferelor. F</span> <br/>
-                        <span className="text-green-700">2. Bazidomicetele aparțin regnului Fungi. A</span> <br/>
-                        <span className="text-red-700">3. Insuficiența renală cronică este o boală ereditară F </span> <br/>
-                        <span className="text-green-700">1. Talamusul este stație de releu pentru căile sensibilităților specifice. <br/>
-                        3. Insuficiența renală cronică este o boală a sistemului excretor.</span><br/>
+                        D Read carefully the following statements. If you consider the statement true, write on the exam paper the letter A. If you consider the statement false, write on the exam paper, next to the corresponding number of the statement, the letter F and partially modify the statement to make it true. Use appropriate scientific information. The use of negation is not accepted. <br/>
+                        <span className="text-red-700">1. The thalamus is the center of higher nervous activity in mammals. F</span> <br/>
+                        <span className="text-green-700">2. Basidiomycetes belong to the kingdom Fungi. A</span> <br/>
+                        <span className="text-red-700">3. Chronic renal failure is a hereditary disease. F </span> <br/>
+                        <span className="text-green-700">1. The thalamus is a relay station for specific sensitivity pathways. <br/>
+                        3. Chronic renal failure is a disease of the excretory system.</span><br/>
                      </p>
 
                         <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                     
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subiectul al II-lea</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Second Subject</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                        A Sistemul circulator al mamiferelor este alcătuit din inimă și vase de sânge. <br/>
-                        a) Numiți cele două compartimente ale inimii prin care circulă sânge oxigenat și trei vase mari de sânge prin care circulă sânge încărcat cu CO2. <br/>
-                        b) Explicați rolul miocardului din structura inimii. <br/>
-                        c) Calculați masa apei din plasma sângelui unui copil, știind următoarele: <br/>
-                        - sângele reprezintă 8% din masa corpului; <br/>
-                        - plasma sangvină reprezintă 55% din masa sângelui; <br/>
-                        - apa reprezintă 90% din masa plasmei sangvine; <br/>
-                        - masa corpului este de 35kg. <br/>
-                        Scrieți toate etapele parcurse pentru rezolvarea cerinței. <br/>
-                        d) Completați problema de la punctul c) cu o altă cerință pe care o formulați voi, folosind informații științifice specifice biologiei;
-                        rezolvați cerința pe care ați propus-o. <br/>
+                        A The circulatory system of mammals consists of the heart and blood vessels. <br/>
+                        a) Name the two compartments of the heart through which oxygenated blood circulates and three large blood vessels through which blood loaded with CO2 circulates. <br/>
+                        b) Explain the role of the myocardium in the structure of the heart. <br/>
+                        c) Calculate the mass of water in the plasma of a child's blood, knowing the following: <br/>
+                        - blood represents 8% of body mass; <br/>
+                        - blood plasma represents 55% of blood mass; <br/>
+                        - water represents 90% of blood plasma mass; <br/>
+                        - body mass is 35kg. <br/>
+                        Write all the steps followed to solve the requirement. <br/>
+                        d) Complete the problem from point c) with another requirement you formulate yourself, using scientific information specific to biology; solve the requirement you proposed. <br/>
                         <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare</span> <br/>
-                        a) Compartimente ale inimii prin care circulă sânge oxigenat sunt atriul stâng și ventriculul stâng. Trei vase mari de sânge prin care circulă sânge încărcat cu dioxid de carbon sunt artera pulmonară, vena cavă superioară și vena cavă inferioară. <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
+                        a) Compartments of the heart through which oxygenated blood circulates are the left atrium and left ventricle. Three large blood vessels through which blood loaded with carbon dioxide circulates are the pulmonary artery, the superior vena cava, and the inferior vena cava. <br/>
 
-                        b) Miocardul este constituit din 2 tipuri de celule: celule miocardice contractile, care asigură contracția mușchiului inimii și împingerea sângelui în artere, și celule miocardice modificate care intră în alcătuirea țesutului excitoconductor, care asigură automatismul inimii, capacitatea de a genera spontan și ritmic potențiale de acțiune care determină contracția, astfel inima continuă să bată pentru un timp, chiar dacă este scoasă din organism. <br/>
+                        b) The myocardium consists of 2 types of cells: contractile myocardial cells, which ensure the contraction of the heart muscle and push the blood into the arteries, and modified myocardial cells that form the excitoconductive tissue, which ensures the heart’s automatism, the ability to spontaneously and rhythmically generate action potentials that cause contraction, so the heart continues to beat for some time even if removed from the body. <br/>
 
-                        c) <span className="text-green-700">- calculăm masa sângelui din masa corpului</span> <br/>
-                        ms = (7/100)*35kg = 245/100kg = <span className="underline decoration-double text-green-700">2,45 kg</span> <br/>
-                        <span className="text-green-700">- calculăm masa plasmei sangvine din masa sângelui</span> <br/>
-                        mps = (55/100)*2,45kg = (55/100)*(245/100)kg = 13475/10000kg = <span className="underline decoration-double text-green-700">1,3475 kg</span> <br/>
-                        <span className="text-green-700">- calculăm masa apei din masa plasmei sangvine</span> <br/>
-                        ma = (90/100)*1,3475kg = (90/100)*(13475/10000)kg = 121275/100000kg = <span className="underline decoration-double text-green-700">1,21275 kg</span> <br/>
+                        c) <span className="text-green-700">- calculate the blood mass from the body mass</span> <br/>
+                        ms = (7/100)*35kg = 245/100kg = <span className="underline decoration-double text-green-700">2.45 kg</span> <br/>
+                        <span className="text-green-700">- calculate the plasma mass from the blood mass</span> <br/>
+                        mps = (55/100)*2.45kg = (55/100)*(245/100)kg = 13475/10000kg = <span className="underline decoration-double text-green-700">1.3475 kg</span> <br/>
+                        <span className="text-green-700">- calculate the water mass from the plasma mass</span> <br/>
+                        ma = (90/100)*1.3475kg = (90/100)*(13475/10000)kg = 121275/100000kg = <span className="underline decoration-double text-green-700">1.21275 kg</span> <br/>
                         
-                        d) <span className="text-green-700">Calculați masa elementelor figurate știin că acestea reprezintă 45% din masa sângelui.</span> <br/>
-                        mef = (45/100)*2,45kg = (45/100)*(245/100)kg = 11025/10000kg = <span className="underline decoration-double text-green-700">1,1025 kg</span> <br/>
+                        d) <span className="text-green-700">Calculate the mass of formed elements knowing they represent 45% of blood mass.</span> <br/>
+                        mef = (45/100)*2.45kg = (45/100)*(245/100)kg = 11025/10000kg = <span className="underline decoration-double text-green-700">1.1025 kg</span> <br/>
                         <br/>
 
-                        B Se încrucișează două soiuri de cartofi, unul cu tuberculi mici (m) și de culoare roșie (R) și altul cu tuberculi mari (M) și de culoare
-                        galbenă (r). Părinții sunt homozigoți pentru ambele caractere. În F1 se obțin organisme hibride. Prin încrucișarea între ei a hibrizilor din F1, se obțin în F2 16 combinații de factori ereditari. <br/>
-                        Stabiliți următoarele: <br/>
-                        a) genotipul părinților; <br/>
-                        b) tipurile de gameți formați de organismele din F1; <br/>
-                        c) numărul combinațiilor din F2 care sunt heterozigote pentru ambele caractere; genotipul organismelor din F2 care au tuberculi mici, de culoare
-                        galbenă. <br/>
-                        d) Completați această problemă cu o altă cerință pe care o formulați voi, folosind informații științifice specifice biologiei;
-                        rezolvați cerința pe care ați propus-o. <br/>
-                        Scrieți toate etapele rezolvării problemei. <br/>
+                        B Two potato varieties are crossed, one with small tubers (m) and red color (R) and the other with large tubers (M) and yellow color (r). The parents are homozygous for both characters. Hybrids are obtained in F1. By crossing the F1 hybrids among themselves, 16 combinations of hereditary factors are obtained in F2. <br/>
+                        Establish the following: <br/>
+                        a) genotype of the parents; <br/>
+                        b) types of gametes formed by F1 organisms; <br/>
+                        c) number of combinations in F2 that are heterozygous for both characters; genotype of F2 organisms that have small tubers, yellow color. <br/>
+                        d) Complete this problem with another requirement you formulate yourself, using scientific information specific to biology; solve the requirement you proposed. <br/>
+                        Write all the solving steps. <br/>
                         <br/>
 
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare</span> <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
 
-                        a) genotipurile părinților: <span className="text-green-700">mmRR și MMrr</span> <br/>
-                        b) tipurile de gameți produșui de indivizii din F1: <span className="text-green-700">  MR, Mr, mR, mr</span> <br/>
-                        c) numărul combinațiilor din F2 care sunt heterozigote pentru ambele caractere:<span className="text-green-700"> 4/16 </span> <br/>
-                        genotipul organismelor din F2 care au tuberculi mici, de culoare galbenă: <span className="text-green-700">mmRR  </span> <br/>
-                        d) <span className="text-green-700">Precizați numărul combinațiilor dublu homozigote din F2.</span> <br/>
-                        numărul combinațiilor dublu homozigote din F2: <span className="text-green-700">4/16 </span> <br/>
+                        a) Parents’ genotypes: <span className="text-green-700">mmRR and MMrr</span> <br/>
+                        b) Types of gametes produced by F1 individuals: <span className="text-green-700"> MR, Mr, mR, mr</span> <br/>
+                        c) Number of combinations in F2 that are heterozygous for both characters: <span className="text-green-700"> 4/16 </span> <br/>
+                        Genotype of F2 organisms with small tubers, yellow color: <span className="text-green-700">mmRR  </span> <br/>
+                        d) <span className="text-green-700">Specify the number of double homozygous combinations in F2.</span> <br/>
+                        Number of double homozygous combinations in F2: <span className="text-green-700">4/16 </span> <br/>
                      </p>
                      <br/>
                      <div className="relative overflow-x-auto shadow-md sm:rounded-lg">
@@ -199,7 +195,7 @@
                                         <th scope="col" className="px-6 py-3 bg-green-50 bg-lime-200">mR</th>
                                         <th scope="col" className="px-6 py-3 bg-green-50 bg-lime-300">mr</th>
                                     </tr>
-                                </thead>
+                                </thead> 
                                 <tbody>
                                     <tr className="border-b border-lime-400 dark:border-green-700 text-green-900">
                                         <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-green-50 dark:text-white bg-lime-300">MR</th>
@@ -230,76 +226,76 @@
                                         <td className="px-6 py-4 bg-green-50 bg-lime-300">mmrr</td>
                                     </tr>
                                 </tbody>
-                            </table>
-                        </div>
- 
-                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
+                                </table>
+                                </div>
 
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subiectul al III-lea</h2>
+                                <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-                        <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
- 
-                     <p className="mt-0 text-lg text-grey-600">
-                        1.  Sitemul digestiv al mamiferelor este alcătuit din tub digestiv și glande anexe. <br/>
-                        a) Numiți trei componente ale tubului digestiv al mamiferelor. <br/>
-                        b) Scrieți un argument în favoarea afirmației următoare: „Compoziția chimică a salivei se deosebește de compoziția chimă a bilei". <br/>
-                        c) Construiți patru enunțuri afirmative, câte două pentru fiecare conținut, utilizând limbajul științific adecvat. <br/>
-                        Folosiți, în acest scop, informații referitoare la următoarele conținuturi: <br/>
-                        - Sucul pancreatic <br/>
-                        - Hepatita <br/>
-                        <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare</span> <br/>
-                        a) Cavitatea bucală, faringele, esofagul <br/>
-                        b) Bila nu conține enzime, ci săruri biliare cu rol în emulsionarea grăsimilor, saliva conține amilază salivară, enzimă glicolitică.<br/>
-                        c) <span className="text-green-500">Sucul pancreatic este  secretat de pancreasul exocrin. <br/> 
-                        Conține enzime glicolitice, precum amilaza pancreatică, lipolitice, precum amilaza pancreatică și enzime proteolitice, precum tripsina. </span> <br/>
-            
-                        <span className="text-lime-700">Hepatita este o boală a sistemului digestiv care afectează ficatul. <br/> 
-                        Este caracterizată prin distrugerea celulelor hepatice și proliferarea țesutului conjunctiv din interiorul ficatului.</span><br/>
-                        <br/>
-                        2. Urechea este unul dintre organele de simț care împreună cu sistemul nervos au rol în realizarea sensibilității la mamifere. <br/>
-                        a) Precizați numele celor trei oscioare din urechea medie a mamiferelor. <br/>
-                        b) Explicați afirmația următoare: „Leziuni la nivelul urechii interne a mamiferelor pot afecta menținerea echilibrului corpului". <br/>
-                        c) Alcătuiți un minieseu intitulat „Boli ale sistemului nevrvos central la om", folosind informația științifică adecvată. <br/>
-                        În acest scop, respectați următoarele etape: <br/>
-                        - enumerarea a șase noțiuni specifice acestei teme; <br/>
-                        - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect și în corelație noțiunile enumerate. <br/>
-                        <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare</span> <br/>
-                        a)  Ciocan, nicovală, scăriță<br/>
-                        b)  La nivelul urechii interne se găsesc receptori ai echilibrului. Lezarea segmentului periferic al organului de simț face imposibilă recepționarea stimulului din mediul exterior și, prin urmare, nu se mai transmite influxul nervos mai departe către cortex.<br/>  
-                        c) - Boala Parkinson <br/>
-                        - distrugere neuroni <br/>
-                        - rigiditate musculară <br/>
-                        - paralizia <br/>
-                        - monoplegie <br/>
-                        - hemiplagie <br/>
-                        <br/>
-                        <span className="underline decoration-double text-green-700">Boala Parkinson</span> este o boală a sistemului nervos provocată de <span className="underline decoration-double text-green-700">distrugerea progresivă a neuronilor</span>, se manifestă prin <span className="underline decoration-double text-green-700">rigiditate musculară</span>,tremurări ale membrelor și capului. <br/>
-                        <span className="underline decoration-double text-green-700">Paralizia</span> este provocată de inflamarea sau lezarea unui nerv cauzată de infecții, tumori, traumatisme ale măduvei, creierului și se manifestă prin: <span className="underline decoration-double text-green-700">monoplegie</span> - paralizia unui membru, <span className="underline decoration-double text-green-700">hemiplagie</span> - paralizia jumătății drepte/stângi a corpului, tetraplagie - paralizia tuturor membrelor.
+                                <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subject III</h2>
 
-                     </p>
+                                <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-                    <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
+                                <p className="mt-0 text-lg text-grey-600">
+                                    1. The digestive system of mammals consists of the digestive tube and accessory glands. <br/>
+                                    a) Name three components of the digestive tube of mammals. <br/>
+                                    b) Write an argument supporting the following statement: "The chemical composition of saliva differs from the chemical composition of bile." <br/>
+                                    c) Construct four affirmative sentences, two for each content, using appropriate scientific language. <br/>
+                                    Use information related to the following contents: <br/>
+                                    - Pancreatic juice <br/>
+                                    - Hepatitis <br/>
+                                    <br/>
+                                    <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
+                                    a) Oral cavity, pharynx, esophagus <br/>
+                                    b) Bile does not contain enzymes but bile salts that emulsify fats, saliva contains salivary amylase, a glycolytic enzyme.<br/>
+                                    c) <span className="text-green-500">Pancreatic juice is secreted by the exocrine pancreas. <br/> 
+                                    It contains glycolytic enzymes such as pancreatic amylase, lipolytic enzymes such as pancreatic lipase, and proteolytic enzymes such as trypsin. </span> <br/>
 
-                    <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Observație!</span> Toate sublinierile sau culorile sunt folosite în scopul evidențierii răspunsurilor corecte pentru a înțelege mai ușor, la examenul de bacalaureat NU FOLOSIM CULORI sau SUBLINIERI.<br/>
-                    </p>
-                 </div>
-             </div>
-         </div>
-         
+                                    <span className="text-lime-700">Hepatitis is a disease of the digestive system that affects the liver. <br/> 
+                                    It is characterized by the destruction of liver cells and proliferation of connective tissue inside the liver.</span><br/>
+                                    <br/>
+                                    2. The ear is one of the sense organs which, together with the nervous system, plays a role in the realization of sensitivity in mammals. <br/>
+                                    a) Specify the names of the three ossicles in the middle ear of mammals. <br/>
+                                    b) Explain the following statement: "Lesions at the level of the inner ear of mammals can affect the maintenance of body balance." <br/>
+                                    c) Compose a short essay entitled "Diseases of the human central nervous system," using appropriate scientific information. <br/>
+                                    For this, follow these steps: <br/>
+                                    - list six concepts specific to this topic; <br/>
+                                    - using these concepts, build a coherent text of three to four sentences, correctly and coherently using the listed terms. <br/>
+                                    <br/>
+                                    <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
+                                    a) Hammer, anvil, stirrup<br/>
+                                    b) The inner ear contains receptors for balance. Damage to the peripheral segment of the sense organ makes it impossible to receive stimuli from the external environment and, therefore, no nerve impulses are transmitted further to the cortex.<br/>  
+                                    c) - Parkinson's disease <br/>
+                                    - neuron destruction <br/>
+                                    - muscle rigidity <br/>
+                                    - paralysis <br/>
+                                    - monoplegia <br/>
+                                    - hemiplegia <br/>
+                                    <br/>
+                                    <span className="underline decoration-double text-green-700">Parkinson's disease</span> is a disease of the nervous system caused by the <span className="underline decoration-double text-green-700">progressive destruction of neurons</span>, manifested by <span className="underline decoration-double text-green-700">muscle rigidity</span>, tremors of the limbs and head. <br/>
+                                    <span className="underline decoration-double text-green-700">Paralysis</span> is caused by inflammation or injury of a nerve due to infections, tumors, trauma of the spinal cord or brain and is manifested by: <span className="underline decoration-double text-green-700">monoplegia</span> - paralysis of one limb, <span className="underline decoration-double text-green-700">hemiplegia</span> - paralysis of the right/left half of the body, tetraplegia - paralysis of all limbs.
+
+                                </p>
+
+                                <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
+
+                                <p className="mt-0 text-lg text-grey-600">
+                                    <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Note!</span> All underlines or colors are used only to highlight the correct answers for easier understanding. At the baccalaureate exam, DO NOT USE COLORS or UNDERLINES.<br/>
+                                </p>
+                                </div>
+                                </div>
+                                </div>
+
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/bac/model/7')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Modelul anterior 
+        Previous model 
         </span>
         <span onClick={()=> void router.push('/bac/model/9')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următorul model 
+        Next model 
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
-        </div>           
- 
+        </div>
+           
          </>
      )
  }

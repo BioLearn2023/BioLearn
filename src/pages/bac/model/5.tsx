@@ -1,194 +1,190 @@
- /* eslint-disable @next/next/no-img-element */
- /* eslint-disable react/no-unescaped-entities */
- import React from "react"
- import { useRouter } from "next/router";
- export default function Model() {
-    const router = useRouter();
-     return(
-         <>
-         <div
-        className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
-        aria-hidden="true"
-    >
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react/no-unescaped-entities */
+import React from "react"
+import { useRouter } from "next/router";
+export default function Model() {
+   const router = useRouter();
+    return(
+        <>
         <div
-            className="relative left-[calc(50%-20rem)] aspect-[1155/678] w-[27.125rem] -translate-x-1 rotate-[30deg] bg-gradient-to-tr from-green-500 to-green-500 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
-            style={{
-                clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
-            }} />
-        </div><div
-            className="absolute inset-x-0 -top-70 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-100"
-            aria-hidden="true"
-    >
-            <div
-                className="relative left-[calc(50%-11rem)] aspect-[650/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-emerald-300 to-green-900 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
-                style={{
-                    clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
-                }} />
-        </div><div
-            className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
-            aria-hidden="true"
-        >
-            <div
-                className="relative right-[calc(0%+11rem)] aspect-[600/600] w-[36.125rem] -translate-x-1/2  rotate-[30deg] bg-gradient-to-tr from-lime-600 to-emerald-950 opacity-30 sm:left-[calc(50%+15rem)] sm:w-[72.1875rem]"
-                style={{
-                    clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
-                }} />
-        </div>
-        <div
-        className="absolute inset-x-0 mt-[69rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
-        aria-hidden="true"
-    >
-        <div
-            className="relative left-[calc(50%-20rem)] aspect-[2600/2600] w-[27.125rem] -translate-x-1 rotate-[100deg] bg-gradient-to-tr from-lime-300 to-green-400 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
-            style={{
-                clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
-            }} />
-        </div>
-        <div
-        className="absolute inset-x-0 mt-[120rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
-        aria-hidden="true"
-    >
-        <div
-            className="relative left-[calc(50%-20rem)] aspect-[2400/2300] w-[27.125rem] -translate-x-1 rotate-[100deg] bg-gradient-to-tr from-lime-300 to-green-400 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
-            style={{
-                clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
-            }} />
-        </div>
-        <div
-        className="absolute inset-x-0 mt-[200rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
-        aria-hidden="true"
-    >
-        <div
-            className="relative left-[calc(50%-20rem)] aspect-[2600/2600] w-[27.125rem] -translate-x-1 rotate-[180deg] bg-gradient-to-tr from-lime-300 to-green-400 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
-            style={{
-                clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
-            }} />
-        </div>
-        <div
-        className="absolute inset-x-0 mt-[250rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
-        aria-hidden="true"
-    >
-        <div
-            className="relative left-[calc(50%-20rem)] aspect-[2400/2400] w-[27.125rem] -translate-x-1 rotate-[230deg] bg-gradient-to-tr from-lime-300 to-green-400 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
-            style={{
-                clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
-            }} />
-        </div>
+       className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+       aria-hidden="true"
+   >
+       <div
+           className="relative left-[calc(50%-20rem)] aspect-[1155/678] w-[27.125rem] -translate-x-1 rotate-[30deg] bg-gradient-to-tr from-green-500 to-green-500 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+           style={{
+               clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
+           }} />
+       </div><div
+           className="absolute inset-x-0 -top-70 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-100"
+           aria-hidden="true"
+   >
+           <div
+               className="relative left-[calc(50%-11rem)] aspect-[650/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-emerald-300 to-green-900 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+               style={{
+                   clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
+               }} />
+       </div><div
+           className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+           aria-hidden="true"
+       >
+           <div
+               className="relative right-[calc(0%+11rem)] aspect-[600/600] w-[36.125rem] -translate-x-1/2  rotate-[30deg] bg-gradient-to-tr from-lime-600 to-emerald-950 opacity-30 sm:left-[calc(50%+15rem)] sm:w-[72.1875rem]"
+               style={{
+                   clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
+               }} />
+       </div>
+       <div
+       className="absolute inset-x-0 mt-[69rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+       aria-hidden="true"
+   >
+       <div
+           className="relative left-[calc(50%-20rem)] aspect-[2600/2600] w-[27.125rem] -translate-x-1 rotate-[100deg] bg-gradient-to-tr from-lime-300 to-green-400 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+           style={{
+               clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
+           }} />
+       </div>
+       <div
+       className="absolute inset-x-0 mt-[120rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+       aria-hidden="true"
+   >
+       <div
+           className="relative left-[calc(50%-20rem)] aspect-[2400/2300] w-[27.125rem] -translate-x-1 rotate-[100deg] bg-gradient-to-tr from-lime-300 to-green-400 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+           style={{
+               clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
+           }} />
+       </div>
+       <div
+       className="absolute inset-x-0 mt-[200rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+       aria-hidden="true"
+   >
+       <div
+           className="relative left-[calc(50%-20rem)] aspect-[2600/2600] w-[27.125rem] -translate-x-1 rotate-[180deg] bg-gradient-to-tr from-lime-300 to-green-400 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+           style={{
+               clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
+           }} />
+       </div>
+       <div
+       className="absolute inset-x-0 mt-[250rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+       aria-hidden="true"
+   >
+       <div
+           className="relative left-[calc(50%-20rem)] aspect-[2400/2400] w-[27.125rem] -translate-x-1 rotate-[230deg] bg-gradient-to-tr from-lime-300 to-green-400 opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+           style={{
+               clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 12.1%, 80.7% 52%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
+           }} />
+       </div>
  
-         <div className=" py-24 sm:py-12">
-             <div className="mx-auto max-w-7xl px-6 lg:px-2">
-                 <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Model bacalaureat</h2>
-                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
+        <div className=" py-24 sm:py-12">
+            <div className="mx-auto max-w-7xl px-6 lg:px-2">
+                <div className="mx-auto max-w-7xl lg:mx-0">
+                    <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Baccalaureate Model</h2>
+                    <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subiectul I</h2>
+                    <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subject I</h2>
 
-                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
+                    <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
-                     <p className="mt-0 text-lg text-grey-600">
-                        A Scrieți, pe foaia de examen, noțiunile cu care trebuie să completați spațiile libere din afirmația următoare, astfel încât aceasta să fie corectă.  <br/>
-                        La <span className="underline decoration-double text-green-700">microorganisme</span>, respirația <span className="underline decoration-double text-green-700">anaerobă</span> se mai numește și fermentație. <br/>
+                    <p className="mt-0 text-lg text-grey-600">
+                       A Write, on the exam sheet, the terms needed to fill the blanks in the following statement, so that it is correct.  <br/>
+                       In <span className="underline decoration-double text-green-700">microorganisms</span>, anaerobic respiration is also called fermentation. <br/>
+                       <br/>
+                       B Name two organelles common to plant and animal cells; write, next to each organelle, the role it fulfills. <br/>
+                       <span className="underline decoration-double text-green-700">Mitochondria - cellular respiration <br/>
+                       Ribosomes - protein synthesis </span><br/>
+                       <br/>
+                       C Write, on the exam sheet, the letter corresponding to the correct answer. Only one answer is correct. <br/>
+                       1. Laryngitis is a disease of the system: <br/>
+                       a) circulatory <br/>
+                       b) digestive <br/>
+                       c) excretory <br/>
+                       d) <span className="underline decoration-wavy text-green-700">respiratory</span> <br/>
+                       <br/>
+                        2. Dry indehiscent fruit, found in angiosperms, is: <br/>
+                        a) capsule <br/>
+                        b) <span className="underline decoration-wavy text-green-700">caryopsis</span> <br/>
+                        c) pod <br/>
+                        d) silique <br/>
                         <br/>
-                        B Numiți două organite comune celulei vegetale și celulei animale; scrieți, în dreptul fiecărui organit rolul îndeplinit. <br/>
-                        <span className="underline decoration-double text-green-700">Mitocondrie - respirația celulară <br/>
-                        Ribozomi - sinteza proteinelor </span><br/>
+                        3. Each daughter cell formed by the mitotic division of a mother cell with 2n = 6 chromosomes has: <br/>
+                        a) <span className="underline decoration-wavy text-green-700">2n = 6 chromosomes</span> <br/> 
+                        b) 2n = 3 chromosomes <br/>
+                        c) n = 6 chromosomes <br/>
+                        d) n = 3 chromosomes <br/>
                         <br/>
-                        C Scrieți, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns. <br/>
-                        1. Laringita este afecțiune a sistemului: <br/>
-                        a) circulator <br/>
-                        b) digestiv <br/>
-                        c) excretor <br/>
-                        d) <span className="underline decoration-wavy text-green-700">respirator</span> <br/>
+                        4. Photosynthesis in plants: <br/>
+                        a) takes place in the mitochondria <br/>
+                        b) consists of water decomposition in the dark phase <br/>
+                        c) <span className="underline decoration-wavy text-green-700">can be evidenced by the CO2 consumed (correct)</span> <br/>
+                        d) occurs in the absence of chlorophyll pigments <br/>
                         <br/>
-                        2. Frcut uscat indehiscent, întâlnit la angiosperme, este: <br/>
-                        a) capsula <br/>
-                        b) <span className="underline decoration-wavy text-green-700"> cariopsa</span> <br/>
-                        c) păstaia <br/>
-                        d) silicva <br/>
+                        5. In mammals, the stomach: <br/>
+                        a) is an accessory gland of the digestive system <br/>
+                        b) <span className="underline decoration-wavy text-green-700">is located in the abdominal cavity</span><br/>
+                        c) connects the pharynx and the esophagus <br/>
+                        d) participates in the realization of the relation function <br/>
                         <br/>
-                        3. Fiecare dintre celulele-fiice formate prin diviziunea mitotică a unei celule mamă cu 2n = 6 cromozomi are: <br/>
-                        a) <span className="underline decoration-wavy text-green-700">2n = 6 cromozomi</span> <br/> 
-                        b) 2n = 3 cromozomi <br/>
-                        c) n = 6 cromozomi <br/>
-                        d) n = 3 cromozomi <br/>
-                        <br/>
-                        4. Fotosinteza, la plante: <br/>
-                        a) are sediul în mitocondrie <br/>
-                        b) constă în descompunerea apei în faza de întuneric <br/>
-                        c) <span className="underline decoration-wavy text-green-700">se poate evidenția după CO2 consumat (corect)</span> <br/>
-                        d) se produce în absența pigmenților clorofilieni <br/>
-                        <br/>
-                        5. La mamifere, stomacul: <br/>
-                        a) este glandă anexă a sistemului digestiv <br/>
-                        b) <span className="underline decoration-wavy text-green-700">este localizat în cavitatea abdominală</span><br/>
-                        c) face legătura între faringe și esofag <br/>
-                        d) participă la realizarea funcției de relație <br/>
-                        <br/>
-                        D Citiți, cu atenție, afirmațiile următoare. Dacă apreciați că afirmația este adevărată, scrieți pe foaia de examen litera A. Dacă apreciați că afirmația este falsă, scrieți, pe foaia de examen, în dreptul cifrei corespunzătoare afirmației,litera F și modificați parțial afirmația pentru ca aceasta să devină adevărată. Folosiți, în acest scop, informația științifică adecvată. Nu se acceptă folosirea negației. <br/>
-                        <span className="text-red-700">1. La mamifere, în timpul unei expirații normale, plămânii își măresc volumul. F</span> <br/>
-                        <span className="text-red-700">2. Rinichii mamiferelor participă la realizarea funcției de relație. F</span> <br/>
-                        <span className="text-green-700">3. Sifilisul este o boală cu transmitere sexuală care poate afecta ambele sexe. A </span> <br/>
-                        <span className="text-green-700">1. La mamifere, în timpul unei expirații normale, plămânii își micșorează volumul. <br/>
-                        2. Rinichii mamiferelor participă la realizarea funcției de nutriție. </span><br/>
+                        D Carefully read the following statements. If you consider the statement true, write the letter A on the exam sheet. If you consider the statement false, write the letter F next to the corresponding number on the exam sheet and partially modify the statement to make it true. Use appropriate scientific information. The use of negation is not accepted. <br/>
+                        <span className="text-red-700">1. In mammals, during a normal expiration, the lungs increase their volume. F</span> <br/>
+                        <span className="text-red-700">2. Mammal kidneys participate in the realization of the relation function. F</span> <br/>
+                        <span className="text-green-700">3. Syphilis is a sexually transmitted disease that can affect both sexes. A </span> <br/>
+                        <span className="text-green-700">1. In mammals, during a normal expiration, the lungs decrease their volume. <br/>
+                        2. Mammal kidneys participate in the realization of the nutrition function. </span><br/>
                      </p>
 
                         <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                     
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subiectul al II-lea</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subject II</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                        A Sistemul circulator al mamiferelor este alcătuit din inimă și vase de sânge. Una dintre bolile sistemului circulator al omului sunt
-                        varicele. O manifestare a varicelor este dilatarea inegală și neregulată a venelor superficiale la membrele inferioare. <br/>
-                        a) Precizați o cauză a varicelor, alte două manifestări și două măsuri de prevenire a acestei boli. <br/>
-                        b) Explicați rolul valvulelor semilunare (sigmoide). <br/>
-                        c) Calculați masa apei din plasma sângelui unui nou-născut, știind următoarele: <br/>
-                        - sângele reprezintă 7% din masa corpului; <br/>
-                        - plasma sangvină reprezintă 55% din masa sângelui; <br/>    
-                        - apa reprezintă 90% din masa plasmei sangvine; <br/>
-                        - masa corpului nou-născutului este de 3,5 kg. <br/>
-                        Scrieți toate etapele parcurse pentru rezolvarea cerinței. <br/>
-                        d) Completați problema de la punctul c) cu o cerință pe care o formulați voi, folosind informații științifice specifice biologiei;
-                        rezolvați cerința pe care ați propus-o. <br/>
+                        A The circulatory system of mammals consists of the heart and blood vessels. One of the diseases of the human circulatory system is varicose veins. One manifestation of varicose veins is the uneven and irregular dilation of the superficial veins in the lower limbs. <br/>
+                        a) Specify one cause of varicose veins, two other manifestations, and two prevention measures for this disease. <br/>
+                        b) Explain the role of the semilunar (sigmoid) valves. <br/>
+                        c) Calculate the mass of water in the plasma of a newborn’s blood, knowing the following: <br/>
+                        - blood represents 7% of body mass; <br/>
+                        - blood plasma represents 55% of blood mass; <br/>    
+                        - water represents 90% of the blood plasma mass; <br/>
+                        - the newborn's body mass is 3.5 kg. <br/>
+                        Write all the steps taken to solve the requirement. <br/>
+                        d) Complete the problem from point c) with a requirement you formulate yourself, using scientific information specific to biology; solve the requirement you proposed. <br/>
                         <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare</span> <br/>
-                        a) Varice: <br/>
-                        <span className="underline decoration-double text-green-700">cauza:</span> statul prelungit în picioare <br/>
-                        <span className="underline decoration-double text-green-700">prevenire:</span> evitarea sedentarismului, evitarea tensiunii psihice și a ritmului neregulat și încordat de viață și de muncă <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
+                        a) Varicose veins: <br/>
+                        <span className="underline decoration-double text-green-700">cause:</span> prolonged standing <br/>
+                        <span className="underline decoration-double text-green-700">prevention:</span> avoiding sedentary lifestyle, avoiding psychological stress and irregular and tense life and work rhythm <br/>
 
-                        b)  Rolul valvulelor semilunare este de a împiedica întoarcerea sângelui în inimă. <br/>
+                        b) The role of the semilunar valves is to prevent blood from returning to the heart. <br/>
 
-                        c) <span className="text-green-700">- calculăm masa sângelui din masa corpului</span> <br/>
-                        ms = (7/100)*3,5kg = (7/100)*(35/10)kg = 245/1000kg = <span className="underline decoration-double text-green-700">0,245 kg</span> <br/>
-                        <span className="text-green-700">- calculăm masa plasmei sangvine din masa sângelui</span> <br/>
-                        mp = (55/100)*0,245kg = (55/100)*(245/1000)kg = 13475/100000kg = <span className="underline decoration-double text-green-700">0,13475 kg</span><br/>
-                        <span className="text-green-700">- calculăm masa apei din masa plasmei sangvine</span> <br/>
-                        ma = (90/100)*0,13475kg = (90/100)*(13475/100000)kg = 121275/1000000kg = <span className="underline decoration-double text-green-700">0,121275 kg</span> <br/>
+                        c) <span className="text-green-700">- calculate the blood mass from body mass</span> <br/>
+                        ms = (7/100)*3.5kg = (7/100)*(35/10)kg = 245/1000kg = <span className="underline decoration-double text-green-700">0.245 kg</span> <br/>
+                        <span className="text-green-700">- calculate the plasma mass from blood mass</span> <br/>
+                        mp = (55/100)*0.245kg = (55/100)*(245/1000)kg = 13475/100000kg = <span className="underline decoration-double text-green-700">0.13475 kg</span><br/>
+                        <span className="text-green-700">- calculate the water mass from plasma mass</span> <br/>
+                        ma = (90/100)*0.13475kg = (90/100)*(13475/100000)kg = 121275/1000000kg = <span className="underline decoration-double text-green-700">0.121275 kg</span> <br/>
 
-                        d) <span className="text-green-700">Calculați masa elementelor figurate știin că acestea reprezintă 45% din masa sângelui.</span> <br/>
-                        mef = (45/100)*0,245kg = (45/100)*(245/1000)kg = 1125/100000kg = <span className="underline decoration-double text-green-700">0,01125 kg</span><br/>
+                        d) <span className="text-green-700">Calculate the mass of formed elements knowing they represent 45% of blood mass.</span> <br/>
+                        mef = (45/100)*0.245kg = (45/100)*(245/1000)kg = 1125/100000kg = <span className="underline decoration-double text-green-700">0.01125 kg</span><br/>
                         <br/>
 
-                        B Se încrucișează un soi de lalele cu flori albe (A) și mari (M), fiind heterozigot pentru ambele caractere, cu un soi de lalele cu flori
-                        galbene (a) și mici (m). <br/>
-                        Stabiliți următoarele: <br/>
-                        a) genotipul celor doi părinți; <br/>
-                        b) tipurile de gameți formați de părintele heterozigot pentru ambele caractere; <br/>
-                        c) genotipul și fenotipul descendenților din F1, homozigoți pentru culoare și heterozigoți pentru mărimea florii. <br/>
-                        d) Completați această problemă cu o altă cerință pe care o formulați voi, folosind informații științifice specifice biologiei;
-                        rezolvați cerința pe care ați propus-o. <br/>
-                        Scrieți toate etapele rezolvării problemei. <br/>
+                        B A cross is made between a tulip variety with white (A) and large (M) flowers, heterozygous for both traits, and a tulip variety with yellow (a) and small (m) flowers. <br/>
+                        Establish the following: <br/>
+                        a) genotype of the two parents; <br/>
+                        b) types of gametes formed by the parent heterozygous for both traits; <br/>
+                        c) genotype and phenotype of F1 descendants, homozygous for color and heterozygous for flower size. <br/>
+                        d) Complete this problem with another requirement you formulate yourself, using scientific information specific to biology; solve the requirement you proposed. <br/>
+                        Write all the steps for solving the problem. <br/>
                         <br/>
 
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare</span> <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
 
-                        a) genotipul celor doi părinți: <span className="text-green-700">AaMm, aamm</span> <br/>
-                        b) tipurile de gameți formate de părintele heterozigot pentru ambele caractere: <span className="text-green-700">AM, Am, aM, am</span> <br/>
-                        c) genotip: <span className="text-green-700">aaMm</span> <br/>
-                        fenotip: <span className="text-green-700">flori galbene și mari</span> <br/>
-                        d) <span className="text-green-700">Precizați genotipul indivizilor din F1 dublu homozigoți.</span> <br/>
-                        Genotipul indivizilor din F1 dublu homozigoți este: <span className="text-green-700">aamm</span> <br/>
+                        a) genotype of the two parents: <span className="text-green-700">AaMm, aamm</span> <br/>
+                        b) types of gametes formed by the parent heterozygous for both traits: <span className="text-green-700">AM, Am, aM, am</span> <br/>
+                        c) genotype: <span className="text-green-700">aaMm</span> <br/>
+                        phenotype: <span className="text-green-700">yellow and large flowers</span> <br/>
+                        d) <span className="text-green-700">Specify the genotype of F1 individuals double homozygous.</span> <br/>
+                        The genotype of F1 double homozygous individuals is: <span className="text-green-700">aamm</span> <br/>
                      </p>
                      <br/>
                      <div className="relative overflow-x-auto shadow-md sm:rounded-lg">
@@ -216,55 +212,54 @@
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subiectul al III-lea</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl  text-emerald-900">Subject III</h2>
 
                         <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                        1. Sitemul nervos împreună cu organele de simț au rol în realizarea sensibilității la mamifere. <br/>
-                        a) Prezizați cele trei învelișuri ale globului ocular al mamiferelor. <br/>
-                        b) Explicați rolul oscioarelor din urechea medie a mamiferelor. <br/>
-                        c) Construiți patru enunțuri afirmative, câte două pentru fiecare conținut, utilizând limbajul științific adecvat. <br/>
-                        Folosiți, în acest scop, informații referitoare la următoarele conținuturi: <br/>
-                        - Componentele măduvei spinării <br/>
-                        - Limba - structură   <br/>
+                        1. The nervous system together with sensory organs has a role in realizing sensitivity in mammals. <br/>
+                        a) Specify the three layers of the eyeball in mammals. <br/>
+                        b) Explain the role of the ossicles in the middle ear of mammals. <br/>
+                        c) Construct four affirmative statements, two for each topic, using appropriate scientific language. <br/>
+                        Use, for this purpose, information related to the following topics: <br/>
+                        - Components of the spinal cord <br/>
+                        - Tongue - structure <br/>
                         <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare</span> <br/>
-                        a) Cele trei învelișuri ale globului ocular al mamiferelor sunt: sclerotica, coroida și retina. <br/>
-                        b) Rolul osciarelor este de a transmite vibrația timpanului produsă de undele sonore ferestrei ovale, pe care este fixată scărița, trasnmițând-o astfel mai departe către urechea internă, unde se găsesc receptori auditivi. <br/>
-                        c) <span className="text-green-500">Măduva spinării este formată din substanța cenușie la interior și substanța albă la exterior. <br/>
-                        Substanța cenușie are forma literei H și este formată din coarne anterioare, coarne posterioare și coarne laterale. </span> <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
+                        a) The three layers of the eyeball in mammals are: sclera, choroid, and retina. <br/>
+                        b) The role of the ossicles is to transmit the vibration of the eardrum produced by sound waves to the oval window, where the stirrup is fixed, thus transmitting it further to the inner ear, where auditory receptors are found. <br/>
+                        c) <span className="text-green-500">The spinal cord is composed of gray matter inside and white matter outside. <br/>
+                        The gray matter has the shape of the letter H and is made up of anterior horns, posterior horns, and lateral horns. </span> <br/>
             
-                        <span className="text-lime-700">Limba conține în mucoasa ei formațiuni numite muguri gustativi, grupați în papile gustative. <br/>
-                        Mugurii gustativi sunt formați din celule gustative cu cili și celule de susținere.</span><br/>
+                        <span className="text-lime-700">The tongue contains formations called taste buds in its mucosa, grouped in gustatory papillae. <br/>
+                        The taste buds are formed from gustatory cells with cilia and supporting cells.</span><br/>
                         <br/>
-                        2. Organismele vii sunt clasificate în cinci regnuri, două dintre acestea fiind Monera (Procariota), respectiv Protiste. <br/>
-                        a) Precizați alte două regnuri și câte un reprezentant pentru fiecare regn. <br/>
-                        b) Scrieți un argument în favoarea afirmației următoare: „Bacteriile sunt procariote". <br/>
-                        c) Alcătuiți un minieseu intitulat „Regnul Protiste". <br/>
-                        În acest scop, respectați următoarele etape: <br/>
-                        - enumărarea a șase noțiuni specifice acestei teme; <br/>
-                        - construirea, cu ajutorul acestora, a unui text coerent, format din trei-patru fraze, folosind corect și în corelație noțiunile enumerate. <br/>
+                        2. Living organisms are classified into five kingdoms, two of which are Monera (Prokaryotes) and Protists. <br/>
+                        a) Specify two other kingdoms and one representative for each kingdom. <br/>
+                        b) Write an argument in favor of the following statement: "Bacteria are prokaryotes." <br/>
+                        c) Compose a mini-essay entitled "The Kingdom Protista." <br/>
+                        For this purpose, follow the steps below: <br/>
+                        - list six notions specific to this topic; <br/>
+                        - build, using these, a coherent text of three to four sentences, correctly and coherently using the listed notions. <br/>
                         <br/>
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Rezolvare</span> <br/>
-                        a) <span className="underline decoration-double text-green-700"> Regnul Plante - Rosa Canina <br/>
-                        Regnul Animale - Canis Lupus </span> <br/>
-                        b) Bacteriile sunt procariote pentru că au un nucleu delimitat de membrana nucleară, materialul lor genetic se găsește liber în citoplasmă
-                        și se numește nucleoid. <br/>  
-                        c) - organisme eucariote unicelulare <br/>
-                        - pigment asimilator <br/>
-                        - nutriție autotrofă <br/>
-                        - algele <br/>
-                        - Clasa Sporozoare <br/>
-                        - Clasa Flagelate <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Solution</span> <br/>
+                        a) <span className="underline decoration-double text-green-700"> Kingdom Plantae - Rosa Canina <br/>
+                        Kingdom Animalia - Canis Lupus </span> <br/>
+                        b) Bacteria are prokaryotes because they have a nucleus not bounded by a nuclear membrane; their genetic material is freely found in the cytoplasm and is called a nucleoid. <br/>  
+                        c) - unicellular eukaryotic organisms <br/>
+                        - assimilatory pigment <br/>
+                        - autotrophic nutrition <br/>
+                        - algae <br/>
+                        - Class Sporozoa <br/>
+                        - Class Flagellates <br/>
                         <br/>
-                        Regnul Protista cuprinde <span className="underline decoration-double text-green-700">organisme eucatiote unicelulare</span> sau pluricelulare, care prezintă <span className="underline decoration-double text-green-700">nutriție autotrofă</span> sau heterotrofă. Cuprinde mai multe clase dintre care: <span className="underline decoration-double text-green-700">Clasa Flagelate</span>, din care face parte Euglena verde, Clasa Ciliate, reprezentant Parameciul și <span className="underline decoration-double text-green-700">Clasa Sporozoare</span> care cuprinde organisme parazite, cum este Plasmoidul malariei. Din Regnul Protista fac parte și <span className="underline decoration-double text-green-700">algele</span>, care în funcție de <span className="underline decoration-double text-green-700">pigmentul asimilator</span> pe care îl conțin se împart în: alge verzi, conțin pigment verde, clorofila, alge roșii, conțin pigment roșu (ficoeritrina) și alge brune (fucoxantina).
+                        The Kingdom Protista includes <span className="underline decoration-double text-green-700">unicellular or multicellular eukaryotic organisms</span> that present <span className="underline decoration-double text-green-700">autotrophic</span> or heterotrophic nutrition. It includes several classes among which: <span className="underline decoration-double text-green-700">Class Flagellates</span>, which includes Euglena viridis, Class Ciliates, represented by Paramecium, and <span className="underline decoration-double text-green-700">Class Sporozoa</span>, which includes parasitic organisms such as the malaria plasmodium. The Kingdom Protista also includes <span className="underline decoration-double text-green-700">algae</span>, which depending on the <span className="underline decoration-double text-green-700">assimilatory pigment</span> they contain are divided into: green algae containing green pigment, chlorophyll; red algae containing red pigment (phycoerythrin); and brown algae (fucoxanthin).
                      </p>
 
                     <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
 
                     <p className="mt-0 text-lg text-grey-600">
-                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Observație!</span> Toate sublinierile sau culorile sunt folosite în scopul evidențierii răspunsurilor corecte pentru a înțelege mai ușor, la examenul de bacalaureat NU FOLOSIM culori sau SUBLINIERI.<br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Note!</span> All underlines or colors are used to highlight correct answers for easier understanding; at the baccalaureate exam, WE DO NOT USE colors or UNDERLINES.<br/>
                     </p>
                  </div>
              </div>
@@ -273,16 +268,17 @@
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/bac/model/4')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Modelul anterior 
+        Previous model 
         </span>
         <span onClick={()=> void router.push('/bac/model/6')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următorul model 
+        Next model 
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>          
  
          </>
      )
- }
+ }  
+
  
  

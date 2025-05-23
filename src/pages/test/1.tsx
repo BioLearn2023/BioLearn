@@ -44,111 +44,112 @@ export const API_1 = {
 const Test1 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Cel mai lung segment al tubului digestiv este:', 3, -1, [
-      'faringele',
-      'esofagul',
-      'intestinul subțire',
-      'intestinul gros',
+    new test('The longest segment of the digestive tube is:', 3, -1, [
+      'pharynx',
+      'esophagus',
+      'small intestine',
+      'large intestine',
     ]),
 
-    new test('Lizozomii:', 2, -1, [
-      'sunt alcătuiți din ARN și enzime ',
-      'au rol în digestia intracelulară',
-      'sunt canalicule intracitoplasmatice',
-      'au, la periferie, o membrană dublă',
+    new test('Lysosomes:', 2, -1, [
+      'are made of RNA and enzymes',
+      'have a role in intracellular digestion',
+      'are intracellular canaliculi',
+      'have a double membrane at the periphery',
     ]),
 
-    new test('Este o lege mendeliană a eredității', 4, -1, [
-      'polenizarea încrucișată a plantelor hibride din prima generație',
-      'schimbul reciproc de gene între cromozomii pereche',
-      'impuritatea gameților din prima generație',
-      'segregarea independentă a perechilor de caractere',
+    new test('It is a Mendelian law of heredity', 4, -1, [
+      'cross-pollination of hybrid plants in the first generation',
+      'reciprocal exchange of genes between paired chromosomes',
+      'impurity of gametes in the first generation',
+      'independent segregation of character pairs',
     ]),
 
-    new test('Respirația branhială este caracteristică', 4, -1, [
-      'delfinilor',
-      'focilor',
-      'balenelor',
-      'guvizilor',
+    new test('Branchial respiration is characteristic of', 4, -1, [
+      'dolphins',
+      'seals',
+      'whales',
+      'gudgeons',
     ]),
 
-    new test('Mamiferele au:', 3, -1, [
-      'inima tetracamerală',
-      'rinichi lipsiți de glomeruli',
-      'plămâni cu alveole pulmonare',
-      'cavitate buco-faringiană',
+    new test('Mammals have:', 3, -1, [
+      'a four-chambered heart',
+      'kidneys without glomeruli',
+      'lungs with pulmonary alveoli',
+      'buccopharyngeal cavity',
     ]),
 
-    new test('Structura diencefalică este:', 4, -1, [
-      'bulbul rahidian',
-      'hipotalamusul',
-      'puntea lui Varolio',
-      'cerebelul',
+    new test('The diencephalic structure is:', 4, -1, [
+      'medulla oblongata',
+      'hypothalamus',
+      'pons Varolii',
+      'cerebellum',
     ]),
 
-    new test('Ribozomul:', 1, -1, [
-      'este format dintr-o subunitate mare și una mică',
-      'prezintă la periferie o membrană dublă',
-      'este alcătuit din canalicule intracitoplasmatice',
-      'cuprinde un număr mare de centrioli',
+    new test('The ribosome:', 1, -1, [
+      'is made of a large and a small subunit',
+      'has a double membrane at the periphery',
+      'is made of intracellular canaliculi',
+      'includes a large number of centrioles',
     ]),
 
-    new test('Nutriția autotrofă:', 2, -1, [
-      'se realizează prin preluare substanțelor organice din mediu',
-      'este caracteristică organismelor fotosintetizatoare',
-      'produce substanțe anorganice necesare hrănirii animalelor',
-      'este realizată saprofit sau parazit de către bacterii și ciuperci',
+    new test('Autotrophic nutrition:', 2, -1, [
+      'is realized by taking organic substances from the environment',
+      'is characteristic of photosynthetic organisms',
+      'produces inorganic substances necessary for animal feeding',
+      'is carried out saprophytically or parasitically by bacteria and fungi',
     ]),
 
-    new test('Mișcarea neorientată a unui organ al plantei este:', 2, -1, [
-      'hidrotropismul',
-      'seismonastia',
-      'chimiotactismul',
-      'geotropismul',
+    new test('The non-oriented movement of a plant organ is:', 2, -1, [
+      'hydrotropism',
+      'seismonasty',
+      'chemotactism',
+      'geotropism',
     ]),
 
-    new test('Individualizarea cromozomilor are loc în:', 2, -1, [
-      'telofază',
-      'profază',
-      'metafază',
-      'anafază',
+    new test('Chromosome individualization takes place in:', 2, -1, [
+      'telophase',
+      'prophase',
+      'metaphase',
+      'anaphase',
     ]),
 
-    new test('Structură a trunchiului cerebral este:', 2, -1, [
-      'bulbul rahidian',
-      'hipotalamusul',
-      'vermisul',
-      'cerebelul',
+    new test('A brainstem structure is:', 2, -1, [
+      'medulla oblongata',
+      'hypothalamus',
+      'vermis',
+      'cerebellum',
     ]),
 
-    new test('Aparatul Golgi:', 2, -1, [
-      'este format dintr-o subunitate mare și una mică',
-      'prezintă la periferie o membrană  simplă',
-      'conține enzime cu rol în digestia intracelulară',
-      'cuprinde la interior acizi nucleici și ribozomi',
+    new test('Golgi apparatus:', 2, -1, [
+      'is made of a large and a small subunit',
+      'has a simple membrane at the periphery',
+      'contains enzymes with a role in intracellular digestion',
+      'contains nucleic acids and ribosomes inside',
     ]),
 
-    new test('Nutriția heterotrofă:', 4, -1, [
-      'se realizează prin prelucrarea substanțelor anorganice din mediu',
-      'este caracteristică tuturor organismelor fotosintetizante',
-      'asigură formarea substanțelor anorganice necesare hrănirii animalelor',
-      'este realizata saprofit sau parazit de către bacterii și ciuperci',
+    new test('Heterotrophic nutrition:', 4, -1, [
+      'is realized by processing inorganic substances from the environment',
+      'is characteristic of all photosynthetic organisms',
+      'ensures the formation of inorganic substances necessary for animal feeding',
+      'is carried out saprophytically or parasitically by bacteria and fungi',
     ]),
 
-    new test('Mișcarea orientată a unei celule mobile este:', 3, -1, [
-      'hidrotropismul',
-      'seismonastia',
-      'chimiotactismul',
-      'geotropismul',
+    new test('The oriented movement of a mobile cell is:', 3, -1, [
+      'hydrotropism',
+      'seismonasty',
+      'chemotactism',
+      'geotropism',
     ]),
 
-    new test('Cromozomii se despiralează în:', 1, -1, [
-      'telofază',
-      'profază',
-      'metafază',
-      'anafază',
+    new test('Chromosomes unwind in:', 1, -1, [
+      'telophase',
+      'prophase',
+      'metaphase',
+      'anaphase',
     ]),
   ])!
+
   function shuffleQs(intrebari: test[]) {
     for (let i = intrebari.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1))
@@ -188,7 +189,7 @@ const Test1 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -202,11 +203,11 @@ const Test1 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
-    if (counter >= intrebari.length - 2) setWord('Finalizează testul')
+    if (counter >= intrebari.length - 2) setWord('Finish the quiz')
     if (counter == intrebari.length - 1) {
       setAnsarray(tempAns)
       setRender(false)

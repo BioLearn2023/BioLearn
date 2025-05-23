@@ -66,119 +66,119 @@ export const API_8 = {
 const Test8 = () => {
   const [usedTSet, setUsedSet] = useState(0)
   const [intrebari, setIntrebari] = useState([
-    new test('Grana este o structură caracteristică:', 1, -1, [
-      'cloroplastului',
-      'lizozomului',
-      'nucleului',
-      'mitocondriei',
+    new test('Grana is a characteristic structure of:', 1, -1, [
+      'chloroplast',
+      'lysosome',
+      'nucleus',
+      'mitochondrion',
     ]),
 
     new test(
-      'Fiecare celulă rezultată din mitoza unei celule mamă cu 2n = 46 de cromozomi, prezintă:',
+      'Each cell resulting from the mitosis of a mother cell with 2n = 46 chromosomes has:',
       3,
       -1,
       [
-        '2n = 23 cromozomi ',
-        'n = 23 cromozomi',
-        '2n = 46 cromozomi',
-        'n = 46 cromozomi',
+        '2n = 23 chromosomes ',
+        'n = 23 chromosomes',
+        '2n = 46 chromosomes',
+        'n = 46 chromosomes',
       ]
     ),
 
-    new test('Reprezintă o afecțiune a sistemului respirator:', 2, -1, [
-      'ateroscleroza',
-      'bronșita',
-      'candidoza',
-      'gastrita',
+    new test('Represents a respiratory system disease:', 2, -1, [
+      'atherosclerosis',
+      'bronchitis',
+      'candidiasis',
+      'gastritis',
     ]),
 
-    new test('Prin arterele pulmonare, sângele:', 2, -1, [
-      'ajunge în atriul drept',
-      'pleacă din ventriculul drept',
-      'ajunge în atriul stâng',
-      'pleacă din ventriculul stâng',
+    new test('Through the pulmonary arteries, the blood:', 2, -1, [
+      'arrives in the right atrium',
+      'leaves the right ventricle',
+      'arrives in the left atrium',
+      'leaves the left ventricle',
     ]),
 
     new test(
-      'La mamifere, o structură caracteristică urechii externe este:',
+      'In mammals, a characteristic structure of the outer ear is:',
       3,
       -1,
       [
-        'melcul membranos',
-        'lanțul de oscioare',
-        'conductul auditiv extern',
-        'trompa lui Eustachio',
+        'membranous cochlea',
+        'ossicle chain',
+        'external auditory canal',
+        'Eustachian tube',
       ]
     ),
 
-    new test('Celulele gliale:', 3, -1, [
-      'sunt anucleate',
-      'generează impulsurile nervoase',
-      'sintetizează mielina',
-      'sunt hrănite de către neuroni',
+    new test('Glial cells:', 3, -1, [
+      'are anucleate',
+      'generate nerve impulses',
+      'synthesize myelin',
+      'are nourished by neurons',
     ]),
 
-    new test('Chemoreceptorii gustativi:', 1, -1, [
-      'conțin celule în formă de fus',
-      'prezintă un cil la polul bazal',
-      'se numesc papile gustative',
-      'sunt numeroși la nivelul stomacului',
+    new test('Gustatory chemoreceptors:', 1, -1, [
+      'contain spindle-shaped cells',
+      'have a cilium at the basal pole',
+      'are called taste buds',
+      'are numerous in the stomach',
     ]),
 
-    new test('Bacilul Koch poate produce:', 3, -1, [
-      'astm bronșic',
-      'sifilis',
-      'TBC',
-      'ulcer gastro-intestinal',
+    new test('Koch’s bacillus can cause:', 3, -1, [
+      'bronchial asthma',
+      'syphilis',
+      'TB',
+      'gastrointestinal ulcer',
     ]),
 
-    new test('Un organism cu genotipul AABB:', 2, -1, [
-      'conține un singur set de cromozomi',
-      'este pur din punct de vedere genetic',
-      'are factori ereditari diferiți în fiecare pereche',
-      'produce patru tipuri diferite de gameți',
+    new test('An organism with genotype AABB:', 2, -1, [
+      'contains a single set of chromosomes',
+      'is genetically pure',
+      'has different hereditary factors in each pair',
+      'produces four different types of gametes',
     ]),
 
-    new test('Ficatul:', 1, -1, [
-      'este localizat sub diafragmă',
-      'se situează inferior față de intestinul gros',
-      'intră în alcătuirea tubului digestiv',
-      'participă la digestie prin secreția unui suc acid',
+    new test('The liver:', 1, -1, [
+      'is located under the diaphragm',
+      'is positioned inferior to the large intestine',
+      'is part of the digestive tract',
+      'participates in digestion by secreting an acidic juice',
     ]),
 
     new test(
-      'Descendenții unei familii în care mama are grupa A (II) homozigotă, iar tatăl grupa 0 (I) pot avea:',
+      'Offspring of a family where the mother has blood group A (II) homozygous and the father group O (I) can have:',
       1,
       -1,
-      ['grupa A (II)', 'grupa AB (IV)', 'grupa B (III)', 'grupa 0 (I)']
+      ['blood group A (II)', 'blood group AB (IV)', 'blood group B (III)', 'blood group O (I)']
     ),
 
-    new test('Paralizia unui membru se numește: ', 4, -1, [
-      'boala Parkinson',
-      'epilepsie',
-      'monohibridare',
-      'monoplegie',
+    new test('Paralysis of a limb is called:', 4, -1, [
+      'Parkinson’s disease',
+      'epilepsy',
+      'monohybridization',
+      'monoplegia',
     ]),
 
-    new test('Tenia:', 2, -1, [
-      'aparține protistelor',
-      'este parazită la om',
-      'reprezintă un vierme cilindric',
-      'trăiește liber în mediul acvatic',
+    new test('The tapeworm:', 2, -1, [
+      'belongs to protists',
+      'is a human parasite',
+      'is a roundworm',
+      'lives freely in aquatic environments',
     ]),
 
-    new test('Cuibărirea embrionului în mucoasa uterină se numește:', 3, -1, [
-      'fecundație',
+    new test('The embedding of the embryo in the uterine mucosa is called:', 3, -1, [
+      'fertilization',
       'nastie',
-      'nidație',
-      'polenizare',
+      'nidation',
+      'pollination',
     ]),
 
-    new test('Membrana celulară:', 1, -1, [
-      'delimitează citoplasma',
-      'este dispusă la periferia peretelui celular',
-      'lipsește la celula procariotă',
-      'conține celuloză',
+    new test('The cell membrane:', 1, -1, [
+      'delimits the cytoplasm',
+      'is arranged at the periphery of the cell wall',
+      'is absent in prokaryotic cells',
+      'contains cellulose',
     ]),
   ])
   const [shouldRender, setRender] = useState(false)
@@ -198,7 +198,7 @@ const Test8 = () => {
   const router = useRouter()
   let currAns = -1
   const [counter, setCounter] = useState(0)
-  const [currWord, setWord] = useState('Următoarea întrebare')
+  const [currWord, setWord] = useState('Next question')
   const activateButton = (id: number) => {
     currAns = id
     document.getElementById(id.toString())?.classList.add('outline')
@@ -212,12 +212,12 @@ const Test8 = () => {
     if (currAns === intrebari[counter]?.raspuns) {
       tempAns[counter] = 1
     }
-    if(currAns == -1) alert("Nu ai selectat niciun raspuns!")
+    if(currAns == -1) alert("You didn't select any answer!")
     setUsedSet(1)
     setCounter((count) => count + 1)
     document.getElementById(currAns.toString())?.classList.remove('outline')
     if (counter >= intrebari.length - 2) {
-      setWord('Finalizează testul')
+      setWord('Finish the quiz')
       console.log(usedSet)
     }
     if (counter == intrebari.length - 1) {

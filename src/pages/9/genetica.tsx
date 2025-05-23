@@ -48,29 +48,29 @@
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Genetica umană</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Human genetis</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Maladii metabolice (=genice)</span>  <br/>
-                         Sunt determinate de mutații ale genelor. <br/>
-                         a. Autozomale - apar prin mutația unor gene localizate în autozomi  <br/>
-                         <span className="underline decoration-wavy text-green-700">Dominante</span> <br/>
-                         - Polidactilia (deget suplimentar) <br/>
-                         - Sindactilia (unirea unor degete) <br/>
-                         - Prognatism (mărirea nasului, a buzei inferioare, a volumului visceral) <br/>
-                         <span className="underline decoration-wavy text-green-700">Recisive</span> <br/>
-                        - Albinism (absența melaninei din piele, păr, ochi) <br/>
-                        b. Heterozomale (sex-linkate)  <br/>
-                        Sunt determinate de mutații ale genelor plasate în heterozomi.  <br/>
-                         Hemofilia     <br/>
-                        Este o boală determinată de o genă recisivă plasată în cromozomul X și se transmite preferențial la sexul masculin <br/>
-                        - XhX (sănătoasă dar purtătoare) <br/>
-                        - XhXh (femeie hemofilică) <br/>
-                        - XhY (bărbat hemofilic) <br/>
-                         Daltonismul <br/>
-                         - este o boală ereditară determinată de gena recisivă plasată pe cromozomul X <br/>
-                        - cei afectați nu pot distinge culorile, cu precădere roșul de verde (sunt în special de sex masculin) <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Metabolic diseases (=gene-related)</span><br/>
+                         They are caused by mutations in genes. <br/>
+                         a. Autosomal - They arise due to mutations in genes located in autosomes.  <br/>
+                         <span className="underline decoration-wavy text-green-700">Dominant</span> <br/>
+                         - Polydactyly (extra finger) <br/>
+                         - Syndactyly (fusion of some fingers) <br/>
+                         - Prognathism (anlargment of the nose, lower lip, and visceral volume) <br/>
+                         <span className="underline decoration-wavy text-green-700">Recessive</span> <br/>
+                        - Albinism (absence of melanin in the skin, hair, and eyes) <br/>
+                        b. Heterosomal (sex-linked)  <br/>
+                        They are caused by mutations in genes placed in sex chromosomes.  <br/>
+                         Hemophifilia <br/>
+                        It is a disease caused by a recessive gene located on the X chromosome and is preferentially transmitted to males. <br/>
+                        - XhX (healthy but carrier) <br/>
+                        - XhXh (hemophilic woman) <br/>
+                        - XhY (hemophilic man) <br/>
+                         Color blindness <br/>
+                        - It is an inherited disease caused by a recessive gene located on the X chromosome. <br/>
+                        - Affected individuals cannot distinguish colors, particularly red from green (they are mostly male). <br/>
                         <br/>
                         <div className="flex justify-end mr-[9%]">
                             <img src="/images/albinism.jpg" width={200} height={200} alt="Picture of the author" className="rounded-lg"/>
@@ -84,27 +84,27 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Maladii cromozomiale</span> <br/>
-                         Pot afecta: <br/>
-                         - strcutura cromozomială <br/>
-                         - numărul cromozomilor <br/>
-                         a. Structurale <br/>
-                         - sindromul Cri du Chat (apare prin ruperea brațului scurt al unui cromozom din perechea 5) <br/>
-                         b. Numerice <br/>
-                         - pot afecta autozomii, heterozomii <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Chromosomal diseases</span> <br/>
+                         They can affect: <br/>
+                         - chromosomal structure <br/>
+                         - the number of chromosomes <br/>
+                         a. Structural <br/>
+                         - Cri du Chat syndrome (occurs due to the breakage of the short arm of a chromosome from pair 5) <br/>
+                         b. Numerical <br/>
+                         - they can affect autosomes and heterosomes <br/>
                      </p>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Maladii autozomale</span> <br/>
-                         - afectează cromozomii din celulele somatice în urma nondisjuncției perechilor de cromozomi în meioză <br/>
-                        Ex: Trisomia 21 = Sindromul Down, 2n=47 <br/>
-                        Exemple: <br/>
-                        - Trisomia X (XXX, 2n=47): afectează femeile <br/>
-                        - Sindromul Klinefelter (XXY, 2n=47): afectează bărbații <br/>
-                        - Sindromul Turner (XO, 2n=45): afectează femeile <br/>
-                     </p>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Autosomal diseases:</span> <br/>
+                         - they affect chromosomes in somatic cells due to nondisjunction of chromosome pairs during meiosis. <br/>
+                        Ex: Trisomy 21 = Down syndrome, 2n=47 <br/>
+                        Examples: <br/>
+                        - Trisomy X (XXX, 2n=47): affects females. <br/>
+                        - Klinefelter syndrome (XXY, 2n=47): affects males. <br/>
+                        - Turner syndrome (XO, 2n=45): affects females. <br/>
+                    </p>
                  </div>
              </div>
          </div>
@@ -112,10 +112,10 @@
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/9/grupe-de-sange')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/9/diversitate/diversitate')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>

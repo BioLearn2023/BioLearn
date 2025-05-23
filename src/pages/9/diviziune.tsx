@@ -48,29 +48,29 @@
          <div className=" py-24 sm:py-12">
              <div className="mx-auto max-w-7xl px-6 lg:px-2">
                  <div className="mx-auto max-w-7xl lg:mx-0">
-                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Diviziunea celulară</h2>
+                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl text-center text-emerald-900">Cell division</h2>
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600 text-center">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definiție: </span>Diviziunea celulară reprezintă înmulțirea celulelor: directă sau indirectă (mitoza și meioza). <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Definition: </span>Cell division represents the multiplication of cells: direct or indirect (mitosis and meiosis). <br/>
                      </div>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Diviziunea directă (=Amitoza)</span> <br/>
-                         X - specifică: <br/>
-                        - Procariotă <br/>
-                        - Eucariotă pe cale de diferențiere și regenerarea celulelor canceroase <br/>
-                        Nu presupune prezența cromozomilor evidențiați și membrana nucleară nu dispare. <br/>
-                        Se poate realiza prin: <br/>
-                        <span className="underline decoration-wavy text-green-700">a. Fragmentare (clirare)</span><br/>
-                        - apare pe un perete despărțitor <br/>
-                        - la alge verzi <br/>
-                        - celule epidermare <br/>
-                        <span className="underline decoration-wavy text-green-700">b. Strangulare </span> <br/>
-                        - nucleul se alungește și se fragmentează =&gt; 2 celule fiice <br/>
-                        - la bacterii <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Direct division (=Amitosis)</span> <br/>
+                         X - specific to: <br/>
+                        - Prokaryotic cells <br/>
+                        - Eukaryotic cells undergoing differentiation and regeneration of cancer cells. <br/>
+                        It does not involve the presence of highlighted chromosomes, and the nuclear membrane does not disappear. <br/>
+                        It can occur through: <br/>
+                        <span className="underline decoration-wavy text-green-700">a. Fragmentation (cleavage):</span><br/>
+                        - appears on a partition wall <br/>
+                        - in green algae <br/>
+                        - epidermal cells <br/>
+                        <span className="underline decoration-wavy text-green-700"> b. Constriction:</span> <br/>
+                        - the nucleus elongates and fragments → 2 daughter cells <br/>
+                        - in bacteria <br/>
                         <div className="flex justify-center -mt-72 ml-[60%]">
                             <img src="/images/amitoza.jpg" width={350} height={350} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -79,18 +79,18 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Diviziunea indirectă (=Cariochineza)</span> <br/>
-                         - presupune diviziunea nucleului = cariochineza și diviziunea citoplasmei = citochineza <br/>
-                        - este prezentă la eucariote <br/>
-                        - poate fi diviziune mitotică sau meiotică <br/>
+                        <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Indirect division (=Karyokinesis):</span> <br/>
+                        - involves nuclear division = karyokinesis and cytoplasmic division = cytokinesis <br/>
+                        - present in eukaryote <br/>
+                        - can be mitotic or meiotic division <br/>
                      </div>
  
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <div className="mt-0 text-lg text-grey-600 text-right">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Ciclul celular</span> <br/>
-                         - diviziunea este un fenomen ciclic <br/>
-                         Ciclul celular = ansamblu de transport care se produce din momentul formării celulei și până în momentul unei noi diviziuni <br/>
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">- Cell cycle:</span> <br/>
+                         - division is a cyclic phenomenon <br/>
+                         - Cell cycle = the set of processes occurring from the formation of a cell until the moment of a new division <br/>
                          <div className="flex justify-start -mt-24">
                             <img src="/images/ciclul-celular.jpg" width={250} height={250} alt="Picture of the author" className="rounded-lg"/>
                         </div>
@@ -99,19 +99,19 @@
                      <div className="mx-auto mt-10 max-w-2x1 gap-x-8 gap-y-6 border-t border-green-900 pt-10 sm:mt-10 sm:pt-10 lg:mx-0 lg:max-w-none"></div>
  
                      <p className="mt-0 text-lg text-grey-600">
-                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Interfaza</span> <br/>
-                         - Reprezintă perioada dintre două diviziuni. <br/>
-                         Interfaza presupune 3 etape: <br/>
-                         <span className="underline text-green-700">1. Presintetică</span><br/>
-                         - sinteza enzimelor <br/>
-                         - despiralizarea cromozomilor <br/>
-                         <span className="underline text-green-700">2. De sinteză</span>  <br/>
-                         - dublarea ADN-ului <br/>
-                         - dublarea proteinelor <br/>
-                         - cromozomii se condensează <br/>
-                         <span className="underline text-green-700">3. Postsintetică</span> <br/>
-                         - sinteza proteinelor necesare formării fusului de diviziune <br/>
-                         - sinteza ATP-ului
+                         <span className="underline decoration-wavy text-[#65a30d] font-extrabold">Interphase</span> <br/>
+                         - Represents the period between two divisions. <br/>
+                         Interphase consists of three stages: <br/>
+                         <span className="underline text-green-700">1. Presynthetic phase:</span><br/>
+                         - enzyme synthesis <br/>
+                        - chromosome despiralization <br/>
+                         <span className="underline text-green-700"> 2. Synthetic phase:</span>  <br/>
+                         - DNA duplication <br/>
+                         - protein duplication <br/>
+                         - Chromosomes condense <br/>
+                         <span className="underline text-green-700">3.  Postsynthetic phase:</span> <br/>
+                         - synthesis of proteins necessary for spindle formation <br/>
+                         - ATP synthesis
                      </p>
                  </div>
              </div>
@@ -120,10 +120,10 @@
         <div className="flex justify-center">
         <span onClick={()=> void router.push('/9/cromozomi')} className="inline-flex items-center px-4 py-2 mr-3 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
         <svg aria-hidden="true" className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
-        Lecția anterioară
+        Previous lesson
         </span>
         <span onClick={()=> void router.push('/9/mitoza')} className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-lime-500 bg-white border border-lime-500 rounded-lg hover:bg-lime-500 hover:text-white dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
-        Următoarea lecție
+        Next lesson
         <svg aria-hidden="true" className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
         </span>
         </div>       
